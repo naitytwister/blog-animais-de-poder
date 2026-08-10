@@ -27,7 +27,7 @@ export const SUPPORT = {
 export const RATINGS = {
   apiUrl:
     import.meta.env.PUBLIC_RATINGS_API_URL ||
-    'https://animotem-ratings.SEU_SUBDOMINIO.workers.dev',
+    'https://animotem-ratings.naitytwister21.workers.dev',
 };
 
 export const SUBNICHOS: Record<

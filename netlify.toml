@@ -23,3 +23,11 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     X-Frame-Options = "DENY"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# ── Redirecionamentos 301 ───────────────────────────────────────
+[[redirects]]
+  from = "/posts/o-rio-dentro-do-sonho-o-que-significa-sonhar-com-peixe/"
+  to = "/posts/o-que-significa-sonhar-com-peixe/"
+  status = 301
+  force = true
+
