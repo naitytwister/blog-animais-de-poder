@@ -30,6 +30,12 @@ export const RATINGS = {
     'https://animotem-ratings.naitytwister21.workers.dev',
 };
 
+export const ANALYTICS = {
+  cfWebAnalyticsToken:
+    import.meta.env.PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN ||
+    '03c9a04aeb094c87abb8f1ff59a7c2ce',
+};
+
 export const SUBNICHOS: Record<
   string,
   { titulo: string; descricao: string; slug_categoria: string; icone: string }

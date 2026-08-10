@@ -4,7 +4,7 @@ import '@fontsource-variable/public-sans';
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { SITE, SUPPORT } from '../lib/consts';
+import { SITE, SUPPORT, ANALYTICS } from '../lib/consts';
 
 interface Props {
   title?: string;
@@ -26,6 +26,8 @@ const {
 
 const canonical = `${SITE.url}${canonicalPath}`;
 const fullTitle = title.includes(SITE.shortName) ? title : `${title} — ${SITE.shortName}`;
+
+const cfAnalyticsToken = ANALYTICS.cfWebAnalyticsToken;
 
 const orgSchema = {
   '@context': 'https://schema.org',
@@ -110,5 +112,13 @@ const webSchema = {
     <script>
       import '../scripts/motion-animations.ts';
     </script>
+    {cfAnalyticsToken && (
+      <script
+        is:inline
+        defer
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon={JSON.stringify({ token: cfAnalyticsToken })}
+      />
+    )}
   </body>
 </html>
