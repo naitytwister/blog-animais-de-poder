@@ -8,4 +8,4 @@ workers_dev = true
 [[d1_databases]]
 binding = "DB"
 database_name = "animotem-ratings"
-database_id = "SUBSTITUA_PELO_ID_DO_BANCO"
+database_id = "5796e0c0-6bac-49e1-ba26-231b08c94282"
