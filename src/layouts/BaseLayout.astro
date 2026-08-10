@@ -25,7 +25,7 @@ const {
 } = Astro.props;
 
 const canonical = `${SITE.url}${canonicalPath}`;
-const fullTitle = canonicalPath ? `${title} — ${SITE.shortName}` : title;
+const fullTitle = title.includes(SITE.shortName) ? title : `${title} — ${SITE.shortName}`;
 
 const orgSchema = {
   '@context': 'https://schema.org',
