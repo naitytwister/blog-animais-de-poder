@@ -1,0 +1,140 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { SUBNICHOS } from '../../lib/consts';
+
+export function getStaticPaths() {
+  const bySlug: Record<string, string> = {};
+  for (const [id, sub] of Object.entries(SUBNICHOS)) {
+    bySlug[sub.slug_categoria] = id;
+  }
+  return Object.entries(bySlug).map(([slug_categoria, id]) => ({
+    params: { slug: slug_categoria },
+    props: { id },
+  }));
+}
+
+const { id } = Astro.props;
+const sub = SUBNICHOS[id];
+
+const posts = (await getCollection('posts'))
+  .filter((p) => p.data.subnicho === id)
+  .sort((a, b) => b.data.data.valueOf() - a.data.data.valueOf());
+
+const pilares = posts.filter((p) => p.data.tipo === 'pilar');
+const clusters = posts.filter((p) => p.data.tipo !== 'pilar');
+const featured = pilares[0];
+const list = [...clusters, ...pilares.slice(1)];
+---
+
+<BaseLayout
+  title={sub.titulo}
+  description={sub.descricao}
+  canonicalPath={`/categoria/${sub.slug_categoria}/`}
+>
+  <section class="cat-hero">
+    <div class="container-narrow">
+      <Breadcrumbs
+        items={[
+          { label: 'Início', href: '/' },
+          { label: sub.titulo },
+        ]}
+      />
+      <div class="cat-title">
+        <span class="cat-icon" aria-hidden="true">{sub.icone}</span>
+        <div>
+          <h1>{sub.titulo}</h1>
+          <p>{sub.descricao}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {featured && (
+    <section class="cat-featured">
+      <div class="container">
+        <PostCard post={featured} featured />
+      </div>
+    </section>
+  )}
+
+  {list.length > 0 && (
+    <section class="cat-list">
+      <div class="container">
+        <h2 class="section-title">{list.length > 1 ? 'Artigos' : 'Artigo'}</h2>
+        <div class="posts-grid">
+          {list.map((post) => (
+            <PostCard post={post} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {posts.length === 0 && (
+    <section class="cat-empty">
+      <div class="container-narrow">
+        <p>
+          Esta trilha ainda está sendo tecida. Em breve, novos guias chegarão. Enquanto isso,
+          explore a <a href="/">página inicial</a>.
+        </p>
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .cat-hero {
+    padding-block: var(--space-7) var(--space-5);
+  }
+
+  .cat-title {
+    display: flex;
+    gap: var(--space-5);
+    align-items: flex-start;
+    margin-top: var(--space-4);
+  }
+
+  .cat-icon {
+    font-size: var(--text-4xl);
+    color: var(--amber);
+    line-height: 1;
+  }
+
+  .cat-title h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin-bottom: var(--space-2);
+  }
+
+  .cat-title p {
+    color: var(--text-soft);
+    max-width: 52ch;
+    margin: 0;
+  }
+
+  .cat-featured {
+    padding-block: var(--space-3) var(--space-6);
+  }
+
+  .cat-list {
+    padding-block: var(--space-3) var(--space-8);
+  }
+
+  .section-title {
+    font-size: clamp(var(--text-xl), 3vw, var(--text-3xl));
+    margin-bottom: var(--space-6);
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+
+  .cat-empty {
+    padding-block: var(--space-8);
+    color: var(--text-soft);
+  }
+</style>

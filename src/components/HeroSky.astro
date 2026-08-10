@@ -1,0 +1,426 @@
+---
+---
+
+<div class="hero-sky" aria-hidden="true">
+  <div class="hero-sky-glow"></div>
+  <div class="hero-sky-moon"></div>
+  <canvas class="hero-sky-canvas"></canvas>
+  <div class="hero-sky-mist"></div>
+</div>
+
+<script>
+  const sky = document.querySelector<HTMLElement>('.hero-sky')!;
+  const canvas = document.querySelector<HTMLCanvasElement>('.hero-sky-canvas')!;
+  const ctx = canvas.getContext('2d')!;
+
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const DPR = Math.min(window.devicePixelRatio || 1, 2);
+
+  let W = 0;
+  let H = 0;
+  let stars: Star[] = [];
+  let embers: Ember[] = [];
+  let anchors: Anchor[] = [];
+  let trail: { x: number; y: number }[] = [];
+
+  const COLORS = {
+    star: '238, 240, 247',
+    indigo: '74, 93, 158',
+    amber: '232, 163, 61',
+    amberSoft: '246, 217, 160',
+  };
+
+  interface Star {
+    x: number;
+    y: number;
+    r: number;
+    layer: number;
+    phase: number;
+    speed: number;
+    base: number;
+    amber: boolean;
+  }
+  interface Ember {
+    x: number;
+    y: number;
+    r: number;
+    vy: number;
+    sway: number;
+    swayPhase: number;
+    alpha: number;
+  }
+  interface Anchor {
+    x: number;
+    y: number;
+    r: number;
+    phase: number;
+  }
+
+  const WOLF: [number, number, number][] = [
+    [0.46, 0.05, 0.5],
+    [0.54, 0.05, 0.5],
+    [0.44, 0.11, 0.4],
+    [0.56, 0.11, 0.4],
+    [0.47, 0.115, 0.55],
+    [0.53, 0.115, 0.55],
+    [0.50, 0.155, 0.5],
+    [0.455, 0.185, 0.4],
+    [0.545, 0.185, 0.4],
+    [0.50, 0.225, 0.45],
+  ];
+  const WOLF_LINKS: [number, number][] = [
+    [0, 2],
+    [0, 4],
+    [1, 3],
+    [1, 5],
+    [2, 4],
+    [3, 5],
+    [4, 6],
+    [5, 6],
+    [4, 7],
+    [5, 8],
+    [6, 9],
+    [7, 9],
+    [8, 9],
+  ];
+
+  function resize() {
+    W = sky.clientWidth;
+    H = sky.clientHeight;
+    canvas.width = Math.round(W * DPR);
+    canvas.height = Math.round(H * DPR);
+    canvas.style.width = W + 'px';
+    canvas.style.height = H + 'px';
+    ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+    seed();
+  }
+
+  function seed() {
+    const density = Math.round(Math.min(150, Math.max(70, (W * H) / 11000)));
+    stars = Array.from({ length: density }, () => {
+      const layer = 0.5 + Math.random() * 0.7;
+      return {
+        x: Math.random() * W,
+        y: Math.random() * H,
+        r: (0.6 + Math.random() * 1.4) * layer,
+        layer,
+        phase: Math.random() * Math.PI * 2,
+        speed: 0.5 + Math.random() * 1.2,
+        base: Math.random(),
+        amber: Math.random() < 0.16,
+      };
+    });
+
+    embers = Array.from({ length: Math.round(Math.min(22, Math.max(10, (W * H) / 52000))) }, () => ({
+      x: Math.random() * W,
+      y: H * (0.35 + Math.random() * 0.65),
+      r: 1 + Math.random() * 1.6,
+      vy: 0.12 + Math.random() * 0.28,
+      sway: 0.6 + Math.random() * 1.2,
+      swayPhase: Math.random() * Math.PI * 2,
+      alpha: 0.3 + Math.random() * 0.6,
+    }));
+
+    anchors = WOLF.map(([nx, ny, s]) => ({
+      x: W * 0.5 + (nx - 0.5) * W * 0.5,
+      y: H * 0.42 + (ny - 0.5) * H * 0.34,
+      r: (1.6 + s * 2.2) * 1.1,
+      phase: Math.random() * Math.PI * 2,
+    }));
+  }
+
+  let mouseX = 0;
+  let mouseY = 0;
+  let targetX = 0;
+  let targetY = 0;
+  let mouseIn = false;
+
+  function onPointerMove(e: PointerEvent) {
+    const rect = sky.getBoundingClientRect();
+    targetX = e.clientX - rect.left;
+    targetY = e.clientY - rect.top;
+    mouseIn = true;
+  }
+  function onPointerLeave() {
+    mouseIn = false;
+  }
+
+  window.addEventListener('pointermove', onPointerMove, { passive: true });
+  window.addEventListener('pointerdown', onPointerMove, { passive: true });
+  sky.addEventListener('pointerleave', onPointerLeave, { passive: true });
+
+  const reduced = reducedMotion;
+  let raf = 0;
+  let running = true;
+
+  function drawStatic() {
+    ctx.clearRect(0, 0, W, H);
+    for (const s of stars) {
+      ctx.beginPath();
+      ctx.arc(s.x, s.y, s.r * 0.9, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(${s.amber ? COLORS.amber : COLORS.star}, ${0.35 + s.base * 0.3})`;
+      ctx.fill();
+    }
+    for (const a of anchors) {
+      ctx.beginPath();
+      ctx.arc(a.x, a.y, a.r * 0.7, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(${COLORS.amberSoft}, 0.6)`;
+      ctx.fill();
+    }
+    drawWolfLinks(0.22);
+  }
+
+  function drawWolfLinks(strength: number) {
+    ctx.strokeStyle = `rgba(${COLORS.amber}, ${0.18 * strength})`;
+    ctx.lineWidth = 1;
+    for (const [a, b] of WOLF_LINKS) {
+      ctx.beginPath();
+      ctx.moveTo(anchors[a].x, anchors[a].y);
+      ctx.lineTo(anchors[b].x, anchors[b].y);
+      ctx.stroke();
+    }
+  }
+
+  function drawStar(s: Star, mx: number, my: number) {
+    const dx = mx - W / 2;
+    const dy = my - H / 2;
+    const px = s.x + dx * s.layer * 0.015;
+    const py = s.y + dy * s.layer * 0.015;
+    const twinkle = Math.sin(time * s.speed + s.phase) * 0.5 + 0.5;
+    const glow = Math.min(1, 150 / (Math.hypot(px - mx, py - my) + 60));
+    const alpha = Math.min(1, (0.25 + s.base * 0.45) * (0.4 + twinkle * 0.6) + glow * 0.35);
+    ctx.beginPath();
+    ctx.arc(px, py, s.r, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(${s.amber ? COLORS.amber : COLORS.star}, ${alpha})`;
+    ctx.fill();
+  }
+
+  function drawEmber(e: Ember, mx: number, my: number) {
+    const dx = e.x - mx;
+    const dy = e.y - my;
+    const dist = Math.hypot(dx, dy);
+    let ax = 0;
+    let ay = 0;
+    if (dist < 130 && dist > 0.01) {
+      const pull = (1 - dist / 130) * 0.06;
+      ax = (dx / dist) * pull;
+      ay = (dy / dist) * pull;
+    }
+    e.x += ax;
+    e.y += -e.vy + ay;
+    e.swayPhase += 0.012;
+    const sx = e.x + Math.sin(e.swayPhase) * e.sway;
+
+    const twinkle = Math.sin(time * 1.6 + e.swayPhase * 3) * 0.4 + 0.6;
+    const glow = Math.min(1, 90 / (dist + 40));
+    const alpha = e.alpha * twinkle + glow * 0.3;
+
+    ctx.beginPath();
+    ctx.arc(sx, e.y, e.r, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(${COLORS.amber}, ${Math.min(1, alpha)})`;
+    ctx.fill();
+    if (e.r > 2) {
+      const grad = ctx.createRadialGradient(sx, e.y, 0, sx, e.y, e.r * 4);
+      grad.addColorStop(0, `rgba(${COLORS.amber}, ${0.12 * Math.min(1, alpha)})`);
+      grad.addColorStop(1, 'rgba(232, 163, 61, 0)');
+      ctx.fillStyle = grad;
+      ctx.beginPath();
+      ctx.arc(sx, e.y, e.r * 4, 0, Math.PI * 2);
+      ctx.fill();
+    }
+
+    if (e.y < -20) {
+      e.y = H + 20;
+      e.x = Math.random() * W;
+    }
+  }
+
+  let time = 0;
+
+  function loop() {
+    if (!running) return;
+    raf = requestAnimationFrame(loop);
+    time += 0.016;
+
+    mouseX += (targetX - mouseX) * 0.09;
+    mouseY += (targetY - mouseY) * 0.09;
+
+    ctx.clearRect(0, 0, W, H);
+
+    for (const s of stars) drawStar(s, mouseX, mouseY);
+    for (const e of embers) drawEmber(e, mouseX, mouseY);
+
+    let wolfStrength = 0.25;
+    if (mouseIn) {
+      let closest = 1e9;
+      for (const a of anchors) {
+        const d = Math.hypot(a.x - mouseX, a.y - mouseY);
+        if (d < closest) closest = d;
+      }
+      wolfStrength = Math.min(1, 0.25 + (1 - Math.min(1, closest / 320)) * 0.85);
+    }
+    drawWolfLinks(wolfStrength);
+
+    for (const a of anchors) {
+      const d = mouseIn ? Math.hypot(a.x - mouseX, a.y - mouseY) : 9999;
+      const dA = Math.min(1, Math.max(0, 1 - d / 260));
+      const pulse = Math.sin(time * 1.4 + a.phase) * 0.5 + 0.5;
+      const alpha = 0.5 + dA * 0.5 + pulse * 0.15;
+      ctx.beginPath();
+      ctx.arc(a.x, a.y, a.r * (0.8 + dA * 0.4), 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(${COLORS.amberSoft}, ${Math.min(1, alpha)})`;
+      ctx.fill();
+    }
+
+    if (mouseIn) {
+      const near = stars
+        .filter((s) => {
+          const d = Math.hypot(s.x + (mouseX - W / 2) * s.layer * 0.015 - mouseX, s.y + (mouseY - H / 2) * s.layer * 0.015 - mouseY);
+          return d < 90;
+        })
+        .sort((a, b) => Math.hypot(a.x - mouseX, a.y - mouseY) - Math.hypot(b.x - mouseX, b.y - mouseY))
+        .slice(0, 5);
+
+      trail.push({ x: mouseX, y: mouseY });
+      if (trail.length > 22) trail.shift();
+
+      ctx.strokeStyle = 'rgba(246, 217, 160, 0.12)';
+      ctx.lineWidth = 1;
+      for (let i = 1; i < trail.length; i++) {
+        ctx.beginPath();
+        ctx.moveTo(trail[i - 1].x, trail[i - 1].y);
+        ctx.lineTo(trail[i].x, trail[i].y);
+        ctx.stroke();
+      }
+
+      ctx.strokeStyle = 'rgba(246, 217, 160, 0.28)';
+      ctx.lineWidth = 1;
+      for (const s of near) {
+        ctx.beginPath();
+        ctx.moveTo(mouseX, mouseY);
+        ctx.lineTo(s.x, s.y);
+        ctx.stroke();
+      }
+
+      const grad = ctx.createRadialGradient(mouseX, mouseY, 0, mouseX, mouseY, 70);
+      grad.addColorStop(0, 'rgba(246, 217, 160, 0.20)');
+      grad.addColorStop(1, 'rgba(246, 217, 160, 0)');
+      ctx.fillStyle = grad;
+      ctx.beginPath();
+      ctx.arc(mouseX, mouseY, 70, 0, Math.PI * 2);
+      ctx.fill();
+    }
+  }
+
+  window.addEventListener('resize', resize, { passive: true });
+
+  document.addEventListener('visibilitychange', () => {
+    running = !document.hidden;
+    if (running && !reduced) {
+      cancelAnimationFrame(raf);
+      loop();
+    }
+  });
+
+  resize();
+  if (reduced) {
+    drawStatic();
+  } else {
+    mouseX = W / 2;
+    mouseY = H * 0.4;
+    targetX = mouseX;
+    targetY = mouseY;
+    loop();
+  }
+</script>
+
+<style>
+  .hero-sky {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .hero-sky-glow {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(110% 85% at 82% -8%, rgba(232, 163, 61, 0.20), transparent 52%),
+      radial-gradient(120% 100% at 8% 112%, rgba(74, 93, 158, 0.40), transparent 58%),
+      linear-gradient(168deg, #0b1022 0%, #121936 46%, #1e2a5a 100%);
+  }
+
+  .hero-sky-moon {
+    position: absolute;
+    top: 8%;
+    right: 12%;
+    width: clamp(4rem, 9vw, 7.5rem);
+    height: clamp(4rem, 9vw, 7.5rem);
+    border-radius: 50%;
+    background: radial-gradient(circle at 38% 35%, #fdf3d9 0%, var(--amber-soft) 34%, rgba(232, 163, 61, 0.35) 62%, transparent 74%);
+    filter: blur(0.5px);
+    opacity: 0.92;
+    box-shadow:
+      0 0 40px rgba(232, 163, 61, 0.35),
+      0 0 120px rgba(232, 163, 61, 0.18);
+    animation: hero-moon-pulse 9s ease-in-out infinite;
+  }
+
+  .hero-sky-moon::after {
+    content: '';
+    position: absolute;
+    inset: 9%;
+    border-radius: 50%;
+    background: radial-gradient(circle at 46% 40%, rgba(11, 16, 34, 0.34) 0%, rgba(11, 16, 34, 0.12) 30%, transparent 60%);
+  }
+
+  .hero-sky-canvas {
+    position: absolute;
+    inset: 0;
+    display: block;
+  }
+
+  .hero-sky-mist {
+    position: absolute;
+    inset: auto -8% -12% -8%;
+    height: 38%;
+    background:
+      radial-gradient(45% 100% at 18% 100%, rgba(74, 93, 158, 0.22), transparent 70%),
+      radial-gradient(50% 100% at 62% 100%, rgba(232, 163, 61, 0.12), transparent 70%),
+      radial-gradient(42% 100% at 88% 100%, rgba(74, 93, 158, 0.18), transparent 70%);
+    filter: blur(18px);
+    animation: hero-mist-drift 16s ease-in-out infinite alternate;
+  }
+
+  @keyframes hero-moon-pulse {
+    0%,
+    100% {
+      opacity: 0.9;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.04);
+    }
+  }
+
+  @keyframes hero-mist-drift {
+    from {
+      transform: translateX(-1.5%) translateY(0);
+    }
+    to {
+      transform: translateX(1.5%) translateY(-2.5%);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-sky-moon {
+      animation: none;
+    }
+    .hero-sky-mist {
+      animation: none;
+    }
+  }
+</style>

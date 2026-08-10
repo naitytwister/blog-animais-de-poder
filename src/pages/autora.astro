@@ -1,0 +1,215 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { SITE, AUTHOR } from '../lib/consts';
+
+const posts = (await getCollection('posts'))
+  .filter((p) => p.data.autor === AUTHOR.name)
+  .sort((a, b) => b.data.data.valueOf() - a.data.data.valueOf());
+
+const profileSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  mainEntity: {
+    '@type': 'Person',
+    name: AUTHOR.name,
+    jobTitle: AUTHOR.role,
+    description: AUTHOR.bio,
+    image: `${SITE.url}${AUTHOR.avatar}`,
+    url: `${SITE.url}${AUTHOR.pagePath}`,
+    knowsAbout: ['Animais de poder', 'Xamanismo', 'Interpretação de sonhos', 'Cosmovisões originárias'],
+  },
+  url: `${SITE.url}${AUTHOR.pagePath}`,
+  inLanguage: SITE.locale,
+};
+---
+
+<BaseLayout
+  title={`${AUTHOR.name} — Sobre a autora`}
+  description={`Conheça ${AUTHOR.name}, ${AUTHOR.role}. ${AUTHOR.bio}`}
+  image={`${SITE.url}${AUTHOR.avatar}`}
+  canonicalPath={AUTHOR.pagePath}
+>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(profileSchema)} />
+
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: AUTHOR.name }]} />
+
+      <header class="author-hero">
+        <div class="author-avatar">
+          <img
+            src={AUTHOR.avatar}
+            alt={`Ilustração de ${AUTHOR.name}`}
+            width={192}
+            height={192}
+            loading="lazy"
+            onerror="this.style.display='none';this.nextElementSibling.style.display='grid'"
+          />
+          <span aria-hidden="true">{AUTHOR.name.charAt(0)}</span>
+        </div>
+        <div class="author-heading">
+          <h1>{AUTHOR.name}</h1>
+          <p class="author-role">{AUTHOR.role}</p>
+        </div>
+      </header>
+
+      <section class="author-section">
+        <h2>Quem escreve o {SITE.shortName}</h2>
+        <p>{AUTHOR.bio}</p>
+        <p>
+          O trabalho da autora é guiado por três escutas: a das tradições, que pede respeito ao
+          território cultural de cada povo; a do leitor, que chega ao blog em busca de sentido; e a
+          do próprio reino animal, que continua ensinando a quem aprende a silenciar.
+        </p>
+      </section>
+
+      <section class="author-section">
+        <h2>Sobre o nome {AUTHOR.name}</h2>
+        <p>
+          <strong>{AUTHOR.name}</strong> é um pseudônimo. A autora o usa por dois motivos
+          simples: preservar a separação entre a vida profissional e o trabalho autoral que ela
+          desenvolve aqui, e manter o foco das atenções inteiramente nas ideias — nunca em quem as
+          escreve.
+        </p>
+        <p>
+          Essa escolha é deliberada e transparente. O objetivo não é se esconder do leitor, e sim
+          garantir que o valor dos conteúdos fale primeiro. Toda a curadoria, os temas, a base de
+          cada texto e a seleção de imagens são humanos; a escrita final conta com auxílio de
+          ferramentas de inteligência artificial como copiloto editorial, sempre revisada e
+          direcionada pela autora. A identidade, a voz e a responsabilidade sobre cada palavra
+          publicada são dela.
+        </p>
+      </section>
+
+      <section class="author-section">
+        <h2>Princípios do trabalho</h2>
+        <ul>
+          <li>
+            <strong>Reverência:</strong> registrar o que cada cultura acredita, sempre enquadrando
+            como "na tradição X, acredita-se que..." — sem universalizar nem apropriar.
+          </li>
+          <li>
+            <strong>Escuta:</strong> cada símbolo conversa com a história única de quem o encontra;
+            não oferecemos respostas definitivas, e sim convites à reflexão.
+          </li>
+          <li>
+            <strong>Transparência:</strong> fatos culturais são sempre acompanhados de suas fontes;
+            leituras simbólicas são apresentadas como autorais.
+          </li>
+          <li>
+            <strong>Cuidado:</strong> espiritualidade não substitui acompanhamento profissional. Em
+            momentos de sofrimento, recomendamos buscar apoio de profissionais de saúde.
+          </li>
+        </ul>
+      </section>
+
+      {posts.length > 0 && (
+        <section class="author-section">
+          <h2>Escritos publicados</h2>
+          <p class="author-count">
+            {posts.length} {posts.length === 1 ? 'artigo' : 'artigos'} publicados
+          </p>
+          <div class="posts-grid">
+            {posts.map((post) => (
+              <PostCard post={post} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="author-section">
+        <h2>Entre em contato</h2>
+        <p>
+          Quer conversar sobre os conteúdos, sugerir um tema ou trocar ideias? Escreva pela{' '}
+          <a href="/contato/">página de contato</a>.
+        </p>
+      </section>
+
+      <Newsletter />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .author-hero {
+    display: flex;
+    gap: var(--space-5);
+    align-items: center;
+    margin: var(--space-5) 0 var(--space-7);
+  }
+
+  .author-avatar {
+    flex-shrink: 0;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 999px;
+    background: linear-gradient(135deg, var(--indigo), var(--amber));
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+  }
+
+  .author-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .author-avatar span {
+    display: none;
+    color: var(--white);
+    font-family: var(--font-display);
+    font-size: var(--text-3xl);
+    font-weight: 700;
+  }
+
+  .author-heading h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin-bottom: var(--space-1);
+  }
+
+  .author-role {
+    font-size: var(--text-lg);
+    color: var(--text-soft);
+    margin: 0;
+  }
+
+  .author-section {
+    margin-bottom: var(--space-7);
+  }
+
+  .author-section h2 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .author-section ul {
+    padding-left: var(--space-5);
+  }
+
+  .author-section li {
+    margin-bottom: var(--space-3);
+  }
+
+  .author-count {
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+    margin-bottom: var(--space-5);
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-6);
+  }
+</style>

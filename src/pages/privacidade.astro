@@ -1,0 +1,160 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/consts';
+
+const lastUpdate = '5 de agosto de 2026';
+---
+
+<BaseLayout
+  title="Política de Privacidade"
+  description="Política de Privacidade do Animo Tem: como coletamos, usamos e protegemos seus dados pessoais, em conformidade com a LGPD."
+  canonicalPath="/privacidade/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Política de Privacidade' }]} />
+      <h1>Política de Privacidade</h1>
+      <p class="updated">Atualizado em {lastUpdate}</p>
+      <p>
+        Esta Política explica como o {SITE.name} trata seus dados pessoais, em conformidade com a
+        <strong> Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong> e demais
+        legislações aplicáveis.
+      </p>
+
+      <section>
+        <h2>1. Dados que coletamos</h2>
+        <ul>
+          <li>
+            <strong>Dados fornecidos por você:</strong> nome e e-mail ao usar nossos formulários de
+            contato ou assinatura de newsletter.
+          </li>
+          <li>
+            <strong>Dados de navegação:</strong> dados técnicos como endereço IP, navegador,
+            páginas visitadas e tempo de permanência, coletados por ferramentas de análise e
+            publicidade.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>2. Finalidade e base legal</h2>
+        <p>Usamos seus dados para:</p>
+        <ul>
+          <li>Responder mensagens de contato (consentimento — art. 7º, I, LGPD).</li>
+          <li>Enviar a newsletter quando você assina (consentimento).</li>
+          <li>Mensurar o desempenho do site e melhorar a experiência (legítimo interesse).</li>
+          <li>Veicular publicidade, inclusive anúncios do Google AdSense.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>3. Cookies e publicidade</h2>
+        <p>
+          Utilizamos cookies próprios e de terceiros. Veja detalhes na nossa{' '}
+          <a href="/cookies/">Política de Cookies</a>.
+        </p>
+        <p>
+          Este site pode exibir anúncios do Google AdSense. O Google e seus parceiros podem usar
+          cookies para veicular anúncios baseados em visitas anteriores. Você pode desativar a
+          publicidade personalizada em{' '}
+          <a href="https://adssettings.google.com" rel="noopener noreferrer" target="_blank">
+            Configurações de Anúncios do Google
+          </a>{' '}
+          e saber mais em{' '}
+          <a
+            href="https://policies.google.com/technologies/partner-sites"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Como o Google usa dados de sites parceiros
+          </a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>4. Compartilhamento</h2>
+        <p>
+          Não vendemos seus dados. Podemos compartilhar dados com processadores contratados
+          (ferramentas de e-mail, hospedagem, análise) estritamente para as finalidades descritas,
+          e com terceiros quando exigido por lei.
+        </p>
+      </section>
+
+      <section>
+        <h2>5. Seus direitos (LGPD)</h2>
+        <p>Como titular de dados, você pode, a qualquer momento:</p>
+        <ul>
+          <li>Confirmar a existência de tratamento de seus dados.</li>
+          <li>Acessar, corrigir, atualizar ou solicitar a portabilidade.</li>
+          <li>Revogar seu consentimento ou solicitar a eliminação dos dados.</li>
+          <li>Opinar sobre o tratamento e solicitar revisão de decisões automatizadas.</li>
+        </ul>
+        <p>
+          Para exercer seus direitos, entre em contato pela <a href="/contato/">página de
+          contato</a>. Responderemos no prazo legal.
+        </p>
+      </section>
+
+      <section>
+        <h2>6. Retenção</h2>
+        <p>
+          Mantemos os dados apenas pelo tempo necessário às finalidades, ou pelo prazo exigido por
+          lei, e então os eliminamos ou anonimizamos.
+        </p>
+      </section>
+
+      <section>
+        <h2>7. Segurança</h2>
+        <p>
+          Adotamos medidas técnicas e organizacionais adequadas para proteger seus dados contra
+          acesso não autorizado, perda ou alteração.
+        </p>
+      </section>
+
+      <section>
+        <h2>8. Alterações</h2>
+        <p>
+          Esta política pode ser atualizada. A data de atualização no topo desta página indica a
+          versão vigente.
+        </p>
+      </section>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .page h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin: var(--space-5) 0 var(--space-2);
+  }
+
+  .updated {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--space-5);
+  }
+
+  .page section {
+    margin-bottom: var(--space-6);
+  }
+
+  .page h2 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .page ul {
+    padding-left: var(--space-5);
+  }
+
+  .page li {
+    margin-bottom: var(--space-2);
+  }
+</style>

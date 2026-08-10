@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE, AUTHOR } from '../lib/consts';
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: `Sobre — ${SITE.shortName}`,
+  url: `${SITE.url}/sobre/`,
+  inLanguage: SITE.locale,
+};
+---
+
+<BaseLayout
+  title="Sobre"
+  description="Conheça o Animo Tem: um espaço dedicado aos animais de poder, aos sonhos e à sabedoria ancestral, com respeito às tradições originárias."
+  canonicalPath="/sobre/"
+>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Sobre' }]} />
+      <h1>Sobre o {SITE.shortName}</h1>
+
+      <section>
+        <h2>Nossa missão</h2>
+        <p>
+          O {SITE.shortName} nasce de um desejo simples: devolver a escuta. Em um mundo de
+          respostas prontas e atalhos, propomos uma pausa — a pausa de quem aprende a ouvir os
+          sinais que o mundo natural oferece. Animais de poder, sonhos com animais, sincronicidades
+          e sabedoria ancestral são os fios que tecemos aqui.
+        </p>
+      </section>
+
+      <section>
+        <h2>Quem escreve</h2>
+        <p>
+          <strong>{AUTHOR.name}</strong> é {AUTHOR.role}. Dedica-se ao estudo das cosmovisões
+          originárias, da psicologia profunda e das tradições xamânicas, sempre com respeito à
+          autoria e ao território cultural de cada povo. Acreditamos que a sabedoria ancestral é
+          herança de toda a humanidade e merece ser partilhada com reverência — nunca apropriada.
+          <a href={AUTHOR.pagePath}>Conheça a autora</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>Como os conteúdos são produzidos</h2>
+        <p>
+          A curadoria dos temas, a pesquisa, a base de cada texto e a seleção de imagens são
+          feitas por pessoas. A redação final conta com auxílio de inteligência artificial como
+          copiloto editorial — uma forma de ganhar tempo sem abrir mão da direção criativa. Cada
+          publicação passa por revisão e é de responsabilidade da equipe do {SITE.shortName}.
+        </p>
+        <p>
+          O nome público do blog é um pseudônimo escolhido para separar a vida profissional da
+          produção autoral e manter o foco nas ideias. Essa escolha é transparente com o leitor:
+          o objetivo é que o conteúdo seja avaliado pelo que ele é, não por quem o escreveu. Você
+          pode ler os detalhes na <a href={AUTHOR.pagePath}>página da autora</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>Nossos princípios</h2>
+        <ul>
+          <li>
+            <strong>Respeito às tradições:</strong> registramos o que cada cultura acredita sem
+            universalizar ou descontextualizar. Quando apresentamos uma crença, enquadramos como
+            "na tradição X, acredita-se que...".
+          </li>
+          <li>
+            <strong>Escuta, não imposição:</strong> não oferecemos respostas definitivas, e sim
+            convites à reflexão. Cada símbolo conversa com a história única de quem o encontra.
+          </li>
+          <li>
+            <strong>Transparência:</strong> textos são informativos e culturais, e fontes reais são
+            citadas sempre que um fato cultural é apresentado.
+          </li>
+          <li>
+            <strong>Cuidado com o leitor:</strong> espiritualidade não substitui acompanhamento
+            profissional. Em momentos de sofrimento, recomendamos buscar apoio de profissionais de
+            saúde.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Entre em contato</h2>
+        <p>
+          Quer falar conosco? Envie uma mensagem pela nossa <a href="/contato/">página de
+          contato</a>.
+        </p>
+      </section>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .page h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin: var(--space-5) 0 var(--space-6);
+  }
+
+  .page section {
+    margin-bottom: var(--space-7);
+  }
+
+  .page h2 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .page ul {
+    padding-left: var(--space-5);
+  }
+
+  .page li {
+    margin-bottom: var(--space-3);
+  }
+</style>

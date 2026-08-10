@@ -1,0 +1,11 @@
+name = "animotem-ratings"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+compatibility_flags = ["nodejs_compat"]
+
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "animotem-ratings"
+database_id = "SUBSTITUA_PELO_ID_DO_BANCO"

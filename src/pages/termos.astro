@@ -1,0 +1,130 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/consts';
+
+const lastUpdate = '5 de agosto de 2026';
+---
+
+<BaseLayout
+  title="Termos de Uso"
+  description="Termos de uso do Animo Tem: regras para uso do conteúdo, direitos autorais e responsabilidade pelas informações publicadas."
+  canonicalPath="/termos/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Termos de Uso' }]} />
+      <h1>Termos de Uso</h1>
+      <p class="updated">Atualizado em {lastUpdate}</p>
+
+      <section>
+        <h2>1. Aceitação dos termos</h2>
+        <p>
+          Ao acessar o site {SITE.name} ({SITE.url}), você concorda com estes Termos de Uso. Se não
+          concordar com qualquer parte deles, pedimos que não utilize o site.
+        </p>
+      </section>
+
+      <section>
+        <h2>2. Conteúdo informativo e cultural</h2>
+        <p>
+          Todo o conteúdo deste site tem finalidade <strong>informativa, cultural e de entretenimento</strong>.
+          As interpretações simbólicas apresentadas refletem tradições e leituras autorais e não
+          constituem diagnóstico, tratamento, aconselhamento médico, psicológico, financeiro ou
+          religioso. Em caso de sofrimento emocional ou qualquer condição de saúde, procure um
+          profissional qualificado.
+        </p>
+      </section>
+
+      <section>
+        <h2>3. Propriedade intelectual</h2>
+        <p>
+          Os textos, imagens, marca e identidade visual do site são de titularidade do {SITE.name},
+          salvo indicação em contrário. É proibida a reprodução total ou parcial do conteúdo sem
+          autorização prévia, exceto para fins de citação com atribuição de fonte e link para o
+          artigo original.
+        </p>
+      </section>
+
+      <section>
+        <h2>4. Uso permitido</h2>
+        <p>Você pode:</p>
+        <ul>
+          <li>Ler, compartilhar e citar os conteúdos com atribuição.</li>
+          <li>Utilizar os guias e reflexões para fins pessoais.</li>
+          <li>Entrar em contato para solicitar uso editorial específico.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>5. Limitação de responsabilidade</h2>
+        <p>
+          Fazemos o possível para manter as informações atualizadas e precisas, mas não garantimos
+          exatidão ou integralidade. O uso do conteúdo é de responsabilidade do leitor. Não nos
+          responsabilizamos por perdas decorrentes do uso das informações publicadas.
+        </p>
+      </section>
+
+      <section>
+        <h2>6. Links externos e publicidade</h2>
+        <p>
+          O site pode conter links para páginas de terceiros e espaços publicitários. Não temos
+          controle sobre o conteúdo desses destinos. A publicidade veiculada é de responsabilidade
+          dos anunciantes e da plataforma de anúncios.
+        </p>
+      </section>
+
+      <section>
+        <h2>7. Alterações</h2>
+        <p>
+          Podemos atualizar estes Termos a qualquer momento. Alterações relevantes serão indicadas
+          pela data de atualização no topo desta página. O uso continuado do site após alterações
+          implica concordância com os novos termos.
+        </p>
+      </section>
+
+      <section>
+        <h2>8. Contato</h2>
+        <p>
+          Dúvidas sobre estes termos? Fale conosco pela <a href="/contato/">página de contato</a>.
+        </p>
+      </section>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .page h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin: var(--space-5) 0 var(--space-2);
+  }
+
+  .updated {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--space-6);
+  }
+
+  .page section {
+    margin-bottom: var(--space-6);
+  }
+
+  .page h2 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .page ul {
+    padding-left: var(--space-5);
+  }
+
+  .page li {
+    margin-bottom: var(--space-2);
+  }
+</style>

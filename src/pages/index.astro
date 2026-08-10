@@ -1,0 +1,250 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import Newsletter from '../components/Newsletter.astro';
+import HeroSky from '../components/HeroSky.astro';
+import { SUBNICHOS } from '../lib/consts';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => b.data.data.valueOf() - a.data.data.valueOf(),
+);
+const featured = posts[0];
+const rest = posts.slice(1);
+---
+
+<BaseLayout canonicalPath="/">
+  <section class="hero">
+    <HeroSky />
+    <div class="container hero-inner" data-animate-stagger="0.12">
+      <p class="hero-eyebrow" data-animate-item>Sabedoria ancestral · Sonhos · Sinais</p>
+      <h1 class="hero-title" data-animate-item>
+        Cada animal que cruza seu caminho tem uma <em>mensagem</em>.
+      </h1>
+      <p class="hero-sub" data-animate-item>
+        Explore os animais de poder, o significado de sonhar com animais e a sabedoria das
+        tradições ancestrais em um espaço de escuta, respeito e autoconhecimento.
+      </p>
+      <div class="hero-actions" data-animate-item>
+        <a class="btn btn-primary" href="/categoria/animais/">Explorar os animais</a>
+        <a class="btn btn-ghost" href="/categoria/sonhos/">Sonhos com animais</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="categories" aria-label="Categorias">
+    <div class="container">
+      <h2 class="section-title" data-animate="fade-up">Trilhas de leitura</h2>
+      <div class="categories-grid" data-animate-stagger="0.08">
+        {Object.entries(SUBNICHOS).map(([id, sub]) => {
+          const count = posts.filter((p) => p.data.subnicho === id).length;
+          return (
+            <a class="cat-card" href={`/categoria/${sub.slug_categoria}/`} data-animate-item>
+              <span class="cat-icon" aria-hidden="true">{sub.icone}</span>
+              <div>
+                <h3>{sub.titulo}</h3>
+                <p>{sub.descricao}</p>
+                <span class="cat-count">
+                  {count === 0 ? 'Em breve' : `${count} ${count === 1 ? 'leitura' : 'leituras'}`}
+                </span>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  {featured && (
+    <section class="featured" aria-label="Em destaque">
+      <div class="container">
+        <h2 class="section-title" data-animate="fade-up">Em destaque</h2>
+        <div data-animate="fade-up">
+          <PostCard post={featured} featured />
+        </div>
+      </div>
+    </section>
+  )}
+
+  {rest.length > 0 && (
+    <section class="latest" aria-label="Últimos artigos">
+      <div class="container">
+        <h2 class="section-title" data-animate="fade-up">Últimos artigos</h2>
+        <div class="posts-grid" data-animate-stagger="0.08">
+          {rest.map((post) => (
+            <div data-animate-item>
+              <PostCard post={post} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="home-newsletter">
+    <div class="container">
+      <Newsletter />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background: linear-gradient(168deg, #0b1022 0%, #121936 46%, #1e2a5a 100%);
+    color: var(--white);
+    padding-block: var(--space-9) var(--space-8);
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 56rem;
+  }
+
+  .hero-eyebrow {
+    font-size: var(--text-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--amber);
+    font-weight: 600;
+    margin-bottom: var(--space-4);
+  }
+
+  .hero-title {
+    font-size: clamp(var(--text-3xl), 6vw, 4.5rem);
+    line-height: 1.05;
+    margin-bottom: var(--space-5);
+    color: var(--white);
+    text-wrap: balance;
+  }
+
+  .hero-title em {
+    font-style: italic;
+    color: var(--amber-soft);
+  }
+
+  .hero-sub {
+    font-size: var(--text-lg);
+    color: rgba(255, 255, 255, 0.82);
+    max-width: 52ch;
+    margin-bottom: var(--space-6);
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: var(--space-4);
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-3) var(--space-6);
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: var(--text-sm);
+    text-decoration: none;
+    transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
+  }
+
+  .btn-primary {
+    background: var(--amber);
+    color: var(--bg-ink);
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--white);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+  }
+
+  .btn-ghost:hover {
+    border-color: var(--amber);
+    color: var(--amber);
+  }
+
+  .section-title {
+    font-size: clamp(var(--text-xl), 3vw, var(--text-3xl));
+    margin-bottom: var(--space-6);
+  }
+
+  .categories {
+    padding-block: var(--space-8);
+  }
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-5);
+  }
+
+  .cat-card {
+    display: flex;
+    gap: var(--space-4);
+    align-items: flex-start;
+    padding: var(--space-5);
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    color: inherit;
+    transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+  }
+
+  .cat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--amber);
+  }
+
+  .cat-icon {
+    font-size: var(--text-3xl);
+    color: var(--amber);
+    line-height: 1;
+  }
+
+  .cat-card h3 {
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-1);
+  }
+
+  .cat-card p {
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+    margin-bottom: var(--space-2);
+  }
+
+  .cat-count {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--indigo-soft);
+  }
+
+  .featured {
+    padding-block: var(--space-6) var(--space-8);
+  }
+
+  .latest {
+    padding-block: var(--space-6) var(--space-8);
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+
+  .home-newsletter {
+    padding-block: var(--space-4) var(--space-8);
+  }
+</style>

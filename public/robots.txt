@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloqueia a página 404 do index
+Disallow: /404/
+
+Sitemap: https://animotem.com/sitemap-index.xml

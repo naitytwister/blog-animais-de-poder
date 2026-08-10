@@ -1,0 +1,128 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/consts';
+
+const lastUpdate = '5 de agosto de 2026';
+---
+
+<BaseLayout
+  title="Política de Cookies"
+  description="Política de Cookies do Animo Tem: quais cookies utilizamos, para que servem e como você pode gerenciá-los, incluindo os cookies de publicidade."
+  canonicalPath="/cookies/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Política de Cookies' }]} />
+      <h1>Política de Cookies</h1>
+      <p class="updated">Atualizado em {lastUpdate}</p>
+      <p>
+        Cookies são pequenos arquivos armazenados no seu dispositivo para melhorar sua experiência.
+        Esta página explica quais cookies o {SITE.name} utiliza e como você pode controlá-los.
+      </p>
+
+      <section>
+        <h2>1. Cookies essenciais</h2>
+        <p>
+          Necessários para o funcionamento do site, como lembrar sua preferência de tema (claro ou
+          escuro). Não podem ser desativados e não coletam dados pessoais identificáveis.
+        </p>
+      </section>
+
+      <section>
+        <h2>2. Cookies de preferências</h2>
+        <p>
+          Lembram suas escolhas (idioma, tema, região) para personalizar sua experiência em futuras
+          visitas.
+        </p>
+      </section>
+
+      <section>
+        <h2>3. Cookies de estatísticas</h2>
+        <p>
+          Nos ajudam a entender como o site é utilizado (páginas mais visitadas, tempo de
+          permanência). Esses dados são agregados e anônimos.
+        </p>
+      </section>
+
+      <section>
+        <h2>4. Cookies de publicidade</h2>
+        <p>
+          Utilizados para mostrar anúncios mais relevantes e medir a eficácia das campanhas. Nossos
+          parceiros, incluindo o Google AdSense, podem usar esses cookies para exibir anúncios com
+          base em suas visitas anteriores ao site e a outros sites.
+        </p>
+        <p>
+          Você pode:
+        </p>
+        <ul>
+          <li>
+            Desativar a publicidade personalizada do Google em{' '}
+            <a href="https://adssettings.google.com" rel="noopener noreferrer" target="_blank">
+              Configurações de Anúncios
+            </a>.
+          </li>
+          <li>
+            Gerenciar cookies de terceiros em{' '}
+            <a href="https://www.youronlinechoices.com" rel="noopener noreferrer" target="_blank">
+              youronlinechoices.com
+            </a>.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>5. Como gerenciar cookies</h2>
+        <p>
+          Você pode bloquear ou excluir cookies pelas configurações do seu navegador. Lembre-se de
+          que desativar cookies essenciais pode prejudicar algumas funcionalidades do site.
+        </p>
+      </section>
+
+      <section>
+        <h2>6. Mais informações</h2>
+        <p>
+          Dúvidas sobre o uso de cookies? Consulte nossa{' '}
+          <a href="/privacidade/">Política de Privacidade</a> ou fale conosco pela{' '}
+          <a href="/contato/">página de contato</a>.
+        </p>
+      </section>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .page h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin: var(--space-5) 0 var(--space-2);
+  }
+
+  .updated {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--space-5);
+  }
+
+  .page section {
+    margin-bottom: var(--space-6);
+  }
+
+  .page h2 {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .page ul {
+    padding-left: var(--space-5);
+  }
+
+  .page li {
+    margin-bottom: var(--space-2);
+  }
+</style>

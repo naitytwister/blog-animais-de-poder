@@ -1,0 +1,80 @@
+---
+interface Props {
+  title: string;
+  url: string;
+}
+
+const { title, url } = Astro.props;
+const encodedTitle = encodeURIComponent(title);
+const encodedUrl = encodeURIComponent(url);
+---
+
+<div class="share" aria-label="Compartilhar">
+  <span class="share-label">Compartilhar</span>
+  <a
+    href={`https://wa.me/?text=${encodedTitle}%20${encodedUrl}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Compartilhar no WhatsApp"
+  >WhatsApp</a>
+  <a
+    href={`https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Compartilhar no Telegram"
+  >Telegram</a>
+  <a
+    href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Compartilhar no Facebook"
+  >Facebook</a>
+  <a
+    href={`https://x.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Compartilhar no X"
+  >X</a>
+  <a
+    href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Compartilhar no LinkedIn"
+  >LinkedIn</a>
+</div>
+
+<style>
+  .share {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-block: var(--space-4);
+  }
+
+  .share-label {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-soft);
+    margin-right: var(--space-2);
+  }
+
+  .share a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.35em 0.9em;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+    transition: border-color var(--transition), color var(--transition);
+  }
+
+  .share a:hover {
+    border-color: var(--amber);
+    color: var(--amber);
+  }
+</style>

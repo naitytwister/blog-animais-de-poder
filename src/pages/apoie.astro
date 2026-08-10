@@ -1,0 +1,163 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { SITE, AUTHOR, SUPPORT } from '../lib/consts';
+---
+
+<BaseLayout
+  title={`Apoie o ${SITE.shortName} — Mantenha a escuta ancestral viva`}
+  description={`O ${SITE.name} é feito com cuidado e sem custo para os leitores. Sua contribuição no Ko-fi ajuda a manter o projeto no ar.`}
+  canonicalPath="/apoie/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Apoie' }]} />
+
+      <header class="hero">
+        <h1>Apoie o {SITE.shortName}</h1>
+        <p class="hero-sub">
+          O {SITE.shortName} é um projeto independente e sem fins lucrativos. Cada guia, cada
+          interpretação de sonho e cada reflexão sobre animais de poder é pesquisado, escrito e
+          revisado com cuidado — e publicado gratuitamente, sem paywall e sem publicidade
+          invasiva. Se essa escuta tocou algo em você, considere contribuir. É o que mantém tudo
+          isso no ar.
+        </p>
+      </header>
+
+      <section class="support-section">
+        <h2>Ko-fi (internacional)</h2>
+        <p class="support-lead">
+          A forma mais simples de apoiar de qualquer lugar do mundo: com cartão, PayPal ou Google
+          Pay, você contribui com o valor que fizer sentido para você. Um café simbólico já faz
+          diferença — e não há assinatura obrigatória: é você quem decide quando e quanto doar.
+        </p>
+        <div class="kofi-box">
+          <script is:inline src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+          <script is:inline>
+            if (typeof kofiwidget2 !== 'undefined') {
+              kofiwidget2.init('Apoie no Ko-fi', '#e8a33d', 'animotem');
+              kofiwidget2.draw();
+            }
+          </script>
+          <noscript>
+            <a class="btn" href={SUPPORT.kofiUrl} target="_blank" rel="noopener noreferrer">
+              Apoie no Ko-fi
+            </a>
+          </noscript>
+        </div>
+      </section>
+
+      <section class="support-section">
+        <h2>Outras formas de apoiar</h2>
+        <ul>
+          <li>
+            <strong>Compartilhe:</strong> espalhe os artigos nas redes e com quem pode se
+            beneficiar deles. Cada leitura nova é um passo para o projeto crescer.
+          </li>
+          <li>
+            <strong>Assine a newsletter:</strong> receba os novos guias direto no seu e-mail e
+            ajude a formar uma comunidade atenta em volta do projeto.
+          </li>
+          <li>
+            <strong>Escreva para nós:</strong> sugestões, correções e relatos de como os textos
+            chegaram até você guiam as próximas publicações. Seu retorno é escuta que alimenta
+            escuta.
+          </li>
+        </ul>
+      </section>
+
+      <section class="support-section">
+        <h2>Para onde vai a contribuição</h2>
+        <p>
+          Cada doação é usada para manter o {SITE.shortName} vivo e em crescimento:
+        </p>
+        <ul>
+          <li><strong>Hospedagem e domínio do site</strong> — para que tudo fique no ar, com rapidez e segurança.</li>
+          <li><strong>Ferramentas de pesquisa e produção</strong> — bibliografia, referências e recursos usados para escrever com responsabilidade.</li>
+          <li><strong>Manutenção da newsletter</strong> — para que cada guia novo chegue à sua caixa de entrada sem custo para você.</li>
+          <li><strong>O tempo dedicado à curadoria</strong> — a revisão de cada texto e a escolha de cada tema são feitas por pessoas, com calma e reverência.</li>
+        </ul>
+        <p class="support-closing">
+          O projeto não tem investidores nem fins comerciais: a contribuição de quem lê é o que
+          garante que esta escuta continue aberta, gratuita e respeitosa. Obrigada por caminhar
+          conosco.
+        </p>
+      </section>
+
+      <Newsletter />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .hero {
+    margin: var(--space-5) 0 var(--space-6);
+  }
+
+  .hero h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin-bottom: var(--space-3);
+  }
+
+  .hero-sub {
+    font-size: var(--text-lg);
+    color: var(--text-soft);
+    max-width: 60ch;
+  }
+
+  .support-section {
+    margin-bottom: var(--space-7);
+  }
+
+  .support-section h2 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-3);
+  }
+
+  .support-lead {
+    max-width: 60ch;
+  }
+
+  .support-section li {
+    margin-bottom: var(--space-2);
+  }
+
+  .support-closing {
+    margin-top: var(--space-4);
+    color: var(--text-soft);
+    max-width: 60ch;
+  }
+
+  .kofi-box {
+    margin-top: var(--space-4);
+    max-width: 100%;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-family: 'Public Sans Variable', 'Segoe UI', system-ui, sans-serif;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+    background: var(--amber);
+    color: var(--bg-ink);
+    transition: background var(--transition), transform var(--transition);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn:hover {
+    background: var(--amber-soft);
+    transform: translateY(-1px);
+  }
+</style>

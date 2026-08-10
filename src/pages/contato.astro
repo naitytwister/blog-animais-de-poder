@@ -1,0 +1,133 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../lib/consts';
+---
+
+<BaseLayout
+  title="Contato"
+  description="Fale com a equipe do Animo Tem. Sugestões, correções, parcerias e mensagens de leitores são bem-vindas."
+  canonicalPath="/contato/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Contato' }]} />
+      <h1>Contato</h1>
+      <p class="lead">
+        Tem uma sugestão de tema, uma correção, ou quer conversar? Escreva para nós — respondemos
+        o quanto antes.
+      </p>
+
+      <form class="contact-form" method="post" action={`https://formsubmit.co/${SITE.email.replace('@', '%40')}`}>
+        <input type="hidden" name="_subject" value="Mensagem do site Animo Tem" />
+        <input type="hidden" name="_captcha" value="false" />
+        <div class="field">
+          <label for="nome">Seu nome</label>
+          <input id="nome" name="nome" type="text" required autocomplete="name" />
+        </div>
+        <div class="field">
+          <label for="email">Seu e-mail</label>
+          <input id="email" name="email" type="email" required autocomplete="email" />
+        </div>
+        <div class="field">
+          <label for="assunto">Assunto</label>
+          <select id="assunto" name="assunto" required>
+            <option value="">Escolha um assunto</option>
+            <option value="tema">Sugerir um tema</option>
+            <option value="correcao">Corrigir algo no blog</option>
+            <option value="parceria">Parceria</option>
+            <option value="outro">Outro</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="mensagem">Mensagem</label>
+          <textarea id="mensagem" name="mensagem" rows="6" required></textarea>
+        </div>
+        <button type="submit" class="btn-submit">Enviar mensagem</button>
+      </form>
+
+      <p class="privacy-note">
+        Ao enviar, você concorda com nossa <a href="/privacidade/">Política de Privacidade</a>.
+        Seus dados são usados apenas para responder a esta mensagem.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .page h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin: var(--space-5) 0 var(--space-4);
+  }
+
+  .lead {
+    font-size: var(--text-lg);
+    color: var(--text-soft);
+    max-width: 50ch;
+    margin-bottom: var(--space-6);
+  }
+
+  .contact-form {
+    display: grid;
+    gap: var(--space-5);
+  }
+
+  .field {
+    display: grid;
+    gap: var(--space-2);
+  }
+
+  .field label {
+    font-weight: 600;
+    font-size: var(--text-sm);
+  }
+
+  .field input,
+  .field select,
+  .field textarea {
+    font-family: inherit;
+    font-size: var(--text-base);
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elev);
+    color: var(--text);
+    transition: border-color var(--transition), box-shadow var(--transition);
+  }
+
+  .field input:focus,
+  .field select:focus,
+  .field textarea:focus {
+    outline: none;
+    border-color: var(--amber);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--amber) 25%, transparent);
+  }
+
+  .btn-submit {
+    justify-self: start;
+    padding: var(--space-3) var(--space-7);
+    background: var(--indigo);
+    color: var(--white);
+    border: none;
+    border-radius: 999px;
+    font-family: inherit;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform var(--transition), box-shadow var(--transition);
+  }
+
+  .btn-submit:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .privacy-note {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    margin-top: var(--space-4);
+  }
+</style>

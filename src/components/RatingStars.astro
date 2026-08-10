@@ -1,0 +1,206 @@
+---
+import { RATINGS } from '../lib/consts';
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+const apiBase = RATINGS.apiUrl;
+const labels = ['Péssimo', 'Ruim', 'Regular', 'Bom', 'Excelente'];
+const apiReady = apiBase && !apiBase.includes('SEU_SUBDOMINIO') && !apiBase.includes('localhost');
+if (!apiReady) return null;
+---
+
+<div class="rating" data-rating data-slug={slug} data-api={apiBase}>
+  <p class="rating-heading">Como foi este artigo?</p>
+  <div class="rating-stars" role="radiogroup" aria-label="Avalie este artigo de 1 a 5 estrelas">
+    {Array.from({ length: 5 }, (_, i) => i + 1).map((n) => (
+      <button
+        type="button"
+        class="rating-star"
+        data-value={n}
+        role="radio"
+        aria-checked="false"
+        aria-label={`${n} estrela${n > 1 ? 's' : ''} — ${labels[n - 1]}`}
+        title={labels[n - 1]}
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.6 7-6.2-3.6-6.2 3.6 1.6-7L2 9.3l7.1-.7L12 2z" />
+        </svg>
+      </button>
+    ))}
+  </div>
+  <p class="rating-summary" aria-live="polite">
+    <span class="rating-avg" data-rating-avg>–</span>
+    <span class="rating-sep">·</span>
+    <span class="rating-count" data-rating-count>0</span> votos
+  </p>
+  <p class="rating-thanks" data-rating-thanks hidden>Obrigada pela sua avaliação! ✦</p>
+</div>
+
+<script>
+  (() => {
+    const widget = document.querySelector<HTMLDivElement>('[data-rating]');
+    if (!widget) return;
+
+    const slug = widget.dataset.slug || '';
+    const apiBase = widget.dataset.api || '';
+    const stars = Array.from(widget.querySelectorAll<HTMLButtonElement>('.rating-star'));
+    const avgEl = widget.querySelector<HTMLSpanElement>('[data-rating-avg]');
+    const countEl = widget.querySelector<HTMLSpanElement>('[data-rating-count]');
+    const thanksEl = widget.querySelector<HTMLParagraphElement>('[data-rating-thanks]');
+    const votedKey = `rating:${slug}`;
+
+    const fill = (avg: number) => {
+      const rounded = Math.round(avg);
+      stars.forEach((star, i) => {
+        const active = i < rounded;
+        star.classList.toggle('is-active', active);
+        star.setAttribute('aria-checked', String(active));
+      });
+    };
+
+    const render = (data: { avg: number; count: number }) => {
+      if (avgEl) avgEl.textContent = data.avg > 0 ? data.avg.toFixed(1).replace('.', ',') : '–';
+      if (countEl) countEl.textContent = String(data.count);
+      fill(data.avg);
+    };
+
+    const load = async () => {
+      try {
+        const res = await fetch(`${apiBase}/api/avg/${encodeURIComponent(slug)}`);
+        if (!res.ok) return;
+        render(await res.json());
+      } catch {
+        /* API indisponível: mantém estado neutro */
+      }
+    };
+
+    const rate = async (value: number) => {
+      if (localStorage.getItem(votedKey)) return;
+      try {
+        const res = await fetch(`${apiBase}/api/rate/${encodeURIComponent(slug)}`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ stars: value }),
+        });
+        if (!res.ok) return;
+        render(await res.json());
+        localStorage.setItem(votedKey, String(value));
+        if (thanksEl) thanksEl.hidden = false;
+        widget.classList.add('is-voted');
+      } catch {
+        /* rede falhou: silencioso */
+      }
+    };
+
+    stars.forEach((star) => {
+      star.addEventListener('click', () => rate(Number(star.dataset.value)));
+      star.addEventListener('mouseenter', () => {
+        const value = Number(star.dataset.value);
+        stars.forEach((s, i) => s.classList.toggle('is-hover', i <= value - 1));
+      });
+    });
+
+    const starsWrap = widget.querySelector<HTMLDivElement>('.rating-stars');
+    if (starsWrap) {
+      starsWrap.addEventListener('mouseleave', () => {
+        stars.forEach((s) => s.classList.remove('is-hover'));
+      });
+    }
+
+    if (localStorage.getItem(votedKey)) {
+      widget.classList.add('is-voted');
+      const saved = Number(localStorage.getItem(votedKey));
+      fill(saved);
+    }
+
+    load();
+  })();
+</script>
+
+<style>
+  .rating {
+    position: fixed;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 30;
+    width: 11rem;
+    padding: var(--space-4);
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+    text-align: center;
+  }
+
+  .rating-heading {
+    font-family: var(--font-display);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--text);
+    margin: 0 0 var(--space-2);
+  }
+
+  .rating-stars {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-1);
+  }
+
+  .rating-star {
+    background: none;
+    border: none;
+    padding: var(--space-1);
+    cursor: pointer;
+    color: var(--border);
+    transition: color var(--transition), transform var(--transition);
+  }
+
+  .rating-star svg {
+    width: 1.35rem;
+    height: 1.35rem;
+    fill: currentColor;
+    display: block;
+  }
+
+  .rating-star:hover,
+  .rating-star.is-hover {
+    transform: scale(1.12);
+  }
+
+  .rating-star.is-hover,
+  .rating-star.is-active {
+    color: var(--amber);
+  }
+
+  .rating-summary {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    margin: var(--space-2) 0 0;
+  }
+
+  .rating-thanks {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--amber);
+    margin: var(--space-2) 0 0;
+  }
+
+  .rating.is-voted .rating-heading {
+    color: var(--text-soft);
+  }
+
+  @media (max-width: 1160px) {
+    .rating {
+      position: static;
+      transform: none;
+      width: auto;
+      max-width: 20rem;
+      margin: var(--space-4) auto 0;
+      box-shadow: var(--shadow-sm);
+    }
+  }
+</style>

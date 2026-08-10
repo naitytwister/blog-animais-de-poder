@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import PostLayout from '../../layouts/PostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+
+const allPosts = (await getCollection('posts')).sort(
+  (a, b) => b.data.data.valueOf() - a.data.data.valueOf(),
+);
+
+const sameSubnicho = allPosts.filter((p) => p.id !== post.id);
+const related = sameSubnicho.length >= 3
+  ? sameSubnicho.slice(0, 3)
+  : [
+      ...sameSubnicho,
+      ...allPosts.filter((p) => p.id !== post.id && !sameSubnicho.includes(p)).slice(0, 3 - sameSubnicho.length),
+    ].slice(0, 3);
+---
+
+<PostLayout post={post} related={related} />
+

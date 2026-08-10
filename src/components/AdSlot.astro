@@ -1,0 +1,43 @@
+---
+interface Props {
+  position?: 'topo' | 'meio' | 'final';
+}
+
+const { position = 'meio' } = Astro.props;
+const client = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+const enabled = Boolean(client);
+---
+
+{enabled && (
+  <div class={`adslot adslot-${position}`} aria-label="Espaço de publicidade">
+    <ins
+      class="adsbygoogle"
+      data-ad-client={client}
+      data-ad-slot="0000000000"
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    />
+    <script is:inline>
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      } catch (e) {
+        console.warn(e);
+      }
+    </script>
+  </div>
+)}
+
+<style>
+  .adslot {
+    min-height: 120px;
+    margin-block: var(--space-5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed var(--border);
+    border-radius: var(--radius);
+    background: var(--bg-elev);
+    color: var(--text-soft);
+    font-size: var(--text-xs);
+  }
+</style>
