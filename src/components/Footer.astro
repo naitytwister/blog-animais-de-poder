@@ -5,7 +5,10 @@ import { SITE, SUBNICHOS } from '../lib/consts';
 <footer class="footer">
   <div class="container footer-grid">
     <div class="footer-brand">
-      <a href="/" class="footer-logo">☽ {SITE.shortName}</a>
+      <a href="/" class="footer-logo">
+        <img src="/images/logo-icon.png" alt="Animotem Logo" class="footer-logo-img" />
+        <span>{SITE.shortName}</span>
+      </a>
       <p class="footer-tagline">
         Um espaço de escuta para os saberes ancestrais: animais de poder, sonhos e os sinais que
         o mundo natural nos oferece. Conteúdo informativo e cultural, com respeito às tradições.
@@ -58,11 +61,21 @@ import { SITE, SUBNICHOS } from '../lib/consts';
   }
 
   .footer-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
     font-family: var(--font-display);
     font-weight: 700;
     font-size: var(--text-xl);
     color: var(--white);
     text-decoration: none;
+  }
+
+  .footer-logo-img {
+    height: 2.25rem;
+    width: auto;
+    object-fit: contain;
+    border-radius: 4px;
   }
 
   .footer-tagline {
