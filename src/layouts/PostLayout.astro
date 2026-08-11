@@ -9,6 +9,7 @@ import ShareButtons from '../components/ShareButtons.astro';
 import RatingStars from '../components/RatingStars.astro';
 import Newsletter from '../components/Newsletter.astro';
 import AdSlot from '../components/AdSlot.astro';
+import SupportCTA from '../components/SupportCTA.astro';
 import { SITE, SUBNICHOS, AUTHOR } from '../lib/consts';
 import { formatDate, formatDateIso, readingTime } from '../lib/utils';
 import { extractFaq } from '../lib/faq';
@@ -133,6 +134,7 @@ const faqSchema = faq.length
           <Content />
         </div>
         <AdSlot position="final" />
+        <SupportCTA variant="post" />
 
         <div class="post-footer-meta">
 

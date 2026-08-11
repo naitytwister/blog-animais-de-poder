@@ -1,0 +1,118 @@
+---
+import { SUPPORT } from '../lib/consts';
+
+interface Props {
+  variant?: 'post' | 'quiz' | 'footer';
+  animal?: string;
+}
+
+const { variant = 'post', animal = '' } = Astro.props;
+
+const copy = {
+  post: {
+    title: animal
+      ? `O espírito do ${animal} falou com você`
+      : 'Este guia foi escrito de coração aberto',
+    text:
+      'O Animo Tem é um projeto independente: cada guia é pesquisado, escrito e revisado com cuidado, e publicado de graça. Se esta escuta fez sentido para você, considere apoiar — um café simbólico mantém tudo isso no ar.',
+  },
+  quiz: {
+    title: animal ? `Você encontrou o seu ${animal}` : 'Descubra o animal que escolhe você',
+    text:
+      'Este teste é uma ferramenta de reflexão, feita com respeito às tradições. Se o resultado ressoou, explore o guia completo do seu animal — e, se puder, apoie o projeto para que novos testes e guias continuem chegando.',
+  },
+  footer: {
+    title: 'Mantenha a escuta ancestral viva',
+    text:
+      'Sem investidores e sem paywall, o Animo Tem vive do apoio de quem lê. Contribua com qualquer valor e ajude o próximo guia a existir.',
+  },
+} as const;
+
+const c = copy[variant];
+---
+
+<div class={`support-cta support-cta--${variant}`}>
+  <div class="support-cta-inner">
+    <h2>{c.title}</h2>
+    <p>{c.text}</p>
+    <div class="support-cta-actions">
+      <a class="btn btn-kofi" href={SUPPORT.kofiUrl} target="_blank" rel="noopener noreferrer">
+        Apoie no Ko-fi ☕
+      </a>
+      <a class="btn btn-ghost" href="/apoie/">
+        Ver outras formas de apoiar
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  .support-cta {
+    margin-top: var(--space-7);
+  }
+
+  .support-cta--footer {
+    margin-top: 0;
+  }
+
+  .support-cta-inner {
+    background: linear-gradient(135deg, var(--indigo), var(--indigo-soft));
+    color: var(--white);
+    border-radius: var(--radius-lg);
+    padding: var(--space-7);
+    box-shadow: var(--shadow-glow);
+    text-align: center;
+  }
+
+  .support-cta h2 {
+    color: var(--amber);
+    font-size: clamp(var(--text-xl), 3vw, var(--text-3xl));
+    margin-bottom: var(--space-3);
+  }
+
+  .support-cta p {
+    color: rgba(255, 255, 255, 0.85);
+    max-width: 52ch;
+    margin-inline: auto;
+  }
+
+  .support-cta-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    justify-content: center;
+    margin-top: var(--space-5);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-3) var(--space-5);
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-decoration: none;
+    transition: transform var(--transition), box-shadow var(--transition);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn-kofi {
+    background: var(--amber);
+    color: var(--ink);
+  }
+
+  .btn-ghost {
+    background: rgba(255, 255, 255, 0.12);
+    color: var(--white);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+  }
+
+  .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+</style>

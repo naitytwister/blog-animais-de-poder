@@ -17,35 +17,87 @@ import { SITE, AUTHOR, SUPPORT } from '../lib/consts';
       <header class="hero">
         <h1>Apoie o {SITE.shortName}</h1>
         <p class="hero-sub">
-          O {SITE.shortName} é um projeto independente e sem fins lucrativos. Cada guia, cada
-          interpretação de sonho e cada reflexão sobre animais de poder é pesquisado, escrito e
-          revisado com cuidado — e publicado gratuitamente, sem paywall e sem publicidade
-          invasiva. Se essa escuta tocou algo em você, considere contribuir. É o que mantém tudo
-          isso no ar.
+          O {SITE.shortName} é um projeto independente: cada guia, cada interpretação de sonho e
+          cada reflexão sobre animais de poder é pesquisado, escrito e revisado com cuidado — e
+          publicado gratuitamente, sem paywall e sem publicidade invasiva. Se essa escuta tocou
+          algo em você, considere contribuir. É o que mantém tudo isso no ar.
         </p>
       </header>
 
-      <section class="support-section">
-        <h2>Ko-fi (internacional)</h2>
-        <p class="support-lead">
-          A forma mais simples de apoiar de qualquer lugar do mundo: com cartão, PayPal ou Google
-          Pay, você contribui com o valor que fizer sentido para você. Um café simbólico já faz
-          diferença — e não há assinatura obrigatória: é você quem decide quando e quanto doar.
-        </p>
-        <div class="kofi-box">
-          <script is:inline src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
-          <script is:inline>
-            if (typeof kofiwidget2 !== 'undefined') {
-              kofiwidget2.init('Apoie no Ko-fi', '#e8a33d', 'animotem');
-              kofiwidget2.draw();
-            }
-          </script>
-          <noscript>
-            <a class="btn" href={SUPPORT.kofiUrl} target="_blank" rel="noopener noreferrer">
-              Apoie no Ko-fi
-            </a>
-          </noscript>
+      <section class="support-section goal-section">
+        <h2>Meta do projeto</h2>
+        <div class="goal" role="img" aria-label="Meta mensal: 150 reais, 0 arrecadados até agora">
+          <div class="goal-bar"><div class="goal-fill" style="width: 0%"></div></div>
+          <p class="goal-text">
+            <strong>Meta mensal: R$ 150</strong> · <span>R$ 0 arrecadados até agora</span> — o
+            suficiente para cobrir hospedagem, domínio e as ferramentas de pesquisa e produção
+            dos guias.
+          </p>
         </div>
+        <p class="goal-note">
+          O valor da meta é atualizado manualmente a cada mês, conforme o projeto cresce. Toda
+          contribuição conta — inclusive os cafés simbólicos.
+        </p>
+      </section>
+
+      <section class="support-section">
+        <h2>Como apoiar</h2>
+        <div class="tiers">
+          <div class="tier">
+            <span class="tier-badge">Uma vez</span>
+            <h3>Café simbólico ☕</h3>
+            <p class="tier-price">O valor que fizer sentido</p>
+            <p class="tier-desc">
+              A forma mais simples: com cartão, PayPal ou Google Pay, você contribui quando quiser,
+              sem assinatura. Um café já faz diferença.
+            </p>
+            <div class="kofi-box">
+              <script is:inline src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+              <script is:inline>
+                if (typeof kofiwidget2 !== 'undefined') {
+                  kofiwidget2.init('Apoie no Ko-fi', '#e8a33d', 'animotem');
+                  kofiwidget2.draw();
+                }
+              </script>
+              <noscript>
+                <a class="btn" href={SUPPORT.kofiUrl} target="_blank" rel="noopener noreferrer">
+                  Apoie no Ko-fi
+                </a>
+              </noscript>
+            </div>
+          </div>
+
+          <div class="tier tier-featured">
+            <span class="tier-badge tier-badge-featured">Mensal</span>
+            <h3>Guardião da escuta 🌿</h3>
+            <p class="tier-price">A partir de R$ 15/mês</p>
+            <p class="tier-desc">
+              Para quem quer sustentar o projeto de forma contínua. Obrigado por caminhar conosco:
+              é a forma mais previsível de garantir que os guias continuem chegando.
+            </p>
+            <a
+              class="btn"
+              href="https://ko-fi.com/animotem/tiers"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Tornar-se guardião
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="support-section">
+        <h2>Para onde vai a contribuição</h2>
+        <p class="support-lead">
+          Cada doação é usada para manter o {SITE.shortName} vivo e em crescimento:
+        </p>
+        <ul>
+          <li><strong>Hospedagem e domínio do site</strong> — para que tudo fique no ar, com rapidez e segurança.</li>
+          <li><strong>Ferramentas de pesquisa e produção</strong> — bibliografia, referências e recursos usados para escrever com responsabilidade.</li>
+          <li><strong>Manutenção da newsletter</strong> — para que cada guia novo chegue à sua caixa de entrada sem custo para você.</li>
+          <li><strong>O tempo dedicado à curadoria</strong> — a revisão de cada texto e a escolha de cada tema são feitas por pessoas, com calma e reverência.</li>
+        </ul>
       </section>
 
       <section class="support-section">
@@ -68,15 +120,13 @@ import { SITE, AUTHOR, SUPPORT } from '../lib/consts';
       </section>
 
       <section class="support-section">
-        <h2>Para onde vai a contribuição</h2>
-        <p>
-          Cada doação é usada para manter o {SITE.shortName} vivo e em crescimento:
+        <h2>Quem já apoia</h2>
+        <p class="support-lead">
+          O projeto começou agora e a primeira leva de apoiadores está chegando. Seu nome — ou
+          apenas suas iniciais, se preferir — pode estar aqui na próxima atualização.
         </p>
-        <ul>
-          <li><strong>Hospedagem e domínio do site</strong> — para que tudo fique no ar, com rapidez e segurança.</li>
-          <li><strong>Ferramentas de pesquisa e produção</strong> — bibliografia, referências e recursos usados para escrever com responsabilidade.</li>
-          <li><strong>Manutenção da newsletter</strong> — para que cada guia novo chegue à sua caixa de entrada sem custo para você.</li>
-          <li><strong>O tempo dedicado à curadoria</strong> — a revisão de cada texto e a escolha de cada tema são feitas por pessoas, com calma e reverência.</li>
+        <ul class="supporters">
+          <li>Você? ☕</li>
         </ul>
         <p class="support-closing">
           O projeto não tem investidores nem fins comerciais: a contribuição de quem lê é o que
@@ -133,31 +183,146 @@ import { SITE, AUTHOR, SUPPORT } from '../lib/consts';
     max-width: 60ch;
   }
 
-  .kofi-box {
+  .goal-section {
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+  }
+
+  .goal {
     margin-top: var(--space-4);
-    max-width: 100%;
+  }
+
+  .goal-bar {
+    height: 1rem;
+    background: var(--border);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+
+  .goal-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--amber), var(--amber-soft));
+    border-radius: 999px;
+    transition: width 0.6s ease;
+  }
+
+  .goal-text {
+    margin-top: var(--space-3);
+    color: var(--text-soft);
+  }
+
+  .goal-text strong {
+    color: var(--accent-ink);
+  }
+
+  .goal-note {
+    margin-top: var(--space-2);
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+  }
+
+  .tiers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--space-5);
+    margin-top: var(--space-4);
+  }
+
+  .tier {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+  }
+
+  .tier-featured {
+    border-color: var(--amber);
+    box-shadow: var(--shadow-md);
+  }
+
+  .tier-badge {
+    align-self: flex-start;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.3em 0.8em;
+    border-radius: 999px;
+    background: var(--bg-ink);
+    color: var(--amber);
+  }
+
+  .tier-badge-featured {
+    background: var(--amber);
+    color: var(--ink);
+  }
+
+  .tier h3 {
+    font-size: var(--text-xl);
+    margin: 0;
+  }
+
+  .tier-price {
+    font-weight: 700;
+    color: var(--accent-ink);
+    margin: 0;
+  }
+
+  .tier-desc {
+    flex: 1;
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+    margin: 0;
+  }
+
+  .kofi-box {
+    margin-top: auto;
+    padding-top: var(--space-3);
   }
 
   .btn {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: var(--space-2);
-    padding: var(--space-2) var(--space-4);
+    padding: var(--space-3) var(--space-5);
     border: none;
     border-radius: var(--radius);
     cursor: pointer;
-    font-family: 'Public Sans Variable', 'Segoe UI', system-ui, sans-serif;
+    font-family: inherit;
     font-size: var(--text-sm);
-    font-weight: 600;
+    font-weight: 700;
     text-decoration: none;
     background: var(--amber);
-    color: var(--bg-ink);
-    transition: background var(--transition), transform var(--transition);
+    color: var(--ink);
+    transition: transform var(--transition), box-shadow var(--transition);
     -webkit-tap-highlight-color: transparent;
   }
 
   .btn:hover {
-    background: var(--amber-soft);
-    transform: translateY(-1px);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .supporters {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-4) 0 0;
+  }
+
+  .supporters li {
+    display: inline-block;
+    margin: 0 var(--space-2) var(--space-2) 0;
+    padding: var(--space-2) var(--space-4);
+    background: var(--bg-elev);
+    border: 1px dashed var(--border);
+    border-radius: 999px;
+    font-size: var(--text-sm);
+    color: var(--text-soft);
   }
 </style>

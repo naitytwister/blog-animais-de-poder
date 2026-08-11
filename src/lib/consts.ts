@@ -18,8 +18,6 @@ export const AUTHOR = {
 };
 
 export const SUPPORT = {
-  pixKey: import.meta.env.PUBLIC_PIX_KEY || '',
-  pixName: 'Cecília Aranha — Animo Tem',
   kofiUrl: import.meta.env.PUBLIC_KOFI_URL || 'https://ko-fi.com/animotem',
   kofiHandle: 'animotem',
 };
