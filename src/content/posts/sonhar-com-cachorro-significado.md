@@ -15,7 +15,7 @@ Quando um cachorro atravessa a fronteira do sono, seu latido não é um simples 
 
 ## O que significa sonhar com cachorro?
 
-Sonhar com cachorro é receber a visita de um arquétipo que fala a linguagem da fidelidade e do instinto. Na experiência onírica, o cão raramente é apenas um animal de estimação: ele encarna a parte mais leal da psique, aquela que protege, alerta ou, por vezes, late para que o ego consciente finalmente escute algo que vem sendo ignorado. Como mergulhamos em nosso [guia completo sobre a interpretação espiritual dos sonhos com animais](/sonhos-com-animais-significado-interpretar), cada criatura que nos visita durante o sono carrega uma assinatura simbólica própria — e o cachorro, domesticado a partir do lobo selvagem, simboliza o instinto que a humanidade aprendeu a acolher, mas que nunca deixou de ser um guardião atento às travessias da alma.
+Sonhar com cachorro é receber a visita de um arquétipo que fala a linguagem da fidelidade e do instinto. Na experiência onírica, o cão raramente é apenas um animal de estimação: ele encarna a parte mais leal da psique, aquela que protege, alerta ou, por vezes, late para que o ego consciente finalmente escute algo que vem sendo ignorado. Como mergulhamos em nosso [guia completo sobre a interpretação espiritual dos sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), cada criatura que nos visita durante o sono carrega uma assinatura simbólica própria — e o cachorro, domesticado a partir do lobo selvagem, simboliza o instinto que a humanidade aprendeu a acolher, mas que nunca deixou de ser um guardião atento às travessias da alma.
 
 ## Por que o cão é visto como guardião do limiar em tantas culturas?
 

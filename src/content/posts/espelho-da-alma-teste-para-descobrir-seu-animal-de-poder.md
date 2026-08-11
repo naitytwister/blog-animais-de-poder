@@ -40,7 +40,7 @@ Os caminhos ancestrais para o encontro com o animal de poder envolvem estados de
 
 O animal que se apresenta como aliado não entrega um rótulo, mas um espelho. Ele mostra quem você é em essência e, talvez, quem você está se tornando. Carrega a medicina de que sua alma precisa neste momento: a coragem do javali, a paciência da tartaruga, a visão ampliada da águia. Como nos lembram os guardiões das tradições, a medicina não é remédio para o corpo — é tudo aquilo que reconecta você à sua natureza mais profunda.
 
-Assim como os animais de poder se distribuem pelos signos do zodíaco — tema que exploramos em profundidade no nosso [guia definitivo sobre animais de poder e signos](/guia-definitivo-animais-poder-signo-zodiaco) — o encontro pessoal revela uma camada ainda mais íntima dessa conexão. O teste, quando visto como rito e não como entretenimento, pode ser a primeira fagulha de uma escuta maior.
+Assim como os animais de poder se distribuem pelos signos do zodíaco — tema que exploramos em profundidade no nosso [guia definitivo sobre animais de poder e signos](/posts/guia-definitivo-animais-poder-signo-zodiaco/) — o encontro pessoal revela uma camada ainda mais íntima dessa conexão. O teste, quando visto como rito e não como entretenimento, pode ser a primeira fagulha de uma escuta maior.
 
 Qual animal tem aparecido nos silêncios da sua vida? E o que ele veio mostrar?
 

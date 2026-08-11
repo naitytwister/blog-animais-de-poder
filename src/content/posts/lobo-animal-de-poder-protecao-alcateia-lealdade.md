@@ -37,6 +37,6 @@ Entre todas as suas características, a lealdade do Lobo é uma das mais celebra
 
 Embora viva em comunidade, o lobo também sabe se retirar em momentos de necessidade interior. Esse equilíbrio entre a força coletiva da alcateia e a introspeção do uivo solitário ensina o valor de honrar o próprio espaço de silêncio e reflexão espiritual.
 
-Como vimos no nosso [guia completo sobre animais de poder no xamanismo](/o-que-e-animal-de-poder), o Lobo nos convida a explorar profundamente nossas conexões interiores e exteriores, resgatando a beleza de conviver em harmonia e unidade.
+Como vimos no nosso [guia completo sobre animais de poder no xamanismo](/posts/o-que-e-animal-de-poder/), o Lobo nos convida a explorar profundamente nossas conexões interiores e exteriores, resgatando a beleza de conviver em harmonia e unidade.
 
 Qual aspecto do Lobo como animal de poder mais ressoa com você? Sentiu-se inspirado a explorar mais profundamente esses ensinamentos em sua jornada espiritual?
