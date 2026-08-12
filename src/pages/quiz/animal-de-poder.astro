@@ -1,0 +1,440 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import SupportCTA from '../../components/SupportCTA.astro';
+
+const quizUrl = `${import.meta.env.SITE_URL || 'https://animotem.com'}/quiz/animal-de-poder/`;
+---
+
+<BaseLayout
+  canonicalPath="/quiz/animal-de-poder/"
+  title="Qual é o Seu Animal de Poder Neste Momento? Teste do Xamanismo"
+  description="Responda 6 perguntas e descubra qual animal de poder te acompanha agora — lobo, águia, cobra, urso, coruja ou borboleta. Teste inspirado nas tradições xamânicas."
+>
+  <main class="quiz-page">
+    <div class="container quiz-container">
+      <header class="quiz-header">
+        <p class="quiz-eyebrow">Ferramentas · Testes e Oráculos</p>
+        <h1>Qual é o seu animal de poder <em>neste momento?</em></h1>
+        <p class="quiz-sub">
+          Nas tradições xamânicas, o animal que nos acompanha muda conforme a fase da vida.
+          Responda com sinceridade — não com o que você gostaria de ser, mas com o que ressoa agora.
+        </p>
+      </header>
+
+      <div id="quiz-app" class="quiz-app" aria-live="polite">
+        <div id="quiz-start" class="quiz-step quiz-start">
+          <p>
+            São 6 perguntas rápidas, sem respostas certas ou erradas. Ao final, você recebe o
+            animal de poder do momento e o guia completo sobre a medicina dele.
+          </p>
+          <button type="button" class="btn btn-primary" data-start>
+            Começar o teste
+          </button>
+        </div>
+
+        <div id="quiz-questions" class="quiz-step" hidden></div>
+
+        <div id="quiz-result" class="quiz-step" hidden></div>
+      </div>
+
+      <div class="quiz-newsletter">
+        <Newsletter />
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  const QUESTIONS = [
+    {
+      q: 'Ao acordar de um sonho intenso, você se sente mais como…',
+      options: [
+        { text: 'Alguém que precisa seguir seu próprio caminho, mesmo sozinho', animal: 'lobo' },
+        { text: 'Alguém que viu o cenário inteiro de cima e entendeu o padrão', animal: 'aguia' },
+        { text: 'Alguém que sentiu que precisa se desfazer de uma pele velha', animal: 'cobra' },
+        { text: 'Alguém que precisa de silêncio e descanso profundo', animal: 'urso' },
+      ],
+    },
+    {
+      q: 'Qual chamado você tem ignorado ultimamente?',
+      options: [
+        { text: 'O da minha tribo — preciso me reconectar com as pessoas certas', animal: 'lobo' },
+        { text: 'O da minha visão — sei para onde quero ir, mas adio', animal: 'aguia' },
+        { text: 'O da minha transformação — algo precisa morrer em mim', animal: 'cobra' },
+        { text: 'O da minha intuição — durmo pouco e escuto menos ainda', animal: 'coruja' },
+      ],
+    },
+    {
+      q: 'Em uma tempestade emocional, sua primeira reação é…',
+      options: [
+        { text: 'Proteger quem está ao meu lado e manter a matilha unida', animal: 'lobo' },
+        { text: 'Buscar o ponto mais alto e esperar o vento passar', animal: 'aguia' },
+        { text: 'Fluir com a mudança, sabendo que tudo se transforma', animal: 'cobra' },
+        { text: 'Recolher-me e deixar o silêncio reorganizar a casa', animal: 'urso' },
+      ],
+    },
+    {
+      q: 'O que mais drena sua energia hoje?',
+      options: [
+        { text: 'Falsidade e deslealdade ao meu redor', animal: 'lobo' },
+        { text: 'Ficar preso em detalhes pequenos enquanto o todo me chama', animal: 'aguia' },
+        { text: 'Rotina parada, sem renovação nem desapego', animal: 'cobra' },
+        { text: 'Barulho constante, sem espaço de introspecção', animal: 'coruja' },
+      ],
+    },
+    {
+      q: 'Se pudesse receber um presente da mata, qual escolheria?',
+      options: [
+        { text: 'Presença — saber quem realmente é minha gente', animal: 'lobo' },
+        { text: 'Perspectiva — enxergar além do que os olhos veem', animal: 'aguia' },
+        { text: 'Renascimento — trocar de pele sem medo de recomeçar', animal: 'cobra' },
+        { text: 'Serenidade — atravessar o inverno sem pressa', animal: 'urso' },
+        { text: 'Clareza — enxergar na penumbra o que está oculto', animal: 'coruja' },
+        { text: 'Leveza — confiar que a transformação vem no tempo certo', animal: 'borboleta' },
+      ],
+    },
+    {
+      q: 'Termine a frase: "Neste ciclo da minha vida, eu preciso…"',
+      options: [
+        { text: 'liderar com lealdade e confiar na minha alcateia', animal: 'lobo' },
+        { text: 'alçar voo e olhar de longe o que me aprisiona', animal: 'aguia' },
+        { text: 'me despir do que já não me cabe mais', animal: 'cobra' },
+        { text: 'descansar e me fortalecer em silêncio', animal: 'urso' },
+        { text: 'escutar o que só se revela na escuridão', animal: 'coruja' },
+        { text: 'me metamorfosear sem pressa e sem culpa', animal: 'borboleta' },
+      ],
+    },
+  ];
+
+  const ANIMAIS = {
+    lobo: {
+      nome: 'Lobo',
+      emoji: '🐺',
+      medicina: 'lealdade, proteção e pertencimento',
+      slug: 'lobo-animal-de-poder-protecao-alcateia-lealdade',
+      texto:
+        'O lobo chega até você quando a alma pede tribo. Sua medicina é a lealdade que mantém a alcateia unida, a proteção dos que amamos e a coragem de andar seu caminho mesmo quando ele é solitário.',
+    },
+    aguia: {
+      nome: 'Águia',
+      emoji: '🦅',
+      medicina: 'visão ampla, coragem e liberdade',
+      slug: 'a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia',
+      texto:
+        'A águia sobrevoa o cenário inteiro antes de agir. Sua medicina é a visão ampla que enxerga padrões invisíveis no chão, a coragem de voar alto e a liberdade de não se prender ao que é pequeno.',
+    },
+    cobra: {
+      nome: 'Cobra',
+      emoji: '🐍',
+      medicina: 'transformação, renascimento e cura',
+      slug: 'cobra-serpente-animal-de-poder-renascimento',
+      texto:
+        'A cobra troca de pele para sobreviver — e você foi chamada a fazer o mesmo. Sua medicina é a transformação profunda: soltar o que morreu, curar o que ficou e renascer sem pedir licença.',
+    },
+    urso: {
+      nome: 'Urso',
+      emoji: '🐻',
+      medicina: 'força silenciosa, introspecção e cura',
+      slug: 'o-grande-retiro-urso-medicina-forca-silenciosa',
+      texto:
+        'O urso se recolhe na caverna para se reconstruir. Sua medicina é a força silenciosa de quem primeiro cura a si mesmo, a introspecção que antecede as grandes decisões e a paciência dos invernos.',
+    },
+    coruja: {
+      nome: 'Coruja',
+      emoji: '🦉',
+      medicina: 'intuição, mistério e escuta da escuridão',
+      slug: 'a-coruja-como-guia-do-poder-intuitivo-no-xamanismo',
+      texto:
+        'A coruja enxerga onde outros não veem nada. Sua medicina é a intuição que atravessa a penumbra, o conforto com os mistérios e a sabedoria de escutar antes de falar.',
+    },
+    borboleta: {
+      nome: 'Borboleta',
+      emoji: '🦋',
+      medicina: 'metamorfose, leveza e tempo certo',
+      slug: 'a-metamorfose-silenciosa-medicina-transformativa-borboleta',
+      texto:
+        'A borboleta não apressa a mudança — ela confia no processo. Sua medicina é a metamorfose silenciosa, a leveza de quem já atravessou a própria escuridão e o lembrete de que florescer tem tempo certo.',
+    },
+  };
+
+  const app = document.getElementById('quiz-app');
+  let respostas: string[] = [];
+
+  const qs = (id: string) => document.getElementById(id);
+
+  qs('quiz-start')!.querySelector('[data-start]')!.addEventListener('click', () => {
+    qs('quiz-start')!.hidden = true;
+    qs('quiz-questions')!.hidden = false;
+    renderizarPergunta(0);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  function renderizarPergunta(idx: number) {
+    const container = qs('quiz-questions')!;
+    const pergunta = QUESTIONS[idx];
+    container.innerHTML = `
+      <div class="quiz-progress">
+        <span>Pergunta ${idx + 1} de ${QUESTIONS.length}</span>
+        <div class="quiz-progress-bar"><div class="quiz-progress-fill" style="width:${((idx + 1) / QUESTIONS.length) * 100}%"></div></div>
+      </div>
+      <h2 class="quiz-question">${pergunta.q}</h2>
+      <div class="quiz-options">
+        ${pergunta.options
+          .map(
+            (o, i) => `
+          <button type="button" class="quiz-option" data-animal="${o.animal}" data-idx="${i}">${o.text}</button>
+        `,
+          )
+          .join('')}
+      </div>
+    `;
+    container
+      .querySelectorAll('.quiz-option')
+      .forEach((btn) =>
+        btn.addEventListener('click', () => {
+          respostas.push((btn as HTMLElement).dataset.animal!);
+          if (respostas.length < QUESTIONS.length) {
+            renderizarPergunta(respostas.length);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          } else {
+            mostrarResultado();
+          }
+        }),
+      );
+  }
+
+  function mostrarResultado() {
+    const contagem: Record<string, number> = {};
+    respostas.forEach((a) => (contagem[a] = (contagem[a] || 0) + 1));
+    const vencedor = Object.entries(contagem).sort((a, b) => b[1] - a[1])[0][0];
+    const animal = ANIMAIS[vencedor as keyof typeof ANIMAIS];
+
+    qs('quiz-questions')!.hidden = true;
+    const result = qs('quiz-result')!;
+    result.hidden = false;
+
+    const textoShare = `Descobri meu animal de poder neste momento: ${animal.nome} ${animal.emoji} — ${animal.medicina}. E o seu? Faça o teste do xamanismo e me conta:`;
+    const waUrl = `https://wa.me/?text=${encodeURIComponent(textoShare + ' ' + quizUrl)}`;
+
+    result.innerHTML = `
+      <div class="quiz-result-card">
+        <div class="quiz-result-animal">${animal.emoji}</div>
+        <p class="quiz-eyebrow">Seu animal de poder agora</p>
+        <h2>${animal.nome}</h2>
+        <p class="quiz-result-medicina">Medicina: ${animal.medicina}</p>
+        <p class="quiz-result-texto">${animal.texto}</p>
+        <div class="quiz-result-actions">
+          <a class="btn btn-primary" href="/posts/${animal.slug}/">Ler o guia completo</a>
+          <a class="btn btn-whatsapp" href="${waUrl}" target="_blank" rel="noopener noreferrer">Compartilhar no WhatsApp</a>
+        </div>
+        <button type="button" class="btn btn-ghost btn-refazer" data-refazer>Refazer o teste</button>
+      </div>
+    `;
+
+    result.querySelector('[data-refazer]')!.addEventListener('click', () => {
+      respostas = [];
+      result.hidden = true;
+      qs('quiz-start')!.hidden = false;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+</script>
+
+<style>
+  .quiz-page {
+    padding-block: var(--space-8) var(--space-9);
+    background: radial-gradient(1200px 500px at 50% -10%, rgba(255, 183, 77, 0.08), transparent 60%);
+  }
+
+  .quiz-container {
+    max-width: 44rem;
+  }
+
+  .quiz-header {
+    text-align: center;
+    margin-bottom: var(--space-7);
+  }
+
+  .quiz-eyebrow {
+    font-size: var(--text-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--amber);
+    font-weight: 600;
+    margin-bottom: var(--space-3);
+  }
+
+  .quiz-header h1 {
+    font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl));
+    margin-bottom: var(--space-4);
+    text-wrap: balance;
+  }
+
+  .quiz-header h1 em {
+    font-style: italic;
+    color: var(--amber);
+  }
+
+  .quiz-sub {
+    color: var(--text-soft);
+    max-width: 48ch;
+    margin-inline: auto;
+  }
+
+  .quiz-app {
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-6);
+    box-shadow: var(--shadow-md);
+  }
+
+  .quiz-step {
+    text-align: center;
+  }
+
+  .quiz-step p {
+    color: var(--text-soft);
+    max-width: 44ch;
+    margin-inline: auto;
+    margin-bottom: var(--space-5);
+  }
+
+  .quiz-progress {
+    margin-bottom: var(--space-5);
+    text-align: left;
+  }
+
+  .quiz-progress span {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-soft);
+  }
+
+  .quiz-progress-bar {
+    height: 6px;
+    background: var(--border);
+    border-radius: 999px;
+    overflow: hidden;
+    margin-top: var(--space-2);
+  }
+
+  .quiz-progress-fill {
+    height: 100%;
+    background: var(--amber);
+    border-radius: 999px;
+    transition: width 0.4s ease;
+  }
+
+  .quiz-question {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-5);
+    text-wrap: balance;
+  }
+
+  .quiz-options {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .quiz-option {
+    padding: var(--space-3) var(--space-5);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-family: inherit;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: inherit;
+    cursor: pointer;
+    text-align: left;
+    transition: transform var(--transition), border-color var(--transition), box-shadow var(--transition);
+  }
+
+  .quiz-option:hover {
+    transform: translateY(-2px);
+    border-color: var(--amber);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .quiz-result-animal {
+    font-size: 4rem;
+    line-height: 1;
+    margin-bottom: var(--space-3);
+  }
+
+  .quiz-result-card h2 {
+    font-size: var(--text-3xl);
+    color: var(--amber);
+    margin-bottom: var(--space-2);
+  }
+
+  .quiz-result-medicina {
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: var(--space-4);
+  }
+
+  .quiz-result-texto {
+    color: var(--text-soft);
+    max-width: 42ch;
+    margin-inline: auto;
+    margin-bottom: var(--space-5);
+    text-align: left;
+  }
+
+  .quiz-result-actions {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    padding: var(--space-3) var(--space-5);
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-decoration: none;
+    transition: transform var(--transition), box-shadow var(--transition);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn-primary {
+    background: var(--amber);
+    color: var(--ink);
+  }
+
+  .btn-whatsapp {
+    background: rgba(37, 211, 102, 0.14);
+    color: #25d366;
+    border: 1px solid rgba(37, 211, 102, 0.4);
+  }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--text-soft);
+    border: 1px solid var(--border);
+  }
+
+  .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .quiz-newsletter {
+    margin-top: var(--space-7);
+  }
+</style>

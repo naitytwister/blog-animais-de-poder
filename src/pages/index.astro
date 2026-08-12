@@ -28,6 +28,7 @@ const rest = posts.slice(1);
       <div class="hero-actions" data-animate-item>
         <a class="btn btn-primary" href="/categoria/animais/">Explorar os animais</a>
         <a class="btn btn-ghost" href="/categoria/sonhos/">Sonhos com animais</a>
+        <a class="btn btn-quiz" href="/quiz/animal-de-poder/">Descobrir meu animal de poder</a>
       </div>
     </div>
   </section>
@@ -164,6 +165,18 @@ const rest = posts.slice(1);
     background: transparent;
     color: var(--white);
     border: 1px solid rgba(255, 255, 255, 0.35);
+  }
+
+  .btn-quiz {
+    background: rgba(255, 183, 77, 0.14);
+    color: var(--amber);
+    border: 1px solid rgba(255, 183, 77, 0.45);
+  }
+
+  .btn-quiz:hover {
+    border-color: var(--amber);
+    color: var(--amber);
+    box-shadow: 0 0 24px rgba(255, 183, 77, 0.25);
   }
 
   .btn-ghost:hover {
