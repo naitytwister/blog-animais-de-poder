@@ -7,7 +7,7 @@ palavra_chave: "animal de poder cavalo"
 tipo: "cluster"
 pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-12T10:16:30Z'
-imagem_capa: "/images/vento-na-crina-medicina-animal-poder-cavalo.jpg"
+imagem_capa: "/images/cavalo-de-poder-travessia-liberdade-interior.jpg"
 imagem_alt: "Cavalo preto com crina ao vento, correndo livremente em um prado dourado ao pôr do sol, simbolizando o animal de poder cavalo e a liberdade espiritual."
 autor: "Cecilia Aranha"
 ---
