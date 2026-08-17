@@ -31,3 +31,35 @@
   status = 301
   force = true
 
+# Post antigo do quiz substituído pela ferramenta interativa
+[[redirects]]
+  from = "/posts/teste-do-xamanismo/"
+  to = "/quiz/animal-de-poder/"
+  status = 301
+  force = true
+
+# Posts-teste antigos substituídos pela ferramenta interativa
+[[redirects]]
+  from = "/posts/o-bicho-que-atravessa-a-mesa/"
+  to = "/quiz/animal-de-poder/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/o-espelho-que-anda-ao-seu-lado-teste-de-personalidade-animal/"
+  to = "/quiz/animal-de-poder/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/qual-animal-eu-seria/"
+  to = "/quiz/animal-de-poder/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/qual-o-seu-animal-interior-bicho-antigo/"
+  to = "/quiz/animal-de-poder/"
+  status = 301
+  force = true
+

@@ -1,7 +1,5 @@
 User-agent: *
 Allow: /
 
-# Bloqueia a página 404 do index
-Disallow: /404/
-
+# A página 404 usa noindex próprio; nenhuma rota é bloqueada para o Google.
 Sitemap: https://animotem.com/sitemap-index.xml

@@ -33,6 +33,25 @@ const rest = posts.slice(1);
     </div>
   </section>
 
+  <section class="quiz-featured" aria-label="Teste do animal de poder">
+    <div class="container">
+      <div class="quiz-banner" data-animate="fade-up">
+        <div class="quiz-banner-content">
+          <p class="quiz-banner-eyebrow">Teste interativo · 2 minutos</p>
+          <h2>Qual é o seu animal de poder <em>neste momento?</em></h2>
+          <p>
+            6 perguntas rápidas, sem respostas certas. Ao final você recebe o animal que te
+            acompanha agora e o guia completo sobre a medicina dele.
+          </p>
+          <a class="btn btn-quiz-cta" href="/quiz/animal-de-poder/">Descobrir meu animal de poder</a>
+        </div>
+        <div class="quiz-banner-animals" aria-hidden="true">
+          <span>🐺</span><span>🦅</span><span>🐍</span><span>🐻</span><span>🦉</span><span>🦋</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="categories" aria-label="Categorias">
     <div class="container">
       <h2 class="section-title" data-animate="fade-up">Trilhas de leitura</h2>
@@ -187,6 +206,97 @@ const rest = posts.slice(1);
   .section-title {
     font-size: clamp(var(--text-xl), 3vw, var(--text-3xl));
     margin-bottom: var(--space-6);
+  }
+
+  .quiz-featured {
+    padding-block: var(--space-6) var(--space-4);
+  }
+
+  .quiz-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-6);
+    padding: var(--space-7) var(--space-8);
+    border-radius: var(--radius-lg);
+    background:
+      radial-gradient(600px 300px at 85% -20%, rgba(255, 183, 77, 0.18), transparent 60%),
+      linear-gradient(135deg, #121936 0%, #1e2a5a 100%);
+    border: 1px solid rgba(255, 183, 77, 0.25);
+    color: var(--white);
+    overflow: hidden;
+  }
+
+  .quiz-banner-content {
+    max-width: 34rem;
+  }
+
+  .quiz-banner-eyebrow {
+    font-size: var(--text-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--amber);
+    font-weight: 600;
+    margin-bottom: var(--space-3);
+  }
+
+  .quiz-banner h2 {
+    font-size: clamp(var(--text-xl), 3vw, var(--text-2xl));
+    line-height: 1.15;
+    margin-bottom: var(--space-3);
+    color: var(--white);
+  }
+
+  .quiz-banner h2 em {
+    font-style: italic;
+    color: var(--amber-soft);
+  }
+
+  .quiz-banner p {
+    font-size: var(--text-sm);
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: var(--space-5);
+  }
+
+  .btn-quiz-cta {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-3) var(--space-6);
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: var(--text-sm);
+    text-decoration: none;
+    background: var(--amber);
+    color: var(--bg-ink);
+    transition: transform var(--transition), box-shadow var(--transition);
+  }
+
+  .btn-quiz-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .quiz-banner-animals {
+    display: flex;
+    gap: var(--space-3);
+    flex-shrink: 0;
+  }
+
+  .quiz-banner-animals span {
+    font-size: var(--text-2xl);
+    filter: drop-shadow(0 4px 12px rgba(255, 183, 77, 0.35));
+  }
+
+  @media (max-width: 48rem) {
+    .quiz-banner {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: var(--space-6);
+    }
+
+    .quiz-banner-animals {
+      flex-wrap: wrap;
+    }
   }
 
   .categories {
