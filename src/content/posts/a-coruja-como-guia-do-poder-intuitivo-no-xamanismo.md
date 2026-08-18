@@ -40,4 +40,4 @@ No xamanismo, evocar a presença da coruja implica desenvolvimento de um “olha
 
 A coruja nos convida a um espaço de contemplação e autorreflexão, onde nossa jornada interna se traduz em crescimento e transformação. Ao sintonizar com sua energia, somos guiados a desvendar mistérios que vivem dentro de nós.
 
-Como a presença da coruja pode inspirar e aumentar sua jornada de autodescoberta? Deixe que esse sábio guardião noturno seja um farol em sua travessia espiritual.
+A coruja é uma das presenças possíveis entre os [animais de poder](/posts/o-que-e-animal-de-poder/) que escolhem caminhar ao nosso lado, cada um com sua medicina. Se um animal tem se repetido nos seus sonhos e nos seus dias, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e descubra quem guarda a sua travessia. Que esse sábio guardião noturno seja um farol na sua jornada de autodescoberta.

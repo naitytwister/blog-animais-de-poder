@@ -54,7 +54,7 @@ Alguns sinais de que o lobo está se oferecendo como guia:
 
 Nessas horas, o lobo não pede rituais complexos. Ele pede escuta. Sentar-se em silêncio, de preferência à noite, e simplesmente perguntar: *O que você veio me ensinar?* A resposta virá aos poucos, não como palavra mental, mas como um novo modo de caminhar — mais atento, mais dono de si.
 
-Se o chamado persistir, vale aprofundar o entendimento sobre [o que é um animal de poder](/o-que-e-animal-de-poder) e como essas presenças espirituais atuam em nossa jornada. O lobo, em especial, trará também lições sobre a proteção daquilo que é sagrado, algo que exploramos em [o lobo como guardião da alcateia e a sabedoria dos laços que libertam](/lobo-animal-de-poder-protecao-alcateia-lealdade).
+Se o chamado persistir, vale aprofundar o entendimento sobre [o que é um animal de poder](/posts/o-que-e-animal-de-poder/) e como essas presenças espirituais atuam em nossa jornada. O lobo, em especial, trará também lições sobre a proteção daquilo que é sagrado, algo que exploramos em [o lobo como guardião da alcateia e a sabedoria dos laços que libertam](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/).
 
 ## O uivo como resistência
 

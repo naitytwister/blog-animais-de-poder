@@ -66,6 +66,6 @@ Um guia como este não encerra o assunto; mal começa a abrir as portas. Os anim
 
 Honrar essa visita não exige rituais complexos. Às vezes, basta levar a imagem daquele animal para o dia e agir a partir dela: se uma raposa apareceu com sua astúcia, talvez seja o momento de usar mais inteligência e menos força. Se uma serpente surgiu trocando de pele, talvez uma velha identidade esteja pedindo para ser abandonada.
 
-Não existe chave universal, mas existe uma trilha ancestral que nos convida a caminhar com esses guias oníricos. E quando a curiosidade pedir significados mais específicos — sobre o que pode trazer o sonho com cavalo, com borboleta, com aranha — o artigo [significados dos animais nos sonhos: um olhar detalhado](/sonhos-com-animais-significado-interpretar) oferece um aprofundamento cuidadoso, criatura por criatura.
+Não existe chave universal, mas existe uma trilha ancestral que nos convida a caminhar com esses guias oníricos. E quando a curiosidade pedir significados mais específicos — sobre o que pode trazer o sonho com cavalo, com borboleta, com aranha — o artigo [significados dos animais nos sonhos: um olhar detalhado](/posts/sonhos-com-animais-significado-interpretar/) oferece um aprofundamento cuidadoso, criatura por criatura.
 
 Qual dessas três lentes — a psique, o chamado xamânico ou a herança das culturas — mais ressoou com a visita que você recebeu enquanto dormia?

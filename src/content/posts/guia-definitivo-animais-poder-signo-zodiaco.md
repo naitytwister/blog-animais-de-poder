@@ -79,10 +79,10 @@ A harmonia e intuição de Peixes ecoam no golfinho, símbolo de empatia.
 - **Leão:** O Leão simboliza confiança.
 - **Virgem:** O Chacal sugere análise e adaptação.
 - **Libra:** O Corvo representa harmonia.
-- **Escorpião:** A Serpente sugere transformação.
+- **Escorpião:** A [Serpente](/posts/cobra-serpente-animal-de-poder-renascimento/) sugere transformação.
 - **Sagitário:** O Cavalo convida à exploração.
-- **Capricórnio:** O Lobo fala de liderança.
+- **Capricórnio:** O [Lobo](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/) fala de liderança.
 - **Aquário:** A Lontra inspira inovação.
 - **Peixes:** O Golfinho simboliza empatia.
 
-Ao compreender e refletir sobre esses animais de poder, podemos desenvolver uma relação mais íntima com nossas características e desafios inatos. Qual desses animais de poder ressoou com você e suas experiências pessoais?
+Ao compreender e refletir sobre esses animais de poder, podemos desenvolver uma relação mais íntima com nossas características e desafios inatos. Mas lembre-se: o zodíaco sugere afinidades, enquanto a [presença que nos elege](/posts/o-que-e-animal-de-poder/) é pessoal e intransferível. [Faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e descubra qual caminha ao seu lado agora.

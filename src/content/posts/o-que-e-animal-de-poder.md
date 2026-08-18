@@ -44,7 +44,7 @@ O animal de poder não costuma bater à porta. Ele chega de lado, pelas frestas 
 
 ### Quando a noite fala
 
-Os sonhos são um dos canais mais antigos. [Nos sonhos, território onde a alma fala por símbolos](/guia-animais-sonhos-interpretacao-espiritual), o animal se apresenta de forma recorrente, vívida, carregada de uma estranheza que o diferencia dos sonhos comuns. Não é o cachorro da vizinha, mas um lobo que nos encara com olhos demasiado humanos. Não é um pássaro qualquer, mas uma coruja que pousa no umbral e insiste em ser vista. Para muitas linhagens, sonhar três ou mais vezes com o mesmo bicho é indício claro de um chamado – e ignorá‑lo seria recusar um diálogo que a própria alma iniciou.
+Os sonhos são um dos canais mais antigos. [Nos sonhos, território onde a alma fala por símbolos](/posts/guia-animais-sonhos-interpretacao-espiritual/), o animal se apresenta de forma recorrente, vívida, carregada de uma estranheza que o diferencia dos sonhos comuns. Não é o cachorro da vizinha, mas um lobo que nos encara com olhos demasiado humanos. Não é um pássaro qualquer, mas uma coruja que pousa no umbral e insiste em ser vista. Para muitas linhagens, sonhar três ou mais vezes com o mesmo bicho é indício claro de um chamado – e ignorá‑lo seria recusar um diálogo que a própria alma iniciou.
 
 ### O animal que cruza o caminho
 
@@ -60,7 +60,7 @@ Também há uma manifestação mais sutil, que muitos descrevem como uma sensaç
 
 Essa é a inversão que o pensamento utilitarista se recusa a aceitar. Preferimos acreditar que podemos eleger nosso guia conforme a necessidade do momento, como quem escolhe uma peça de roupa. Mas o animal de poder não está à venda. Ele se revela no tempo do espírito, não no da vontade.
 
-[A Coruja, por exemplo, não surge porque desejamos intuição; ela chega envolta em silêncio e nos convida a enxergar no escuro](/a-coruja-como-guia-do-poder-intuitivo-no-xamanismo). [Já o Lobo aparece quando a alma precisa aprender sobre lealdade, sobre o equilíbrio entre a solitude e a matilha, sobre um tipo de proteção que não aprisiona](/lobo-animal-de-poder-protecao-alcateia-lealdade). Cada um traz uma medicina específica, e só quem já foi procurado por eles sabe que não há engano possível.
+[A Coruja, por exemplo, não surge porque desejamos intuição; ela chega envolta em silêncio e nos convida a enxergar no escuro](/posts/a-coruja-como-guia-do-poder-intuitivo-no-xamanismo/). [Já o Lobo aparece quando a alma precisa aprender sobre lealdade, sobre o equilíbrio entre a solitude e a matilha, sobre um tipo de proteção que não aprisiona](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/). Cada um traz uma medicina específica, e só quem já foi procurado por eles sabe que não há engano possível.
 
 A tradição lembra que o despertar do animal de poder abre uma conexão profunda com o poder pessoal ainda não utilizado – mas é o animal quem decide a hora e o modo. Cabe a nós, como ensinam os mais velhos, escutar.
 

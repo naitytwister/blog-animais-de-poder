@@ -32,7 +32,7 @@ Essa universalidade se comprova quando olhamos para os testemunhos simbólicos a
 - **Mitologia grega**: o caduceu de Hermes e o bastão de Asclépio, com suas serpentes entrelaçadas ou ascendentes, tornaram-se o símbolo da medicina e da cura no Ocidente.
 - **Américas pré-colombianas**: a serpente emplumada, como Quetzalcóatl, representa a ponte entre o céu e a terra, o espírito que rasteja mas também voa.
 
-Sonhar com ela, portanto, não é um evento aleatório — é um encontro com uma imagem que já estava lá antes de você nascer, como vimos no nosso guia sobre [o significado espiritual dos animais nos sonhos](/sonhos-com-animais-significado-interpretar).
+Sonhar com ela, portanto, não é um evento aleatório — é um encontro com uma imagem que já estava lá antes de você nascer, como vimos no nosso guia sobre [o significado espiritual dos animais nos sonhos](/posts/sonhos-com-animais-significado-interpretar/).
 
 ## O que as tradições indígenas brasileiras revelam sobre a cobra?
 

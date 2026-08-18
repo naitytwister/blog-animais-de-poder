@@ -32,10 +32,11 @@ const reading = readingTime(body ?? '');
 
 const articleSchema = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  '@type': 'BlogPosting',
   headline: data.title,
   description: data.description,
   image: [cover],
+  wordCount: (body ?? '').trim().split(/\s+/).length,
   datePublished: formatDateIso(data.data),
   dateModified: formatDateIso(data.data),
   author: {
@@ -47,6 +48,7 @@ const articleSchema = {
     '@type': 'Organization',
     name: SITE.name,
     url: SITE.url,
+    logo: `${SITE.url}/favicon-192x192.png`,
   },
   mainEntityOfPage: {
     '@type': 'WebPage',

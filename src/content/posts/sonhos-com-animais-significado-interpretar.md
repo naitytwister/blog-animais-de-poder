@@ -51,7 +51,7 @@ Essas leituras são pontos de partida, não sentenças. O sonho é seu; o animal
 
 Em certos casos, o animal que surge no sonho vai além de um símbolo pontual: ele pode estar sinalizando uma conexão mais duradoura. Nas tradições xamânicas e nos estudos contemporâneos sobre espiritualidade, fala-se em animais de poder — guias espirituais que acompanham a pessoa ao longo de ciclos inteiros.
 
-Se um mesmo animal aparece em sonhos diferentes, em fases distintas da vida, vale investigar essa recorrência com mais profundidade. Assim como exploramos no [guia completo sobre animais de poder e sua relação com o zodíaco](/guia-definitivo-animais-poder-signo-zodiaco), essas criaturas não surgem por acaso. Elas espelham algo essencial sobre quem somos — ou sobre quem estamos prestes a nos tornar.
+Se um mesmo animal aparece em sonhos diferentes, em fases distintas da vida, vale investigar essa recorrência com mais profundidade. Assim como exploramos no [guia completo sobre animais de poder e sua relação com o zodíaco](/posts/guia-definitivo-animais-poder-signo-zodiaco/), essas criaturas não surgem por acaso. Elas espelham algo essencial sobre quem somos — ou sobre quem estamos prestes a nos tornar.
 
 ## Um método simples para registrar e aprofundar
 
