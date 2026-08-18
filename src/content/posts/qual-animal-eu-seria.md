@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-13T12:47:23Z'
 imagem_capa: "/images/qual-animal-eu-seria.jpg"
 imagem_alt: "Ilustração simbólica de oito animais de poder em mandala: lobo, águia, golfinho, polvo, elefante, coruja, serpente e urso, sob o olhar da mata."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 No instante em que a pergunta surge — qual animal eu seria? — ciência e mata oferecem respostas que se tocam. A etologia descreve padrões de temperamento entre espécies; a memória ancestral reconhece nesses padrões um arquétipo vivo. Não é um rótulo. É um espelho onde bicho e psique se encontram e reconhecem o próprio rastro.
 
@@ -65,7 +65,7 @@ Se você respondeu as doze perguntas e sentiu um nome pulsar, a conversa já com
 
 ## Sobre a Autora
 
-Cecilia Aranha é escritora e pesquisadora independente de simbologia animal e tradições ancestrais, com formação em psicologia analítica e estudos de comportamento animal. Há mais de uma década conduz círculos de leitura sobre mitologia, etologia e saberes da mata, unindo ciência e cosmovisão dos povos da floresta.
+Cecília Aranha é escritora e pesquisadora independente de simbologia animal e tradições ancestrais, com formação em psicologia analítica e estudos de comportamento animal. Há mais de uma década conduz círculos de leitura sobre mitologia, etologia e saberes da mata, unindo ciência e cosmovisão dos povos da floresta.
 
 ## Referências Ancestrais & Fontes
 

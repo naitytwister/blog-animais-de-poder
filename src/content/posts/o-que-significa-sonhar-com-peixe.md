@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-10T21:25:25Z'
 imagem_capa: "/images/o-que-significa-sonhar-com-peixe.jpg"
 imagem_alt: "Peixe prateado nadando em águas escuras e profundas, iluminado por um feixe de luz que desce da superfície, evocando o encontro entre o consciente e o inconsciente."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Sonhar com peixe é um convite para observar as correntes submersas da psique. Diferente do que muitos manuais sugerem, essa imagem não entrega respostas prontas sobre prosperidade ou azar. O peixe que cruza o seu sonho é, antes de tudo, um reflexo daquilo que se move nas profundezas que você não vê, mas que sustentam toda a superfície da sua vida. Como exploramos no nosso [guia completo sobre sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), o peixe ocupa um lugar muito específico: ele não pisa na terra firme da consciência — emerge de onde a luz mal alcança.
 

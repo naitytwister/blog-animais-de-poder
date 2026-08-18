@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-17T12:24:12Z'
 imagem_capa: "/images/animal-de-poder-gato-guardiao-do-umbral.jpg"
 imagem_alt: "Gato preto de olhos dourados em penumbra, representando o animal de poder gato como guardião do umbral"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O gato não cruza o umbral: ele o habita. Na linguagem simbólica de várias culturas, é o animal que anda pela escuridão sem pedir licença — imagem associada ao mistério e à autonomia. Em leituras espirituais, o gato como animal de poder costuma ser interpretado como um espelho para observar o invisível com curiosidade, sem prometer capacidades sobrenaturais. A independência do gato, nesse contexto simbólico, evoca uma postura de presença sem submissão, não um estado de solidão.
 

@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-14T15:56:54Z'
 imagem_capa: "/images/o-bicho-que-atravessa-a-mesa.jpg"
 imagem_alt: "Mesa comunitária ao entardecer, com velas e representações simbólicas de animais"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 A pergunta “qual animal você é” muda quando a mesa reúne mais de uma pessoa. Em vez de um retrato solitário, surge um bestiário doméstico: cada um revela um bicho e o conjunto forma o totem da casa. Antes de responder, vale lembrar que o animal de poder não é fixo — como mostramos no [guia definitivo de animais de poder por signo do zodíaco](/posts/guia-definitivo-animais-poder-signo-zodiaco/), ele pode mudar conforme a travessia.
 
@@ -61,4 +61,4 @@ O desafio devolve ao quiz uma função antiga: reconhecer, em volta da mesa, os 
 
 ---
 
-*Cecilia Aranha pesquisa simbolismo animal e tradições orais, com formação em mitologia comparada. Seus ensaios unem narrativas de povos originários, literatura e reflexão simbólica.*
+*Cecília Aranha pesquisa simbolismo animal e tradições orais, com formação em mitologia comparada. Seus ensaios unem narrativas de povos originários, literatura e reflexão simbólica.*

@@ -1,9 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Newsletter from '../../components/Newsletter.astro';
-import SupportCTA from '../../components/SupportCTA.astro';
-
-const quizUrl = `${import.meta.env.SITE_URL || 'https://animotem.com'}/quiz/animal-de-poder/`;
 ---
 
 <BaseLayout
@@ -159,7 +156,6 @@ const quizUrl = `${import.meta.env.SITE_URL || 'https://animotem.com'}/quiz/anim
     },
   };
 
-  const app = document.getElementById('quiz-app');
   let respostas: string[] = [];
 
   const qs = (id: string) => document.getElementById(id);
