@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-12T11:04:47Z'
 imagem_capa: "/images/a-pele-que-o-tempo-teceu-qual-e-o-seu-animal-de-poder.jpg"
 imagem_alt: "Silhueta de cinco animais de poder enfileirados sob a lua, convite à descoberta do animal que habita cada fase da vida"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Em muitas tradições xamânicas, fala‑se de uma “pele invisível” que muda conforme as estações da alma. O animal que nos empresta sua sabedoria não é um rótulo fixo — pode se alternar quando a vida pede outro passo. A exploração que você fará agora não entrega um diagnóstico, mas um convite lúdico a perceber qual símbolo animal parece ecoar com mais força no seu momento atual. Quem deseja entender como essa dança se relaciona com o céu interior encontra pistas no nosso [guia sobre animais de poder e os signos do zodíaco](/posts/guia-definitivo-animais-poder-signo-zodiaco/).
 
@@ -124,7 +124,7 @@ Em tradições que vão da Oceania à América do Norte, a Tartaruga representa 
 
 ## O espelho d’água: uma leitura simbólica, não um diagnóstico
 
-Carl Jung chamaria esses animais de arquétipos — imagens do inconsciente coletivo que podem emergir quando a psique busca ordenação. O exercício que você realizou não adivinha quem você é, mas, como um lago calmo, devolve um reflexo daquilo que talvez já esteja vibrando em seu peito. A variação do resultado ao longo do tempo não indica instabilidade; apenas lembra que a alma está viva e dialoga com as muitas camadas da existência. Cecilia Aranha, que há mais de uma década estuda a linguagem simbólica dos povos tradicionais, teceu estas palavras para que o leitor encontre, não certezas, mas novas perguntas.
+Carl Jung chamaria esses animais de arquétipos — imagens do inconsciente coletivo que podem emergir quando a psique busca ordenação. O exercício que você realizou não adivinha quem você é, mas, como um lago calmo, devolve um reflexo daquilo que talvez já esteja vibrando em seu peito. A variação do resultado ao longo do tempo não indica instabilidade; apenas lembra que a alma está viva e dialoga com as muitas camadas da existência. Cecília Aranha, que há mais de uma década estuda a linguagem simbólica dos povos tradicionais, teceu estas palavras para que o leitor encontre, não certezas, mas novas perguntas.
 
 > **Nota Editorial:** Os termos “medicina” e “sombra” foram empregados no sentido simbólico que muitas tradições xamânicas lhes atribuem. Nenhuma das descrições apresentadas constitui aconselhamento médico, psicológico ou terapêutico. Em caso de sofrimento emocional, busque sempre o apoio de profissionais de saúde.
 

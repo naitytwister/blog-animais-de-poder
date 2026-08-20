@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-17T18:31:46Z'
 imagem_capa: "/images/animal-de-poder-cachorro.jpg"
 imagem_alt: "Cachorro em posição de guarda diante de uma fenda de terra, simbolizando a escolha de ficar ao lado do humano"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Animal de poder cachorro é, na leitura simbólica das tradições xamânicas, a medicina da lealdade ativa, da proteção amorosa e da passagem entre mundos. Quando esse guardião se aproxima de uma pessoa, ele traz o arquétipo de quem permanece por escolha, não por imposição. Entre todos os bichos da criação, o cachorro pulou para o lado do humano. Ele não foi domado; escolheu. Essa narrativa pertence ao campo do mito e da interpretação cultural, não a uma verdade verificável sobre o comportamento animal ou sobre a psique humana.
 
@@ -65,7 +65,7 @@ A raiz do animal de poder cachorro não está na obediência, e sim no salto. A 
 
 ## Sobre a Autora
 
-Cecilia Aranha é escritora e pesquisadora de mitologia comparada e psicologia analítica, com foco em simbologia animal e tradições xamânicas. Há mais de dez anos, estuda as narrativas ancestrais que ligam humanos e animais de poder, sempre com respeito às culturas originárias e sem pretensão de verdades universais.
+Cecília Aranha é escritora e pesquisadora de mitologia comparada e psicologia analítica, com foco em simbologia animal e tradições xamânicas. Há mais de dez anos, estuda as narrativas ancestrais que ligam humanos e animais de poder, sempre com respeito às culturas originárias e sem pretensão de verdades universais.
 
 ## Referências Ancestrais & Fontes
 

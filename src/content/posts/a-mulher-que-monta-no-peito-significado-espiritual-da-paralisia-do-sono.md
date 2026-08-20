@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-16T09:36:36Z'
 imagem_capa: "/images/a-mulher-que-monta-no-peito-significado-espiritual-da-paralisia-do-sono.jpg"
 imagem_alt: "Pintura escura de uma mulher adormecida com figura espectral sobre o peito em claro-escuro"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você acorda, mas o corpo não responde. Sobre o peito, a sensação de um peso; ao lado, a impressão de uma presença feminina que parece montar na sua respiração. A paralisia do sono é esse limiar entre acordar e dormir. Na leitura simbólica de várias culturas, a mara eslava, o alp alemão, a velha inglesa e a pisadeira brasileira descrevem a mesma imagem de medo ancestral — sem nunca terem se encontrado. Essa figura não é uma entidade a ser combatida, nem um diagnóstico: antes de tudo, ela é um convite a nomear o que assombra o corpo imóvel.
 

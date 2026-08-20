@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-14T21:25:16Z'
 imagem_capa: "/images/teste-do-xamanismo.jpg"
 imagem_alt: "Sombra de lobo, águia, urso e serpente ao redor de uma fogueira ritual sob o luar"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O teste do xamanismo que circula nas redes é uma adaptação lúdica de um rito antigo de escuta, composto por cinco perguntas. Ele não mede nem revela nada de forma definitiva; propõe uma leitura simbólica dos arquétipos animais que podem dialogar com o seu momento. Ao somar os pontos, você encontra uma faixa e lê a sabedoria ancestral associada a ela. Como vimos no [guia definitivo de animais de poder por signo do zodíaco](/posts/guia-definitivo-animais-poder-signo-zodiaco/), o totem é compreendido aqui como um espelho simbólico do instante, não como identidade fixa.
 
