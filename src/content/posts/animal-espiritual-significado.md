@@ -36,7 +36,7 @@ Os três termos costumam ser confundidos, mas apontam relações diferentes. O a
 
 Reconhecer o animal espiritual não exige ritual complexo nem teste de pontuação. Pede apenas um estado de atenção: reparar no que se repete, nos animais que insistem em cruzar seus dias, nas imagens que retornam no sono. O chamado é um padrão, não um resultado.
 
-Os sinais concretos já detalhamos em [outro texto sobre como o espírito animal fala com você](/posts/3-sinais-espirito-animal-falar-com-voce/), mas a essência é a repetição. Se quer descobrir qual animal te acompanha agora, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/), mas lembre-se de que o teste aponta uma energia do momento, não substitui a escuta.
+Os sinais concretos já detalhamos em [outro texto sobre como o espírito animal fala com você](/posts/3-sinais-espirito-animal-falar-com-voce/), mas a essência é a repetição. Se quer descobrir qual animal te acompanha agora, [faça o teste do animal de poder](/quiz/animal-de-poder/), mas lembre-se de que o teste aponta uma energia do momento, não substitui a escuta.
 
 ### O que os sonhos revelam sobre o animal espiritual que nos escolhe?
 

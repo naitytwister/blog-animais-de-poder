@@ -49,7 +49,7 @@ Quem já viveu encontros onde o encanto se desfez ao amanhecer reconhece a sombr
 
 Porém, há outra leitura: na pajelança cabocla, o boto encantado orienta e reaparece como aliado simbólico. O encanto, quando honrado, vira ponte entre mundos; quando negado, vira abandono. A condição de “botado” — aquele que teve a sombra cortada pelo boto e se torna encantado após a morte — sugere que ser tocado por essa energia é uma iniciação irreversível, documentada em estudos sobre pajelança amazônica.
 
-No fim, o boto-cor-de-rosa não convida você a temer o desejo, mas a discernir quando ele pede verdade e permanência. Encantar, em chave simbólica, é uma força que aponta para o reconhecimento do próprio magnetismo e para o compromisso com a palavra dada. Se a energia do boto pulsa em você, o convite simbólico é reconhecer o magnetismo com presença. Se quer descobrir qual animal te acompanha agora, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/). Você já conheceu um boto? Conte nos comentários.
+No fim, o boto-cor-de-rosa não convida você a temer o desejo, mas a discernir quando ele pede verdade e permanência. Encantar, em chave simbólica, é uma força que aponta para o reconhecimento do próprio magnetismo e para o compromisso com a palavra dada. Se a energia do boto pulsa em você, o convite simbólico é reconhecer o magnetismo com presença. Se quer descobrir qual animal te acompanha agora, [faça o teste do animal de poder](/quiz/animal-de-poder/). Você já conheceu um boto? Conte nos comentários.
 
 ### Referências Ancestrais & Fontes
 

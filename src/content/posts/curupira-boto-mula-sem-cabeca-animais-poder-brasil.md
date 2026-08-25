@@ -41,7 +41,7 @@ A Mula sem Cabeça é a guardiã da encruzilhada, ponto onde o sagrado e o profa
 
 A resposta está no território que você mais frequenta e nos desafios que reconhece em sua jornada: cada guardião ressoa com um domínio específico — a mata, o rio ou a encruzilhada — que também frequentamos no mundo interior. Viver perto da mata é habitar a jurisdição feroz do Curupira. Pertencer às beiras de rio é navegar a fluidez magnética do Boto. Atravessar uma noite escura da alma é cruzar o caminho da Mula. São forças vivas no imaginário brasileiro. Quando uma árvore centenária cai e ninguém explica, o caboclo diz que o Curupira passou. Quando uma mulher engravida e o pai desaparece rio adentro, o povo ribeirinho sorri: é filho do Boto. Quando alguém larga tudo e vai embora sem olhar para trás, alguma avó comenta: ela tirou o freio.
 
-22 de agosto é o Dia do Folclore — mas o bestiário brasileiro não precisa de data para existir. Ele respira ao seu lado. Se quiser descobrir qual animal te acompanha agora, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/) e deixe seu guardião se revelar.
+22 de agosto é o Dia do Folclore — mas o bestiário brasileiro não precisa de data para existir. Ele respira ao seu lado. Se quiser descobrir qual animal te acompanha agora, [faça o teste oficial do site](/quiz/animal-de-poder/) e deixe seu guardião se revelar.
 
 ### Referências Ancestrais & Fontes
 
@@ -71,4 +71,4 @@ A lenda pune a mulher que amou um padre, mas o arquétipo vai além: o fogo que 
 
 **Como descobrir qual dos três guardiões me acompanha?**
 
-Observe o território que você mais frequenta e os desafios que vive. Mata e proteção remetem ao Curupira; águas, fluidez e criatividade chamam o Boto; travessias e rompimentos indicam a Mula sem Cabeça. [Faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) para uma orientação mais personalizada.
+Observe o território que você mais frequenta e os desafios que vive. Mata e proteção remetem ao Curupira; águas, fluidez e criatividade chamam o Boto; travessias e rompimentos indicam a Mula sem Cabeça. [Faça o teste do animal de poder](/quiz/animal-de-poder/) para uma orientação mais personalizada.

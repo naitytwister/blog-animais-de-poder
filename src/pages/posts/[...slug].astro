@@ -16,7 +16,7 @@ const allPosts = (await getCollection('posts')).sort(
   (a, b) => b.data.data.valueOf() - a.data.data.valueOf(),
 );
 
-const sameSubnicho = allPosts.filter((p) => p.id !== post.id);
+const sameSubnicho = allPosts.filter((p) => p.id !== post.id && p.data.subnicho === post.data.subnicho);
 const related = sameSubnicho.length >= 3
   ? sameSubnicho.slice(0, 3)
   : [

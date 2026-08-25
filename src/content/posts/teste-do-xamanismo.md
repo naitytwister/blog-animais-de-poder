@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-14T21:25:16Z'
 imagem_capa: "/images/teste-do-xamanismo.jpg"
 imagem_alt: "Sombra de lobo, águia, urso e serpente ao redor de uma fogueira ritual sob o luar"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O teste do xamanismo que circula nas redes é uma adaptação lúdica de um rito antigo de escuta, composto por cinco perguntas. Ele não mede nem revela nada de forma definitiva; propõe uma leitura simbólica dos arquétipos animais que podem dialogar com o seu momento. Ao somar os pontos, você encontra uma faixa e lê a sabedoria ancestral associada a ela. Como vimos no [guia definitivo de animais de poder por signo do zodíaco](/posts/guia-definitivo-animais-poder-signo-zodiaco/), o totem é compreendido aqui como um espelho simbólico do instante, não como identidade fixa.
 
@@ -86,7 +86,7 @@ Algo já cumpriu o ciclo. A troca de pele é uma imagem de fechamento e abertura
 
 > O totem não é uma sentença. É a voz do instante: válida para o trecho que você atravessa agora.
 
-Responda de novo só quando a estação mudar dentro de você. O animal que surge na leitura de hoje pode se retirar depois da travessia. Compare com amigos e observe onde cada simbologia aparece no cotidiano. Se o chamado insistir, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/). O quiz não encerra a caminhada; ele apenas nomeia, em linguagem simbólica, o que já caminha com você — sem prometer verdades ou resultados.
+Responda de novo só quando a estação mudar dentro de você. O animal que surge na leitura de hoje pode se retirar depois da travessia. Compare com amigos e observe onde cada simbologia aparece no cotidiano. Se o chamado insistir, [faça o teste oficial do site](/quiz/animal-de-poder/). O quiz não encerra a caminhada; ele apenas nomeia, em linguagem simbólica, o que já caminha com você — sem prometer verdades ou resultados.
 
 Lembre-se: esta ferramenta é uma proposta de reflexão cultural, não um substituto para apoio profissional em questões de saúde mental, física ou espiritual.
 
