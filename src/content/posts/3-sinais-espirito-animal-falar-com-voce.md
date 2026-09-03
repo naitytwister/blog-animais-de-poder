@@ -46,7 +46,7 @@ Esse encontro traz silêncio interno, como se o tempo suspendesse. Não é medo,
 
 > O animal que insiste não está invadindo seu caminho. Ele está dizendo que faz parte dele.
 
-Talvez você já tenha sido escolhido e ainda não soube nomear. Se o mesmo animal volta, em sonhos, em encontros, em imagens, a pergunta deixa de ser o que ele quer — e passa a ser por que você resiste a responder. O incômodo da repetição é, no fundo, um convite de guiança. Esse animal pode ser acolhido como um guia simbólico. Para descobrir qual caminha ao seu lado agora, faça o [teste do animal de poder](https://animotem.com/quiz/animal-de-poder/).
+Talvez você já tenha sido escolhido e ainda não soube nomear. Se o mesmo animal volta, em sonhos, em encontros, em imagens, a pergunta deixa de ser o que ele quer — e passa a ser por que você resiste a responder. O incômodo da repetição é, no fundo, um convite de guiança. Esse animal pode ser acolhido como um guia simbólico. Para descobrir qual caminha ao seu lado agora, faça o [teste do animal de poder](/quiz/animal-de-poder/).
 
 ### Uma ressalva importante
 

@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-13T12:47:23Z'
 imagem_capa: "/images/qual-animal-eu-seria.jpg"
 imagem_alt: "Ilustração simbólica de oito animais de poder em mandala: lobo, águia, golfinho, polvo, elefante, coruja, serpente e urso, sob o olhar da mata."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 No instante em que a pergunta surge — qual animal eu seria? — ciência e mata oferecem respostas que se tocam. A etologia descreve padrões de temperamento entre espécies; a memória ancestral reconhece nesses padrões um arquétipo vivo. Não é um rótulo. É um espelho onde bicho e psique se encontram e reconhecem o próprio rastro.
 
@@ -36,7 +36,7 @@ As doze perguntas que seguem não medem músculo nem inteligência lógica. Elas
 - Em noites difíceis, você procura recolhimento ou movimento?
 - O que a mata diria ao reconhecer seus rastros: caça, voo, mergulho ou espreita?
 
-Se preferir o caminho direto, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e reconheça o arquétipo que se apresenta agora.
+Se preferir o caminho direto, [faça o teste do animal de poder](/quiz/animal-de-poder/) e reconheça o arquétipo que se apresenta agora.
 
 > “Antes de classificar, a etologia escuta. Antes de nomear, a mata reconhece os rastros.”
 
@@ -73,4 +73,4 @@ Cecilia Aranha é escritora e pesquisadora independente de simbologia animal e t
 - GOSLING, S. D. From mice to men: what can we learn about personality from animal research? *Psychological Bulletin*, v. 127, n. 1, p. 45–86, 2001.
 - JUNG, C. G. *O homem e seus símbolos*. Rio de Janeiro: Nova Fronteira, 1964.
 - KRENAK, A. *Ideias para adiar o fim do mundo*. São Paulo: Companhia das Letras, 2019.
-- Portal Animotem. Teste oficial do animal de poder: https://animotem.com/quiz/animal-de-poder/
+- Portal Animotem. Teste oficial do animal de poder: /quiz/animal-de-poder/

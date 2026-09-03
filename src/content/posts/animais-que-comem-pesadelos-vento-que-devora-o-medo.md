@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-15T15:26:45Z'
 imagem_capa: "/images/animais-que-comem-pesadelos-vento-que-devora-o-medo.jpg"
 imagem_alt: "Ilustração simbólica de uma pessoa adormecida cercada por criaturas noturnas: um baku, uma figura feminina pálida e um gato preto."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Alguns animais devoram pesadelos. Outros pressionam o corpo adormecido até a falta de ar. Um terceiro vela a soleira entre o quarto e a sombra. No Japão, o Baku é descrito como aquele que engole o sonho ruim; na tradição, esse gesto devolve um presságio favorável ao despertar. Na Europa eslava, a Mara pesa sobre o tórax. No Brasil, a Pisadeira pisa na barriga cheia. Como vimos no [guia completo sobre sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), o visitante noturno espelha um medo antigo — e uma pergunta viva: quem devora, quem pesa, quem protege?
 
@@ -49,7 +49,7 @@ Segundo a lenda, um samurai foi salvo por um gato diante do templo Gotokuji, e a
 - Vermelho: associado ao afastamento de espíritos e enfermidades
 - Azul: associado à esperança e à realização de projetos
 
-Mas a sombra existe. O bakeneko e o nekomata, de duas caudas, lembram que o gato doméstico envelhece e pode atravessar o umbral nas narrativas. Para compreender a aparição felina no sonho, veja [o que significa sonhar com gato](/posts/o-que-significa-sonhar-com-gato/).
+Mas a sombra existe. O bakeneko e o nekomata, de duas caudas, lembram que o gato doméstico envelhece e pode atravessar o umbral nas narrativas. Para compreender a aparição felina no sonho, veja [o que significa sonhar com gato](/posts/animal-de-poder-gato-guardiao-do-umbral/).
 
 ## Quem é a Pisadeira e o que ela ensina sobre o excesso?
 
