@@ -85,4 +85,4 @@ A harmonia e intuição de Peixes ecoam no golfinho, símbolo de empatia.
 - **Aquário:** A Lontra inspira inovação.
 - **Peixes:** O Golfinho simboliza empatia.
 
-Ao compreender e refletir sobre esses animais de poder, podemos desenvolver uma relação mais íntima com nossas características e desafios inatos. Mas lembre-se: o zodíaco sugere afinidades, enquanto a [presença que nos elege](/posts/o-que-e-animal-de-poder/) é pessoal e intransferível. [Faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e descubra qual caminha ao seu lado agora.
+Ao compreender e refletir sobre esses animais de poder, podemos desenvolver uma relação mais íntima com nossas características e desafios inatos. Mas lembre-se: o zodíaco sugere afinidades, enquanto a [presença que nos elege](/posts/o-que-e-animal-de-poder/) é pessoal e intransferível. [Faça o teste do animal de poder](/quiz/animal-de-poder/) e descubra qual caminha ao seu lado agora.

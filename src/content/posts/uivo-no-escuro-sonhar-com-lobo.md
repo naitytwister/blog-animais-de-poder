@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-06T14:37:43Z'
 imagem_capa: "/images/uivo-no-escuro-sonhar-com-lobo.jpg"
 imagem_alt: "Lobo cinzento uivando sob a lua cheia em uma floresta noturna, simbolizando o chamado do inconsciente nos sonhos."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Na leitura simbólica dos sonhos, o lobo não aparece para assustar. Em diversas tradições ancestrais, acredita-se que esse animal surge como imagem de um chamado interior, convidando a revisitar o que ficou esquecido na noite da psique. Como mostramos no nosso [guia sobre o que os animais querem dizer quando aparecem nos sonhos](/posts/sonhos-com-animais-significado-interpretar/), cada bicho toca a psique de um jeito próprio. O lobo vem pelo uivo, não pela presença física — e é aí que mora o seu mistério. Este texto não oferece aconselhamento psicológico; é um mergulho em sentidos culturais e simbólicos.
 
@@ -43,7 +43,7 @@ Na leitura simbólica dos sonhos, o lobo não vem como ameaça. Nas narrativas a
 
 ## O retorno do uivo
 
-Talvez você perceba, ao acordar, que o uivo ainda ressoa: não como um grito, mas como uma pergunta que a noite deixou em você. Nas leituras simbólicas, o lobo do sonho não pede que você se torne feroz; convida a olhar para o que ficou fragmentado. Se quer descobrir qual animal te acompanha agora, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/). Qual desses sinais você já percebeu na sua vida?
+Talvez você perceba, ao acordar, que o uivo ainda ressoa: não como um grito, mas como uma pergunta que a noite deixou em você. Nas leituras simbólicas, o lobo do sonho não pede que você se torne feroz; convida a olhar para o que ficou fragmentado. Se quer descobrir qual animal te acompanha agora, [faça o teste oficial do site](/quiz/animal-de-poder/). Qual desses sinais você já percebeu na sua vida?
 
 ## Referências Ancestrais & Fontes
 

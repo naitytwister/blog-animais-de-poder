@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-03T15:30:01Z'
 imagem_capa: "/images/o-voo-no-sonho-o-que-significa-sonhar-com-passaros-e-aves.jpg"
 imagem_alt: "Pássaro em voo cruzando o céu ao entardecer, símbolo da alma que sonha"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Na visão ancestral dos povos ameríndios, quando o corpo adormece, algo na respiração se lembra de que pertence ao ar. Os antigos chamavam isso de alma-sonho: uma centelha que se desprende da pele como o pássaro do galho, sem aviso e sem adeus. Sonhar com pássaros e aves, portanto, não é um mero acaso da memória. É o sonho reconhecendo a si mesmo — o voo que você já realiza todas as noites, quando o mundo físico afrouxa as amarras e a consciência retoma as asas.
 
@@ -39,7 +39,7 @@ Em diferentes tradições, cada ave carrega uma medicina simbólica distinta. A 
 - **A fênix**: o renascimento. Inspirada no Bennu egípcio, ela aparece quando uma versão sua precisa terminar para outra nascer.
 - **O condor**: visão ampla. Sua envergadura ensina a ver de cima o que no chão parecia sem saída.
 
-Essas associações são leituras simbólicas, variáveis conforme o contexto do sonho e a história de cada sonhador. Se você quer descobrir qual dessas medicinas te acompanha agora, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/) e reconheça o parente espiritual que visita seus sonhos.
+Essas associações são leituras simbólicas, variáveis conforme o contexto do sonho e a história de cada sonhador. Se você quer descobrir qual dessas medicinas te acompanha agora, [faça o teste oficial do site](/quiz/animal-de-poder/) e reconheça o parente espiritual que visita seus sonhos.
 
 ## Como a visão de Jung interpreta o pássaro dos sonhos?
 
@@ -84,4 +84,4 @@ Um pássaro em voo ascendente costuma indicar, simbolicamente, que uma intençã
 
 **Como saber qual pássaro aparece nos meus sonhos?**
 
-Observe os detalhes ao acordar: forma, cor, canto, direção. Anote em um caderno antes que a imagem se dissolva. Se quiser aprofundar o vínculo e reconhecer o parente espiritual que te visita, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/).
+Observe os detalhes ao acordar: forma, cor, canto, direção. Anote em um caderno antes que a imagem se dissolva. Se quiser aprofundar o vínculo e reconhecer o parente espiritual que te visita, [faça o teste oficial do site](/quiz/animal-de-poder/).

@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-15T21:20:55Z'
 imagem_capa: "/images/quais-animais-representam-os-sonhos.jpg"
 imagem_alt: "Ilustração simbólica de um corvo, um gato e o deus Bes velando o sono"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de dormir, você apaga a luz e imagina, enfim, estar sozinho. A memória dos povos antigos, porém, guarda outra leitura: em diferentes culturas, certas figuras foram descritas como vigias simbólicos do mundo onírico. Corvos mensageiros, gatos associados ao mistério e pequenos deuses afastadores de pesadelos povoam essas narrativas. Neste ensaio, você verá quais animais representam os sonhos na linguagem do mito.
 
@@ -43,7 +43,7 @@ Diferentemente da maioria das divindades egípcias, Bes era representado de fren
 
 Nas tradições xamânicas, o animal de poder é descrito como um vigia espiritual que acompanha a pessoa também no mundo dos sonhos. Ele não apenas aparece como imagem, mas, segundo algumas culturas, assegura simbolicamente o retorno da viagem onírica.
 
-Outras tradições falam em um bicho que se deita ao lado do corpo adormecido; outras, em um animal que abre caminhos no sonho. Se quer descobrir qual animal te acompanha nessa leitura, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/). A pergunta inversa também importa: no nosso ensaio sobre [se os animais sonham](/posts/os-animais-sonham-se-sonham-eles-sonham-conosco/), exploramos a fronteira entre o sono animal e o humano.
+Outras tradições falam em um bicho que se deita ao lado do corpo adormecido; outras, em um animal que abre caminhos no sonho. Se quer descobrir qual animal te acompanha nessa leitura, [faça o teste do animal de poder](/quiz/animal-de-poder/). A pergunta inversa também importa: no nosso ensaio sobre [se os animais sonham](/posts/os-animais-sonham-se-sonham-eles-sonham-conosco/), exploramos a fronteira entre o sono animal e o humano.
 
 Agora, antes de apagar a luz, você já sabe que, no vocabulário do mito, não sonha sozinho. O corvo pode trazer um recado; a gata de Freya, guardar a porta; Bes, afastar o pesadelo. E há, ainda, o bicho que, segundo algumas tradições, já caminha ao seu lado sem pedir licença. Qual guardião te acompanha?
 
