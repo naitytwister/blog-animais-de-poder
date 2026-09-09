@@ -21,14 +21,15 @@ function applyReveal(el: HTMLElement): void {
   const type = el.dataset.animate || 'fade-up';
   const delay = parseFloat(el.dataset.animateDelay || '0');
 
-  const fromMap: Record<string, { opacity: number; y?: number; scale?: number }> = {
-    'fade-up': { opacity: 0, y: 24 },
-    fade: { opacity: 0 },
-    scale: { opacity: 0, scale: 0.94 },
+  const initialStyles: Record<string, { opacity: string; transform?: string }> = {
+    'fade-up': { opacity: '0', transform: 'translateY(24px)' },
+    fade: { opacity: '0' },
+    scale: { opacity: '0', transform: 'scale(0.94)' },
   };
-  const from = fromMap[type] || fromMap['fade-up'];
+  const initial = initialStyles[type] || initialStyles['fade-up'];
 
-  el.style.opacity = '0';
+  el.style.opacity = initial.opacity;
+  if (initial.transform) el.style.transform = initial.transform;
   el.style.willChange = 'opacity, transform';
 
   inView(

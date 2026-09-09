@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-15T21:20:55Z'
 imagem_capa: "/images/quais-animais-representam-os-sonhos.jpg"
 imagem_alt: "Ilustração simbólica de um corvo, um gato e o deus Bes velando o sono"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de dormir, você apaga a luz e imagina, enfim, estar sozinho. A memória dos povos antigos, porém, guarda outra leitura: em diferentes culturas, certas figuras foram descritas como vigias simbólicos do mundo onírico. Corvos mensageiros, gatos associados ao mistério e pequenos deuses afastadores de pesadelos povoam essas narrativas. Neste ensaio, você verá quais animais representam os sonhos na linguagem do mito.
 

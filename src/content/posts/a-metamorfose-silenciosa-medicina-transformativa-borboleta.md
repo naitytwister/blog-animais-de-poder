@@ -9,7 +9,7 @@ pilar_slug: "/posts/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo/"
 data: '2026-08-11T18:54:57Z'
 imagem_capa: "/images/a-metamorfose-silenciosa-medicina-transformativa-borboleta.jpg"
 imagem_alt: "Borboleta com asas azuis e negras repousando sobre uma folha, simbolizando a pausa sagrada da crisálida na medicina xamânica"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há momentos em que a vida pede mais do que uma simples mudança. Ela exige uma metamorfose — a dissolução completa do que você foi até agora. O animal de poder borboleta carrega, de forma simbólica, essa inteligência ancestral que inspira os processos onde a forma antiga precisa se desfazer para que uma nova possa surgir. Não se trata de uma prescrição, mas de uma reflexão cultural sobre ciclos de transformação. Vale lembrar que essas leituras são simbólicas e não substituem o acompanhamento de profissionais de saúde quando se trata de questões emocionais ou psicológicas.
 
