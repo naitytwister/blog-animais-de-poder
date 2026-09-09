@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-11T12:41:49Z'
 imagem_capa: "/images/o-grande-retiro-urso-medicina-forca-silenciosa.jpg"
 imagem_alt: "Urso pardo em postura de poder, com olhar sereno, representando a força silenciosa da hibernação espiritual."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há um momento em que até a criatura mais poderosa da floresta se recolhe. Para as tradições xamânicas, a imagem do urso que some na escuridão da caverna não fala de fuga, mas de uma força que o mundo exterior nem sempre alcança: a coragem de se retirar para dentro. Quem carrega o peso dos dias e a exaustão de nunca parar talvez reconheça esse chamado — a urgência de uma pausa profunda, onde a quietude não é ausência, mas preparação. Esta leitura simbólica não substitui cuidados de saúde; se o cansaço for persistente, buscar apoio profissional é sempre sábio.
 

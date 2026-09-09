@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-16T09:36:36Z'
 imagem_capa: "/images/a-mulher-que-monta-no-peito-significado-espiritual-da-paralisia-do-sono.jpg"
 imagem_alt: "Pintura escura de uma mulher adormecida com figura espectral sobre o peito em claro-escuro"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você acorda, mas o corpo não responde. Sobre o peito, a sensação de um peso; ao lado, a impressão de uma presença feminina que parece montar na sua respiração. A paralisia do sono é esse limiar entre acordar e dormir. Na leitura simbólica de várias culturas, a mara eslava, o alp alemão, a velha inglesa e a pisadeira brasileira descrevem a mesma imagem de medo ancestral — sem nunca terem se encontrado. Essa figura não é uma entidade a ser combatida, nem um diagnóstico: antes de tudo, ela é um convite a nomear o que assombra o corpo imóvel.
 
@@ -44,7 +44,7 @@ Aqui não se trata de provar a existência de um visitante sobrenatural, mas de 
 
 Este artigo explora o simbolismo cultural e psicológico da paralisia do sono. Ele **não substitui orientação médica ou psicológica**. Episódios frequentes de paralisia do sono devem ser avaliados por profissional de saúde. Nenhuma passagem aqui sugere que a figura da montadora seja real, que carregue intenção divina ou que sirva para diagnóstico, cura ou tratamento. A leitura espiritual do mito não anula a biologia — apenas devolve ao corpo a dignidade da metáfora.
 
-Assim, quando essa imagem da velha visitar o limiar do sono, talvez ela não seja a inimiga a expulsar, mas um chamado a escutar o que ficou atravessado entre o sono e o despertar. Se você já sentiu esse peso no peito, conte sua experiência de paralisia nos comentários. E se a presença que te visita parece animal em vez de humana, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) para reconhecer o guardião que atravessa os sonhos.
+Assim, quando essa imagem da velha visitar o limiar do sono, talvez ela não seja a inimiga a expulsar, mas um chamado a escutar o que ficou atravessado entre o sono e o despertar. Se você já sentiu esse peso no peito, conte sua experiência de paralisia nos comentários. E se a presença que te visita parece animal em vez de humana, [faça o teste do animal de poder](/quiz/animal-de-poder/) para reconhecer o guardião que atravessa os sonhos.
 
 ## Referências Ancestrais & Fontes
 

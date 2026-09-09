@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-18T12:25:36Z'
 imagem_capa: "/images/animal-de-poder-coruja-chamado-secreto-adiar-fim.jpg"
 imagem_alt: "Ilustração simbólica de uma coruja noturna sobre galho, com olhos luminosos e penas escuras, sob um céu estrelado e lua crescente"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 A coruja não anuncia a morte; ela guarda o limiar onde a noite e o dia se tocam. Como animal de poder, é a sentinela da visão noturna: enxerga na escuridão aquilo que o dia esconde e devolve ao silêncio as verdades que a pressa não ouve. Quando essa imagem aparece em sonhos ou reflexões, a pergunta sugerida pela tradição não é sobre eventos futuros, mas sobre o que merece atenção no presente.
 

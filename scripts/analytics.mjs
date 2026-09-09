@@ -74,9 +74,6 @@ const fmt = new Intl.NumberFormat('pt-BR');
 const pct = (v, t) => (t ? ` ${((v / t) * 100).toFixed(1)}%` : '');
 
 async function main() {
-  const pathClause = pathFilter ? `filter: { datetime_geq: "${from}", datetime_lt: "${to}", requestPath: "${pathFilter}" }` : `filter: { datetime_geq: "${from}", datetime_lt: "${to}" }`;
-  const base = `accounts(filter: { accountTag: "${ACCOUNT}" }) { rumPageloadEventsAdaptiveGroups(${pathClause}, limit: 2000`;
-
   const [total, porDia, topPath, topPais, topBrowser, topOS, topDevice, topRef, ultimos] =
     await Promise.all([
       gql(`{ viewer { ${queryNode(baseArgs, 'date')} } }`).catch(() => ({})),

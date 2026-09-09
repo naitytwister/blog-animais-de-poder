@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-17T12:24:12Z'
 imagem_capa: "/images/animal-de-poder-gato-guardiao-do-umbral.jpg"
 imagem_alt: "Gato preto de olhos dourados em penumbra, representando o animal de poder gato como guardião do umbral"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O gato não cruza o umbral: ele o habita. Na linguagem simbólica de várias culturas, é o animal que anda pela escuridão sem pedir licença — imagem associada ao mistério e à autonomia. Em leituras espirituais, o gato como animal de poder costuma ser interpretado como um espelho para observar o invisível com curiosidade, sem prometer capacidades sobrenaturais. A independência do gato, nesse contexto simbólico, evoca uma postura de presença sem submissão, não um estado de solidão.
 
@@ -47,7 +47,7 @@ Nas leituras espirituais, a independência do gato é interpretada como um convi
 
 Psicologicamente, a imagem do gato pode ser usada como metáfora para integrar a sombra sem se perder nela: ver o que está escondido, nomear o medo, mas não ser governado por ele. Trata-se de uma linguagem poética, não de um diagnóstico ou de um conselho de saúde mental. Essa leitura junguiana aponta para a possibilidade de reconhecer os próprios aspectos ocultos sem se identificar com eles.
 
-Quando o gato aparece como espírito auxiliar, em muitas abordagens simbólicas, ele não pede adoração. Ele simplesmente senta no portal e espera que a pessoa decida cruzá-lo. Se você ainda não sabe qual animal te acompanha agora, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e observe o que surge no seu limiar.
+Quando o gato aparece como espírito auxiliar, em muitas abordagens simbólicas, ele não pede adoração. Ele simplesmente senta no portal e espera que a pessoa decida cruzá-lo. Se você ainda não sabe qual animal te acompanha agora, [faça o teste do animal de poder](/quiz/animal-de-poder/) e observe o que surge no seu limiar.
 
 > “O gato não cruza o umbral: ele o habita. Sua imagem lembra que é possível estar presente no mistério sem se submeter a ele.”
 

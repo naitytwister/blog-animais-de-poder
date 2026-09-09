@@ -50,7 +50,7 @@ O Curupira permanece atual porque sua figura denuncia a devastação ambiental e
 
 No Brasil, onde a floresta ainda arde em nome do lucro, sua mensagem simbólica é a de que refletir sobre proteção é um ato de consciência — não basta lamentar, é preciso reorientar os passos diários. Cada pessoa que opta por viver de forma mais atenta confunde, em metáfora, os rastros do extrativismo. Essa leitura não promete mudanças externas garantidas, mas propõe um espelho ético para as escolhas individuais.
 
-Talvez o Curupira não seja um mito para ser entendido, mas um espelho para ser atravessado. Se os pés virados para trás confundem os inimigos, é porque a floresta aprendeu a não deixar rastros para quem só sabe caçar. Qual desses sinais do guardião já se manifestou na sua vida? Para descobrir qual animal de poder guarda o seu próprio território interior, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/).
+Talvez o Curupira não seja um mito para ser entendido, mas um espelho para ser atravessado. Se os pés virados para trás confundem os inimigos, é porque a floresta aprendeu a não deixar rastros para quem só sabe caçar. Qual desses sinais do guardião já se manifestou na sua vida? Para descobrir qual animal de poder guarda o seu próprio território interior, [faça o teste do animal de poder](/quiz/animal-de-poder/).
 
 ### Referências Ancestrais & Fontes
 
