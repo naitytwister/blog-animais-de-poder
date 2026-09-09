@@ -21,3 +21,7 @@ pnpm-debug.log*
 
 # logs locais
 preview.log
+
+# test results
+test-results/
+playwright-report/

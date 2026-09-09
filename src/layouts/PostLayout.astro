@@ -124,7 +124,14 @@ const faqSchema = faq.length
 
     <div class="post-cover">
       <div class="container-narrow">
-        <img src={data.imagem_capa} alt={data.imagem_alt} width="1200" height="800" />
+        <img
+          src={data.imagem_capa}
+          alt={data.imagem_alt}
+          width="1200"
+          height="800"
+          loading="eager"
+          decoding="async"
+        />
       </div>
     </div>
 

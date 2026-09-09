@@ -13,7 +13,14 @@ const avatarSrc = isAuthor ? AUTHOR.avatar : undefined;
 <aside class="author" itemscope itemtype="https://schema.org/Person">
   <a class="author-avatar" href={isAuthor ? AUTHOR.pagePath : '/sobre/'} aria-hidden="true" tabindex="-1">
     {avatarSrc ? (
-      <img src={avatarSrc} alt="" width="64" height="64" loading="lazy" decoding="async" />
+      <img
+        src={avatarSrc}
+        alt={name}
+        width="64"
+        height="64"
+        loading="lazy"
+        decoding="async"
+      />
     ) : (
       <span>{name.charAt(0)}</span>
     )}

@@ -29,6 +29,8 @@ function applyReveal(el: HTMLElement): void {
   const from = fromMap[type] || fromMap['fade-up'];
 
   el.style.opacity = '0';
+  if (from.y) el.style.transform = `translateY(${from.y}px)`;
+  if (from.scale) el.style.transform = `scale(${from.scale})`;
   el.style.willChange = 'opacity, transform';
 
   inView(

@@ -34,6 +34,14 @@ export const ANALYTICS = {
     '03c9a04aeb094c87abb8f1ff59a7c2ce',
 };
 
+export const SOCIAL = {
+  kofi: import.meta.env.PUBLIC_KOFI_URL || 'https://ko-fi.com/animotem',
+  // As URLs abaixo podem ser preenchidas via env vars: PUBLIC_INSTAGRAM_URL, PUBLIC_FACEBOOK_URL, PUBLIC_TWITTER_URL
+  instagram: import.meta.env.PUBLIC_INSTAGRAM_URL || '',
+  facebook: import.meta.env.PUBLIC_FACEBOOK_URL || '',
+  twitter: import.meta.env.PUBLIC_TWITTER_URL || '',
+};
+
 export const SUBNICHOS: Record<
   string,
   { titulo: string; descricao: string; slug_categoria: string; icone: string }

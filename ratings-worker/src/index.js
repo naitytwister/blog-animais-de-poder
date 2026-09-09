@@ -5,6 +5,7 @@
  * Endpoints:
  *   GET  /api/avg/:slug     -> { slug, avg, count }  (média e total de votos)
  *   POST /api/rate/:slug    -> body { stars: 1..5 }  (registra/atualiza voto)
+ *   GET/POST /api/indexnow  -> Submit para IndexNow (Bing/Yandex)
  *
  * Anti-spam: voto único por IP (hash de IP + slug). O IP cru nunca é gravado.
  * CORS aberto (leitura pública) para o blog servir de qualquer domínio.
@@ -44,7 +45,11 @@ export default {
     const match = url.pathname.match(/^\/api\/(avg|rate)\/([^/]+)\/?$/);
 
     if (!match) {
-      return json({ error: 'Rota não encontrada. Use /api/avg/:slug ou /api/rate/:slug' }, 404);
+      // Verifica se é rota IndexNow
+      if (url.pathname === '/api/indexnow') {
+        return await handleIndexNow(request, env);
+      }
+      return json({ error: 'Rota não encontrada. Use /api/avg/:slug, /api/rate/:slug ou /api/indexnow' }, 404);
     }
 
     const [, action, slug] = match;
@@ -67,6 +72,74 @@ export default {
       return json({ error: 'Erro interno' }, 500);
     }
   },
+};
+
+async function handleIndexNow(request, env) {
+  // GET - retorna o status e instruções
+  if (request.method === 'GET') {
+    return json({
+      status: 'indexnow-endpoint',
+      site: env.INDEXNOW_SITE || 'https://animotem.com',
+      instructions: 'POST para /api/indexnow com JSON {site, url, keyWords?, apiKey}',
+    });
+  }
+
+  // POST - submite para o IndexNow
+  if (request.method === 'POST') {
+    try {
+      const body = await request.json();
+      const { site, url, keyWords, apiKey } = body;
+
+      if (!site) {
+        return json({ error: 'Parâmetro "site" é obrigatório' }, 400);
+      }
+
+      // Usa a API key do ambiente ou fallback
+      const indexNowApiKey = apiKey || env.INDEXNOW_API_KEY;
+
+      if (!indexNowApiKey) {
+        return json({
+          error: 'API Key do IndexNow não configurada. Defina INDEXNOW_API_KEY no ambiente ou passe no corpo da requisição.',
+        }, 400);
+      }
+
+      // Endpoint do IndexNow
+      const endpoint = 'https://api.indexnow.org/v1/submit';
+
+      try {
+        const submitBody = {
+          site: site,
+          ...(url && { url: url }),
+          ...(keyWords && { keyWords: keyWords }),
+        };
+
+        const submitResponse = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'api-key': indexNowApiKey,
+            'host': new URL(site).host,
+            'content-type': 'application/json',
+          },
+          body: JSON.stringify(submitBody),
+        });
+
+        const data = await submitResponse.json();
+
+        return json({
+          success: submitResponse.ok,
+          data,
+          site,
+          url: url || undefined,
+        });
+      } catch (err) {
+        return json({ error: err.message }, 500);
+      }
+    } catch (err) {
+      return json({ error: err.message }, 500);
+    }
+  }
+
+  return json({ error: 'Método não permitido' }, 405);
 };
 
 async function handleAvg(db, slug) {
