@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-08-15T12:19:32Z'
 imagem_capa: "/images/como-descobrir-meu-animal-de-poder.jpg"
 imagem_alt: "Ilustração simbólica de um buscador diante de quatro portas de madeira em meio à mata, com a luz da lua revelando pegadas de animais ao redor."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Existe uma pergunta que insiste: como descobrir o animal que me acompanha no invisível? Muitas tradições xamânicas descrevem quatro portas de escuta — três rituais contemplativos e um teste de espelho — praticadas com reverência, como quem caminha descalço em território sagrado. Como vimos no [guia completo sobre o que é animal de poder](/posts/o-que-e-animal-de-poder/), essa busca é menos sobre obter respostas do que sobre refinar a pergunta.
 
@@ -47,7 +47,7 @@ Um sonho isolado pode ser apenas memória. A repetição — como um gavião que
 
 Longe de ser adivinhação, o teste pode ser usado como um espelho simbólico: ao responder perguntas sobre o momento presente, a pessoa pode identificar qual arquétipo ressoa com sua experiência atual. É um recurso de reflexão, não um substituto da prática contemplativa. Ele não oferece diagnóstico, tratamento ou recomendação de saúde.
 
-Algumas pessoas relatam que, diante de perguntas diretas, a intuição responde antes da análise racional, mas isso é uma experiência subjetiva e não um efeito garantido. Também há relatos de que o animal indicado no teste coincide com imagens que já vinham aparecendo em sonhos ou na natureza, embora isso não seja uma regra. Por isso, vale atravessar a quarta porta como quem pede um relance — e depois caminhar devagar pelas três primeiras. Se quer explorar qual animal ressoa com você agora, [faça o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) e confronte o resultado com o que você já vinha sentindo. Depois, aprofunde o mergulho no [teste que devolve o espelho da alma](/posts/espelho-da-alma-teste-para-descobrir-seu-animal-de-poder/).
+Algumas pessoas relatam que, diante de perguntas diretas, a intuição responde antes da análise racional, mas isso é uma experiência subjetiva e não um efeito garantido. Também há relatos de que o animal indicado no teste coincide com imagens que já vinham aparecendo em sonhos ou na natureza, embora isso não seja uma regra. Por isso, vale atravessar a quarta porta como quem pede um relance — e depois caminhar devagar pelas três primeiras. Se quer explorar qual animal ressoa com você agora, [faça o teste do animal de poder](/quiz/animal-de-poder/) e confronte o resultado com o que você já vinha sentindo. Depois, aprofunde o mergulho no [teste que devolve o espelho da alma](/posts/espelho-da-alma-teste-para-descobrir-seu-animal-de-poder/).
 
 Descobrir um animal de poder é, para muitas tradições, um processo contínuo de atenção e escuta, não um evento único. As quatro portas — tambor, altar, sinais e espelho — são práticas simbólicas que convidam à presença. Em vez de comandar uma resposta, muitos relatos sugerem que a percepção costuma emergir em estados de quietude, mas isso não é garantia nem regra. Nenhuma dessas práticas constitui tratamento; são gestos de contemplação cultural.
 

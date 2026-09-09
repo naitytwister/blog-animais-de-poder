@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-19T12:26:16Z'
 imagem_capa: "/images/olhar-da-onca-jaguar-animal-de-poder.jpg"
 imagem_alt: "Onça-pintada na escuridão da floresta, olhos brilhantes, símbolo do animal de poder jaguar e da medicina da noite"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 *“Há um par de olhos que brilha na escuridão da mata. A onça-pintada não caça você: ela o convoca. Caminhar pela noite sem medo é um símbolo vivo do que o jaguar representa para quem se esqueceu da própria força.”*
 
@@ -48,7 +48,7 @@ Para o povo Shipibo, o jaguar representa, em seus relatos culturais, o enfrentam
 
 > “Caminhar pela noite sem medo não é ausência de escuridão, mas familiaridade com ela. A onça não ataca a sombra que carrega: aprende a senti-la nos contornos da própria pele, nas brechas do instante, nos silêncios que a luz não alcança. Sua visão noturna não enxerga o que é diferente dela, e sim o que é íntimo demais para ser nomeado. Por isso, o jaguar não ensina a vencer o medo como quem vence um inimigo externo. Ele convida a respirar dentro do medo, a reconhecer-lhe o cheiro e a não recuar quando o primeiro instinto grita fuga. Esse reconhecimento simbólico transforma o escuro em território conhecido, e o bote em gesto de escuta do próprio tempo. O jaguar, assim, espelha a possibilidade de o caminhante reconhecer-se inteiro — com unhas, silêncio e olhos acesos na noite.”
 
-Você já percebeu que, nos dias mais escuros, era justamente o medo que ensinava o caminho — mas só depois que você parou de fugir? A onça que aparece em sonhos, sincronicidades ou encontros reais não pede espetáculo: ela convoca presença. Se a visão desse animal o toca agora, vale [fazer o teste do animal de poder](https://animotem.com/quiz/animal-de-poder/) para escutar, em registro simbólico, qual voz interior o acompanha neste trecho da travessia. Talvez seja a onça. Talvez seja outro parente das matas com a imagem certa para este momento.
+Você já percebeu que, nos dias mais escuros, era justamente o medo que ensinava o caminho — mas só depois que você parou de fugir? A onça que aparece em sonhos, sincronicidades ou encontros reais não pede espetáculo: ela convoca presença. Se a visão desse animal o toca agora, vale [fazer o teste do animal de poder](/quiz/animal-de-poder/) para escutar, em registro simbólico, qual voz interior o acompanha neste trecho da travessia. Talvez seja a onça. Talvez seja outro parente das matas com a imagem certa para este momento.
 
 ## Referências Ancestrais & Fontes
 
@@ -71,4 +71,4 @@ Sonhar com onça-pintada costuma ser lido como um chamado para olhar de frente u
 
 ### Como saber se a onça é meu animal de poder?
 
-O encontro costuma se repetir em sonhos, imagens, sincronicidades e meditações com carga de estranheza. Para confirmar, o ideal é buscar um facilitador de confiança ou usar ferramentas simbólicas como o [teste do animal de poder](https://animotem.com/quiz/animal-de-poder/), observando se a presença da onça gera reconhecimento, e não apenas admiração. Esse reconhecimento é subjetivo e cultural.
+O encontro costuma se repetir em sonhos, imagens, sincronicidades e meditações com carga de estranheza. Para confirmar, o ideal é buscar um facilitador de confiança ou usar ferramentas simbólicas como o [teste do animal de poder](/quiz/animal-de-poder/), observando se a presença da onça gera reconhecimento, e não apenas admiração. Esse reconhecimento é subjetivo e cultural.

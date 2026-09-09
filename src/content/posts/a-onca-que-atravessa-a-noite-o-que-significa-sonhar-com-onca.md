@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-02T15:37:35Z'
 imagem_capa: "/images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca.jpg"
 imagem_alt: "Onça-pintada com olhar sereno atravessando a escuridão da floresta, em tons de azul profundo e dourado, representando a travessia da noite no sonho"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 > A onça não veio te atacar no sonho. Ela veio lembrar que existe uma força em você que nunca aprendeu a pedir licença.
 
@@ -35,7 +35,7 @@ Na perspectiva junguiana, a onça pode ser compreendida como imagem da sombra �
 
 > **Nota Editorial:** Este conteúdo reflete uma leitura simbólica e cultural, não um aconselhamento médico ou psicológico. Sonhos com animais podem evocar emoções intensas, especialmente em períodos de luto ou estresse. Se houver sofrimento persistente, busque acompanhamento de um profissional de saúde mental autorizado, como psicólogo ou psiquiatra. Nenhuma imagem onírica substitui a escuta qualificada de um profissional habilitado.
 
-Se o sonho se repete, vale observar: quando o mesmo animal volta toda noite, a mensagem está amadurecendo. Se quer descobrir qual animal te acompanha agora, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/).
+Se o sonho se repete, vale observar: quando o mesmo animal volta toda noite, a mensagem está amadurecendo. Se quer descobrir qual animal te acompanha agora, [faça o teste oficial do site](/quiz/animal-de-poder/).
 
 Na próxima noite em que a onça voltar, sustente o olhar. Ela não está ali para cobrar nada de você — está ali para lembrar que a coragem de ser inteiro é a forma mais antiga de pedir passagem. Que território da sua vida espera, silenciosamente, pelo seu salto?
 

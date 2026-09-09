@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-15T18:21:06Z'
 imagem_capa: "/images/os-animais-sonham-se-sonham-eles-sonham-conosco.jpg"
 imagem_alt: "Ilustração simbólica de um cão dormindo sob um céu estrelado, com imagens oníricas de labirintos e florestas ao fundo"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Sim, os animais sonham. A dúvida que atravessa ciência e tradição não é se eles fecham os olhos e revivem o dia, mas o que acontece quando a noite se torna território de encontro. Registros de laboratório mostram ratos refazendo labirintos em sono REM. Povos ancestrais, porém, sempre reconheceram essas imagens como visita, não apenas memória — inclusive a possibilidade de sonharem conosco.
 

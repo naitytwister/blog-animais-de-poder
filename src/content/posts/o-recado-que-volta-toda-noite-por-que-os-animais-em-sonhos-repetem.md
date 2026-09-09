@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-17T09:53:36Z'
 imagem_capa: "/images/o-recado-que-volta-toda-noite-por-que-os-animais-em-sonhos-repetem.jpg"
 imagem_alt: "Silhueta de um lobo sob a lua refletida em um lago, evocando o retorno do animal nos sonhos"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você acorda com a mesma presença nos olhos: o lobo parado na margem, a cobra que se desenrola devagar, o pássaro que bate contra a vidraça do sonho. Não é um catálogo de acasos. Quando um animal volta noite após noite, muitas tradições leem essa repetição como um convite à escuta — não como símbolo genérico, mas como espelho de algo seu que pede passagem.
 
@@ -42,7 +42,7 @@ Experimente, diante do animal repetido, fazer-se estas perguntas como um exercí
 - Onde acontece: floresta, casa, água, estrada?
 - Que situação da minha vida atual pede a mesma qualidade que reconheço nele?
 
-Se quer descobrir qual animal te acompanha agora, para além dos que visitam seus sonhos, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/). A presença que se repete no sono e a energia que te acompanha desperta costumam conversar entre si.
+Se quer descobrir qual animal te acompanha agora, para além dos que visitam seus sonhos, [faça o teste oficial do site](/quiz/animal-de-poder/). A presença que se repete no sono e a energia que te acompanha desperta costumam conversar entre si.
 
 ## Qual é a experiência por trás desta leitura?
 
