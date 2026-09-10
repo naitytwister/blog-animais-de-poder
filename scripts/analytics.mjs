@@ -4,26 +4,18 @@
 // Config via .env na raiz do projeto:
 //   CLOUDFLARE_API_TOKEN=<token com Account > Account Analytics > Read>
 //   CLOUDFLARE_ACCOUNT_ID=<id da conta>
-import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { parseArgs } from 'node:util';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 
-function loadEnv() {
-  const env = { ...process.env };
-  try {
-    for (const line of readFileSync(join(root, '.env'), 'utf8').split(/\r?\n/)) {
-      const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)\s*$/);
-      if (m && !(m[1] in env)) env[m[1]] = m[2].replace(/^["']|["']$/g, '');
-    }
-  } catch {}
-  return env;
-}
+try {
+  process.loadEnvFile(join(root, '.env'));
+} catch {}
 
-const env = loadEnv();
-const TOKEN = env.CLOUDFLARE_API_TOKEN;
-const ACCOUNT = env.CLOUDFLARE_ACCOUNT_ID;
+const TOKEN = process.env.CLOUDFLARE_API_TOKEN;
+const ACCOUNT = process.env.CLOUDFLARE_ACCOUNT_ID;
 
 if (!TOKEN || !ACCOUNT) {
   console.error(
@@ -35,15 +27,16 @@ if (!TOKEN || !ACCOUNT) {
   process.exit(1);
 }
 
-function flagArg(name) {
-  const i = process.argv.indexOf(`--${name}`);
-  if (i !== -1 && process.argv[i + 1] && !process.argv[i + 1].startsWith('--')) return process.argv[i + 1];
-  const eq = process.argv.find((a) => a.startsWith(`--${name}=`));
-  return eq?.split('=')[1];
-}
+const { values: args } = parseArgs({
+  options: {
+    horas: { type: 'string', default: '24' },
+    path: { type: 'string' },
+  },
+  strict: false,
+});
 
-const horas = Number(flagArg('horas') ?? 24);
-const pathFilter = flagArg('path');
+const horas = Number(args.horas ?? 24);
+const pathFilter = args.path;
 const from = new Date(Date.now() - horas * 3600_000).toISOString();
 const to = new Date().toISOString();
 

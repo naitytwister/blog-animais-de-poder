@@ -25,3 +25,6 @@ preview.log
 # test results
 test-results/
 playwright-report/
+
+# graphify
+graphify-out/

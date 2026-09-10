@@ -32,7 +32,7 @@ function validSlug(slug) {
 async function hashIp(ip, salt) {
   const input = `${salt}:${ip}`;
   const digest = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(input));
-  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('');
+  return Array.from(new Uint8Array(digest), (b) => b.toString(16).padStart(2, '0')).join('');
 }
 
 export default {

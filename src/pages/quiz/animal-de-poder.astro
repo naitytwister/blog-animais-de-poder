@@ -211,8 +211,9 @@ import Newsletter from '../../components/Newsletter.astro';
     const result = qs('quiz-result')!;
     result.hidden = false;
 
+    const quizCanonicalUrl = 'https://animotem.com/quiz/animal-de-poder/';
     const textoShare = `Descobri meu animal de poder neste momento: ${animal.nome} ${animal.emoji} — ${animal.medicina}. E o seu? Faça o teste do xamanismo e me conta:`;
-    const waUrl = `https://wa.me/?text=${encodeURIComponent(textoShare + ' ' + quizUrl)}`;
+    const waUrl = `https://wa.me/?text=${encodeURIComponent(textoShare + ' ' + quizCanonicalUrl)}`;
 
     result.innerHTML = `
       <div class="quiz-result-card">
