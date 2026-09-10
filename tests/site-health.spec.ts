@@ -173,10 +173,10 @@ test.describe('Saúde e Diagnóstico Completo do Site - Animotem', () => {
   test('6. Verificação dos Novos Artigos do GitHub no Ambiente de Produção', async ({ request }) => {
     // Artigos recentes commitados pelo bot no GitHub:
     const recentPosts = [
-      '/posts/o-ceu-aberto-o-que-significa-sonhar-com-passaros-e-aves/',
+      '/posts/o-voo-no-sonho-o-que-significa-sonhar-com-passaros-e-aves/',
       '/posts/uivo-no-escuro-sonhar-com-lobo/',
       '/posts/olhar-da-onca-jaguar-animal-de-poder/',
-      '/posts/o-voo-do-tempo-rapido-animal-de-poder-beija-flor/',
+      '/posts/guardiao-do-tempo-rapido-animal-de-poder-beija-flor/',
       '/posts/animal-de-poder-coruja-chamado-secreto-adiar-fim/'
     ];
 
