@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-08-28T21:37:27Z'
 imagem_capa: "/images/as-asas-na-noite-o-que-significa-sonhar-com-borboleta.jpg"
 imagem_alt: "Borboleta noturna em voo, com asas translúcidas sobre fundo azul-escuro, simbolizando alma e metamorfose"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Sonhar com borboleta é a alma anunciando uma metamorfose já em curso. As asas na noite não pedem presságio: revelam que um ciclo se despede e outro começa a ganhar forma. Esse sonho costuma aparecer quando a vida pede leveza, quando o que era lagarta já não cabe mais. Não é um recado sobre o futuro, e sim sobre o presente em movimento. Se o sonho voltou, talvez seja hora de reconhecer a transformação que você já vinha adiando.
 

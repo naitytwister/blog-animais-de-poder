@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-12T12:19:36Z'
 imagem_capa: "/images/que-animal-sou-eu.jpg"
 imagem_alt: "Silhuetas de golfinho, águia, polvo, elefante, cão e gato entrelaçadas numa mandala simbólica, representando a reflexão sobre arquétipos animais."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Em silêncio, o animal olha para você — e você se reconhece. Não é um devaneio: desde as cavernas, nos pintamos com suas peles e buscamos no rio dos seus olhos o reflexo de quem somos. O convite aqui é para um jogo simbólico: perceber a criatura que, metaforicamente, já caminha dentro de você, como um espelho ancestral que reflete camadas esquecidas da própria alma.
 
