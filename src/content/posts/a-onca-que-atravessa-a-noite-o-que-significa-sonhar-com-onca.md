@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-02T15:37:35Z'
 imagem_capa: "/images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca.jpg"
 imagem_alt: "Onça-pintada com olhar sereno atravessando a escuridão da floresta, em tons de azul profundo e dourado, representando a travessia da noite no sonho"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 > A onça não veio te atacar no sonho. Ela veio lembrar que existe uma força em você que nunca aprendeu a pedir licença.
 

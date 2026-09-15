@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-09-13T15:19:09Z'
 imagem_capa: "/images/o-que-e-totem-no-xamanismo.jpg"
 imagem_alt: "Mastro totêmico esculpido com figuras de animais, representando a herança clânica do totem no xamanismo"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O totem não se escolhe: herda-se. O espírito animal não se convoca: aparece. O animal de poder não se venera: cultiva-se. No xamanismo, totem é o emblema coletivo de um clã ou linhagem, herdado pelo nascimento — e não um guardião pessoal. A palavra vem do ojíbua doodem, ligada ao coração e ao parentesco de um grupo. Compreender isso desfaz a confusão entre os três aliados que a maioria dos textos trata como sinônimos.
 

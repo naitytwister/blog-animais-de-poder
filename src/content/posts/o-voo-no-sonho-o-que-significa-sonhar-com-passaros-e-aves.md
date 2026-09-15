@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-03T15:30:01Z'
 imagem_capa: "/images/o-voo-no-sonho-o-que-significa-sonhar-com-passaros-e-aves.jpg"
 imagem_alt: "Pássaro em voo cruzando o céu ao entardecer, símbolo da alma que sonha"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Na visão ancestral dos povos ameríndios, quando o corpo adormece, algo na respiração se lembra de que pertence ao ar. Os antigos chamavam isso de alma-sonho: uma centelha que se desprende da pele como o pássaro do galho, sem aviso e sem adeus. Sonhar com pássaros e aves, portanto, não é um mero acaso da memória. É o sonho reconhecendo a si mesmo — o voo que você já realiza todas as noites, quando o mundo físico afrouxa as amarras e a consciência retoma as asas.
 

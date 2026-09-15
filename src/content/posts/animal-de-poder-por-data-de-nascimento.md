@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-09-09T15:34:45Z'
 imagem_capa: "/images/animal-de-poder-por-data-de-nascimento.jpg"
 imagem_alt: "Búfalo e águia ao redor de uma roda de pedras sob o céu da meia-noite, simbolizando a Roda de Medicina e o animal de poder por data de nascimento"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes que você aprendesse a pronunciar o próprio nome, a estação do seu nascimento já oferecia uma imagem de bicho para caminhar ao lado como espelho. Perguntar qual é o animal de poder por data de nascimento não é abrir um catálogo de rótulos: é voltar ao círculo do tempo. A data marca uma posição entre os ventos, lida na Roda de Medicina e nos totens das doze luas. Como vimos no [guia completo sobre animais de poder](/posts/o-que-e-animal-de-poder/), esse animal é um espelho simbólico, não um perfil que define ações.
 

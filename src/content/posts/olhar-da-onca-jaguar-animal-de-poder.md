@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-19T12:26:16Z'
 imagem_capa: "/images/olhar-da-onca-jaguar-animal-de-poder.jpg"
 imagem_alt: "Onça-pintada na escuridão da floresta, olhos brilhantes, símbolo do animal de poder jaguar e da medicina da noite"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 *“Há um par de olhos que brilha na escuridão da mata. A onça-pintada não caça você: ela o convoca. Caminhar pela noite sem medo é um símbolo vivo do que o jaguar representa para quem se esqueceu da própria força.”*
 
