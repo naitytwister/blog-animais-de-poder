@@ -18,6 +18,13 @@ Existe uma pergunta que insiste: como descobrir o animal que me acompanha no inv
 > "Ninguém começa a existir até ter a sua visão."
 > — ditado do povo Ojibwa sobre o Vision Quest
 
+## 🧭 Explore os Caminhos e Testes do Seu Animal Interior
+Se você busca métodos diretos para essa descoberta, mergulhe em nossos guias e testes:
+- [Teste do Xamanismo: Quem é Você na Roda Medicinal?](/posts/teste-do-xamanismo/)
+- [Seu Animal de Poder pela Data de Nascimento](/posts/animal-de-poder-por-data-de-nascimento/)
+- [A Roda de Medicina: Animais de Poder por Signo](/posts/roda-de-medicina-animais-de-poder-por-signo/)
+- [O Espelho da Alma: Teste de Personalidade Animal](/posts/espelho-da-alma-teste-para-descobrir-seu-animal-de-poder/)
+
 ## Como a jornada do tambor abre o caminho invisível?
 
 Em muitas tradições xamânicas, o tambor é usado como um acompanhamento rítmico para a imaginação, sem finalidade curativa ou terapêutica. A batida, às vezes descrita simbolicamente como o coração da terra, não é entendida como comando para obter uma visão nem como promessa de alívio de qualquer sintoma.
