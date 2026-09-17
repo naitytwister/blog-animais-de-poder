@@ -1,0 +1,55 @@
+name: Publish Newsletter (Smoke-Tested & Zero-Cost)
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - 'src/content/posts/**.md'
+  workflow_dispatch:
+    inputs:
+      post_path:
+        description: 'Caminho do post (ex: src/content/posts/exemplo.md) ou deixe vazio para auto-detectar'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Modo de simulação (Dry Run - não dispara para os inscritos)'
+        type: boolean
+        default: false
+
+concurrency:
+  group: newsletter-publish-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  publish-newsletter:
+    runs-on: ubuntu-latest
+    name: Validar Deploy & Disparar Newsletter
+    steps:
+      - name: 📥 Checkout do Repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Permite que o script detecte o diff do commit
+
+      - name: 🐍 Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🚀 Executar Smoke Test & Disparar Newsletter
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+          SITE_BASE_URL: 'https://animotem.com'
+          POLL_TIMEOUT_SECONDS: '240'
+          POLL_INTERVAL_SECONDS: '10'
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.post_path }}" ]; then
+            ARGS="$ARGS ${{ github.event.inputs.post_path }}"
+          fi
+          python scripts/publish_newsletter.py $ARGS
