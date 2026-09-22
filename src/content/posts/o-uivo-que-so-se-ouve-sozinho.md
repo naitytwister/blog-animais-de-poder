@@ -9,7 +9,7 @@ pilar_slug: "antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo"
 data: '2026-08-10T23:11:45Z'
 imagem_capa: "/images/o-uivo-que-so-se-ouve-sozinho.jpg"
 imagem_alt: "Lobo solitário uivando para o céu noturno entre montanhas, com luz de lua prateada"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você sente o chamado do afastamento. Não como rejeição, mas como um impulso quase biológico de se distanciar do que sempre foi familiar. Na tradição de muitos povos, o lobo que abandona a alcateia não está perdido — está obedecendo a uma urgência da alma. O significado espiritual do lobo solitário aponta para essa coragem primordial: a de se lançar ao desconhecido para que a vida possa se expandir para além dos círculos já mapeados.
 

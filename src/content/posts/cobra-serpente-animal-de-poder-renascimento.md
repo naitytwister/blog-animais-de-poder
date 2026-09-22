@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-11T16:03:51Z'
 imagem_capa: "/images/cobra-serpente-animal-de-poder-renascimento.jpg"
 imagem_alt: "Cobra enrolada em um galho, iniciando a troca de pele, com luz dourada ao fundo"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Quando a cobra cruza seu caminho — seja na mata, no sonho ou na repetição sincrônica de imagens — ela traz um recado inequívoco: algo precisa ser deixado para trás para que você possa renascer. A serpente é, entre todos os animais de poder, aquela que carrega a assinatura mais radical da transformação. Não se trata de uma mudança cosmética, mas de um abandono completo da pele antiga. O simbolismo da cobra fala diretamente sobre transmutação: o que era amargo pode ser ressignificado como experiência, o que parecia fim se revela começo.
 

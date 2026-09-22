@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-10T21:40:21Z'
 imagem_capa: "/images/roda-de-medicina-animais-de-poder-por-signo.jpg"
 imagem_alt: "Roda de Medicina com doze animais totêmicos dispostos em círculo, representando as direções e as luas sagradas, sob o brilho das estrelas."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes que o calendário gregoriano dividisse o ano em meses rígidos, alguns povos originários da América do Norte já percorriam um caminho espiralado de doze luas. A Roda de Medicina é um sistema simbólico ancestral, transmitido por nações como os Lakota e os Ojibwa, onde cada período lunar está associado a um animal guardião. Para quem se interessa pelas conexões entre os ciclos da natureza e as narrativas humanas, a roda oferece um contraponto cultural ao zodíaco ocidental — não como ferramenta de diagnóstico, mas como patrimônio de uma cosmovisão que compreende o ser humano integrado à Terra.
 
