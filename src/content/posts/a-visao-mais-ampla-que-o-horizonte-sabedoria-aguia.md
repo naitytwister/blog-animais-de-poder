@@ -9,7 +9,7 @@ pilar_slug: "antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo"
 data: '2026-08-11T10:07:13Z'
 imagem_capa: "/images/a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia.jpg"
 imagem_alt: "Águia voando sobre um vale montanhoso com o sol ao fundo, representando a medicina da visão ampliada"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Quando a águia cruza o seu caminho — seja em sonho, ao vivo ou como uma imagem que não sai da mente — muitas tradições interpretam esse encontro como um convite à reflexão sobre a percepção. A águia-real consegue detectar uma lebre a três quilômetros de distância e ainda mantém o centro do céu no foco. Essa capacidade natural serviu de espelho para que inúmeras culturas enxergassem na ave a metáfora de uma visão que ultrapassa o óbvio. Não se trata de adquirir um poder sobrenatural, mas de se abrir a uma forma de interpretar a vida que valoriza tanto o detalhe quanto o panorama.
 

@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-14T12:42:09Z'
 imagem_capa: "/images/o-espelho-que-anda-ao-seu-lado-teste-de-personalidade-animal.jpg"
 imagem_alt: "Cinco animais — golfinho, águia, lobo, urso e coruja — formam um círculo em volta de um espelho d'água entre árvores"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há um instante em que a pergunta deixa de ser "qual bicho eu sou?" e passa a ser "qual bicho olha por mim quando eu esqueço de olhar?". O teste de personalidade animal, entendido como uma leitura simbólica e cultural, devolve um ranking com cinco facetas que se revezam — não como um diagnóstico, mas como um convite à reflexão.
 

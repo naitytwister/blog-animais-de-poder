@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-17T21:25:18Z'
 imagem_capa: "/images/a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao.jpg"
 imagem_alt: "Aranha tecendo uma teia iluminada pela luz da manhã, símbolo da criação"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há um fio que se estende do centro do seu peito até cada encontro, cada ausência, cada recomeço. Quando a aranha aparece nesse caminho, o fio vibra: é o chamado da Tecelã do Universo. O animal de poder aranha fala da arte de tecer a própria existência com paciência, criatividade e a consciência de que nenhum fio termina em si mesmo.
 
