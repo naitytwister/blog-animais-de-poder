@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-28T18:57:26Z'
 imagem_capa: "/images/animal-de-poder-golfinho-cura-alegria.jpg"
 imagem_alt: "Golfinho emergindo de águas azuis ao entardecer, simbolizando o animal de poder golfinho e a medicina da alegria"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há um paradoxo no sorriso do golfinho: ele não escolhe sorrir. A curva da mandíbula é anatomia, mas a cultura humana leu ali um convite. No xamanismo, o golfinho como animal de poder representa a medicina da alegria, da respiração sagrada e da travessia entre a superfície e o abismo. Sua presença convida a refletir sobre a leveza que não nega a profundidade — mas que se revela como uma imagem de respiração entre o escuro e a luz. Se esse ser cruza seu caminho, talvez ele esteja lembrando que a travessia simbólica pode começar com um sopro consciente.
 
