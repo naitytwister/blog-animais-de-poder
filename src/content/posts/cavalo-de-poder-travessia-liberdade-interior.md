@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-12T10:16:30Z'
 imagem_capa: "/images/cavalo-de-poder-travessia-liberdade-interior.jpg"
 imagem_alt: "Cavalo preto com crina ao vento, correndo livremente em um prado dourado ao pôr do sol, simbolizando o animal de poder cavalo e a liberdade espiritual."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você já sentiu aquela inquietação que parece vir do fundo dos ossos, um chamado para se mover? Em várias tradições, o animal de poder cavalo emerge como um símbolo dessa necessidade de travessia. Não como um convite à fuga, mas como representação da coragem para escolher um caminho com consciência. Das estepes siberianas às planícies americanas, o cavalo é lembrado como uma força que nos recorda: a liberdade não é ausência de vínculos, e sim a escolha de como percorrer a própria estrada.
 
