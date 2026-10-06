@@ -42,6 +42,10 @@ export const SOCIAL = {
   twitter: import.meta.env.PUBLIC_TWITTER_URL || '',
 };
 
+export const ADSENSE = {
+  client: import.meta.env.PUBLIC_ADSENSE_CLIENT || 'ca-pub-3625463202111353',
+};
+
 export const SUBNICHOS: Record<
   string,
   { titulo: string; descricao: string; slug_categoria: string; icone: string }

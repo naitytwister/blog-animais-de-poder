@@ -37,3 +37,13 @@ __pycache__/
 .browser-session/
 draft-log.txt
 draft.json
+
+# dados locais e automacoes
+concorrencia/
+scripts/groups.json
+scripts/affinity-groups.json
+scripts/all-user-groups.json
+scripts/*.json
+pnpm-lock.yaml
+ratings-worker/pnpm-lock.yaml
+

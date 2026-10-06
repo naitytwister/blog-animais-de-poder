@@ -1,10 +1,12 @@
 ---
+import { ADSENSE } from '../lib/consts';
+
 interface Props {
   position?: 'topo' | 'meio' | 'final';
 }
 
 const { position = 'meio' } = Astro.props;
-const client = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+const client = ADSENSE.client;
 const enabled = Boolean(client);
 ---
 
