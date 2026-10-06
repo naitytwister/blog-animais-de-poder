@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import AmazonProductCard from '../components/AmazonProductCard.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { SITE } from '../lib/consts';
+import { CURATED_PRODUCTS } from '../lib/amazon';
+---
+
+<BaseLayout
+  title={`Livros e Oráculos Recomendados — ${SITE.shortName}`}
+  description="Seleção curada de livros de xamanismo, baralhos de animais de poder e oráculos sagrados para aprofundar seu autoconhecimento."
+  canonicalPath="/recomendacoes/"
+>
+  <article class="page">
+    <div class="container-narrow">
+      <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Recomendações' }]} />
+
+      <header class="hero">
+        <h1>Livros & Oráculos Recomendados</h1>
+        <p class="hero-sub">
+          Para quem deseja se aprofundar no estudo dos animais de poder, no simbolismo ancestral e no xamanismo, selecionamos os melhores livros, baralhos e ferramentas disponíveis.
+        </p>
+      </header>
+
+      <section class="products-grid">
+        {CURATED_PRODUCTS.map((product) => (
+          <AmazonProductCard product={product} />
+        ))}
+      </section>
+
+      <div class="affiliate-disclosure">
+        <p>
+          🔒 <strong>Transparência Editorial:</strong> Ao comprar através dos links acima na Amazon, o {SITE.shortName} recebe uma pequena comissão de afiliado sem nenhum custo adicional para você. Isso ajuda a manter nossos guias e pesquisas 100% gratuitos.
+        </p>
+      </div>
+
+      <Newsletter />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .hero {
+    margin-block: var(--space-6) var(--space-8);
+  }
+
+  .hero h1 {
+    font-size: var(--text-2xl);
+    font-weight: 800;
+    margin-bottom: var(--space-2);
+  }
+
+  .hero-sub {
+    font-size: var(--text-base);
+    color: var(--text-soft);
+    line-height: 1.6;
+  }
+
+  .products-grid {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
+    margin-bottom: var(--space-8);
+  }
+
+  .affiliate-disclosure {
+    background: var(--bg-elev);
+    border: 1px dashed var(--border);
+    border-radius: var(--radius);
+    padding: var(--space-4);
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    margin-bottom: var(--space-8);
+  }
+</style>

@@ -10,6 +10,7 @@ import RatingStars from '../components/RatingStars.astro';
 import Newsletter from '../components/Newsletter.astro';
 import AdSlot from '../components/AdSlot.astro';
 import SupportCTA from '../components/SupportCTA.astro';
+import AmazonShowcase from '../components/AmazonShowcase.astro';
 import { SITE, SUBNICHOS, AUTHOR } from '../lib/consts';
 import { formatDate, formatDateIso, readingTime } from '../lib/utils';
 import { extractFaq } from '../lib/faq';
@@ -149,6 +150,7 @@ const faqSchema = faq.length
         </div>
         <AdSlot position="final" />
         <SupportCTA variant="post" />
+        <AmazonShowcase subnicho={data.subnicho} />
 
         <div class="post-footer-meta">
 

@@ -1,0 +1,218 @@
+---
+import type { AmazonProduct } from '../lib/amazon';
+import { getAffiliateUrl } from '../lib/amazon';
+
+interface Props {
+  product: AmazonProduct;
+  compact?: boolean;
+}
+
+const { product, compact = false } = Astro.props;
+const affiliateLink = getAffiliateUrl(product.url);
+---
+
+<div class={`amazon-card ${compact ? 'amazon-card-compact' : ''}`}>
+  <div class="amazon-card-image-wrap">
+    <img
+      src={product.image}
+      alt={product.title}
+      loading="lazy"
+      decoding="async"
+      width="200"
+      height="260"
+    />
+    {product.badge && <span class="amazon-badge">{product.badge}</span>}
+  </div>
+
+  <div class="amazon-card-content">
+    <div class="amazon-card-header">
+      <span class="amazon-tag">Livro & Oráculo na Amazon</span>
+      {product.rating && (
+        <span class="amazon-rating" title={`${product.rating} estrelas`}>
+          ★ {product.rating.toFixed(1)} {product.reviewsCount ? `(${product.reviewsCount})` : ''}
+        </span>
+      )}
+    </div>
+
+    <h3 class="amazon-title">
+      <a href={affiliateLink} target="_blank" rel="noopener sponsored">
+        {product.title}
+      </a>
+    </h3>
+
+    {product.authorOrBrand && <p class="amazon-author">por {product.authorOrBrand}</p>}
+    <p class="amazon-desc">{product.description}</p>
+
+    <div class="amazon-footer">
+      <a
+        href={affiliateLink}
+        target="_blank"
+        rel="noopener sponsored"
+        class="amazon-btn"
+      >
+        <span>Ver na Amazon</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+          <polyline points="12 5 19 12 12 19"></polyline>
+        </svg>
+      </a>
+      <span class="amazon-disclaimer">Link de afiliado seguro</span>
+    </div>
+  </div>
+</div>
+
+<style>
+  .amazon-card {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: var(--space-4);
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+    margin-block: var(--space-6);
+    position: relative;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+
+  .amazon-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+
+  .amazon-card-image-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border-radius: var(--radius);
+    padding: var(--space-2);
+    border: 1px solid var(--border);
+    overflow: hidden;
+  }
+
+  .amazon-card-image-wrap img {
+    max-height: 180px;
+    width: auto;
+    object-fit: contain;
+  }
+
+  .amazon-badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background: var(--accent);
+    color: #ffffff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .amazon-card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .amazon-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    margin-bottom: var(--space-1);
+  }
+
+  .amazon-tag {
+    font-weight: 600;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .amazon-rating {
+    color: #e67e22;
+    font-weight: 700;
+  }
+
+  .amazon-title {
+    font-size: var(--text-base);
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0 0 var(--space-1) 0;
+  }
+
+  .amazon-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .amazon-title a:hover {
+    color: var(--accent);
+  }
+
+  .amazon-author {
+    font-size: var(--text-xs);
+    color: var(--text-soft);
+    font-style: italic;
+    margin: 0 0 var(--space-2) 0;
+  }
+
+  .amazon-desc {
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+    margin: 0 0 var(--space-4) 0;
+    line-height: 1.4;
+  }
+
+  .amazon-footer {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+  }
+
+  .amazon-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #ff9900;
+    color: #111111;
+    font-weight: 700;
+    font-size: var(--text-xs);
+    padding: var(--space-2) var(--space-4);
+    border-radius: var(--radius);
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+
+  .amazon-btn:hover {
+    background: #e68a00;
+    color: #000000;
+  }
+
+  .amazon-disclaimer {
+    font-size: 0.7rem;
+    color: var(--text-soft);
+    opacity: 0.8;
+  }
+
+  @media (max-width: 640px) {
+    .amazon-card {
+      grid-template-columns: 1fr;
+    }
+
+    .amazon-card-image-wrap img {
+      max-height: 150px;
+    }
+
+    .amazon-footer {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

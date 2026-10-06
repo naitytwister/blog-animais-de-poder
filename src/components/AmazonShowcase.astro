@@ -1,0 +1,55 @@
+---
+import { getProductsForSubnicho } from '../lib/amazon';
+import AmazonProductCard from './AmazonProductCard.astro';
+
+interface Props {
+  subnicho?: string;
+  title?: string;
+}
+
+const {
+  subnicho = 'guia-completo',
+  title = 'Livros e Oráculos Recomendados de Xamanismo',
+} = Astro.props;
+
+const products = getProductsForSubnicho(subnicho, 2);
+---
+
+<section class="amazon-showcase">
+  <div class="amazon-showcase-header">
+    <h2>🌿 {title}</h2>
+    <p>Leituras e baralhos selecionados para aprofundar seu estudo com os Animais Guia:</p>
+  </div>
+
+  <div class="amazon-showcase-list">
+    {products.map((product) => (
+      <AmazonProductCard product={product} />
+    ))}
+  </div>
+</section>
+
+<style>
+  .amazon-showcase {
+    margin-block: var(--space-8);
+    padding-top: var(--space-6);
+    border-top: 1px solid var(--border);
+  }
+
+  .amazon-showcase-header h2 {
+    font-size: var(--text-lg);
+    font-weight: 700;
+    margin-bottom: var(--space-1);
+  }
+
+  .amazon-showcase-header p {
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+    margin-bottom: var(--space-4);
+  }
+
+  .amazon-showcase-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+</style>
