@@ -5,11 +5,15 @@ import AmazonProductCard from '../components/AmazonProductCard.astro';
 import Newsletter from '../components/Newsletter.astro';
 import { SITE } from '../lib/consts';
 import { CURATED_PRODUCTS } from '../lib/amazon';
+
+const books = CURATED_PRODUCTS.filter(p => p.category === 'livro');
+const oracles = CURATED_PRODUCTS.filter(p => p.category === 'oraculo');
+const toolsAndRituals = CURATED_PRODUCTS.filter(p => p.category === 'ritual' || p.category === 'ferramenta');
 ---
 
 <BaseLayout
-  title={`Livros e Oráculos Recomendados — ${SITE.shortName}`}
-  description="Seleção curada de livros de xamanismo, baralhos de animais de poder e oráculos sagrados para aprofundar seu autoconhecimento."
+  title={`Livros, Oráculos e Instrumentos Recomendados — ${SITE.shortName}`}
+  description="Seleção curada de livros de xamanismo, baralhos de animais de poder, oráculos sagrados e ferramentas rituais para aprofundar seu autoconhecimento."
   canonicalPath="/recomendacoes/"
 >
   <article class="page">
@@ -17,21 +21,57 @@ import { CURATED_PRODUCTS } from '../lib/amazon';
       <Breadcrumbs items={[{ label: 'Início', href: '/' }, { label: 'Recomendações' }]} />
 
       <header class="hero">
-        <h1>Livros & Oráculos Recomendados</h1>
+        <h1>Livros, Oráculos & Instrumentos Recomendados</h1>
         <p class="hero-sub">
-          Para quem deseja se aprofundar no estudo dos animais de poder, no simbolismo ancestral e no xamanismo, selecionamos os melhores livros, baralhos e ferramentas disponíveis.
+          Para quem deseja se aprofundar no estudo dos animais de poder, no simbolismo ancestral e na prática xamânica, selecionamos os melhores livros, baralhos de cartas, instrumentos e materiais de purificação.
         </p>
       </header>
 
-      <section class="products-grid">
-        {CURATED_PRODUCTS.map((product) => (
-          <AmazonProductCard product={product} />
-        ))}
+      <div class="category-nav">
+        <a href="#oraculos" class="cat-pill">🃏 Oráculos ({oracles.length})</a>
+        <a href="#livros" class="cat-pill">📚 Livros ({books.length})</a>
+        <a href="#rituais" class="cat-pill">🌿 Rituais & Ferramentas ({toolsAndRituals.length})</a>
+      </div>
+
+      <section id="oraculos" class="recommendation-section">
+        <div class="section-header">
+          <h2>🃏 Baralhos & Oráculos Sagrados</h2>
+          <p>Ferramentas intuitivas para tiragens diárias, meditação e conexão com a medicina animal.</p>
+        </div>
+        <div class="products-grid">
+          {oracles.map((product) => (
+            <AmazonProductCard product={product} />
+          ))}
+        </div>
+      </section>
+
+      <section id="livros" class="recommendation-section">
+        <div class="section-header">
+          <h2>📚 Livros & Guias de Estudo</h2>
+          <p>Obras essenciais sobre xamanismo, antropologia, simbolismo animal e jornadas espirituais.</p>
+        </div>
+        <div class="products-grid">
+          {books.map((product) => (
+            <AmazonProductCard product={product} />
+          ))}
+        </div>
+      </section>
+
+      <section id="rituais" class="recommendation-section">
+        <div class="section-header">
+          <h2>🌿 Instrumentos & Rituais Xamânicos</h2>
+          <p>Ferramentas de defumação, ressonância sonora e pedras naturais para altares e jornadas.</p>
+        </div>
+        <div class="products-grid">
+          {toolsAndRituals.map((product) => (
+            <AmazonProductCard product={product} />
+          ))}
+        </div>
       </section>
 
       <div class="affiliate-disclosure">
         <p>
-          🔒 <strong>Transparência Editorial:</strong> Ao comprar através dos links acima na Amazon, o {SITE.shortName} recebe uma pequena comissão de afiliado sem nenhum custo adicional para você. Isso ajuda a manter nossos guias e pesquisas 100% gratuitos.
+          🔒 <strong>Transparência Editorial:</strong> Ao comprar através dos links acima na Amazon, o {SITE.shortName} recebe uma pequena comissão de afiliado sem nenhum custo adicional para você. Isso ajuda a manter nossos guias, testes e pesquisas 100% gratuitos.
         </p>
       </div>
 
@@ -42,7 +82,7 @@ import { CURATED_PRODUCTS } from '../lib/amazon';
 
 <style>
   .hero {
-    margin-block: var(--space-6) var(--space-8);
+    margin-block: var(--space-6) var(--space-6);
   }
 
   .hero h1 {
@@ -57,11 +97,59 @@ import { CURATED_PRODUCTS } from '../lib/amazon';
     line-height: 1.6;
   }
 
+  .category-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-8);
+  }
+
+  .cat-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-2) var(--space-4);
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    border-radius: 9999px;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .cat-pill:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    transform: translateY(-1px);
+  }
+
+  .recommendation-section {
+    margin-bottom: var(--space-10);
+    scroll-margin-top: var(--space-6);
+  }
+
+  .section-header {
+    margin-bottom: var(--space-4);
+    border-bottom: 2px solid var(--border);
+    padding-bottom: var(--space-2);
+  }
+
+  .section-header h2 {
+    font-size: var(--text-xl);
+    font-weight: 700;
+    margin-bottom: var(--space-1);
+  }
+
+  .section-header p {
+    font-size: var(--text-sm);
+    color: var(--text-soft);
+  }
+
   .products-grid {
     display: flex;
     flex-direction: column;
-    gap: var(--space-6);
-    margin-bottom: var(--space-8);
+    gap: var(--space-4);
   }
 
   .affiliate-disclosure {
