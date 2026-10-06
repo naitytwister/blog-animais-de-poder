@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-10T12:00:00Z'
 imagem_capa: "/images/animal-de-poder-tubarao.jpg"
 imagem_alt: "Ilustração mística de um tubarão ancestral emergindo de águas oceânicas escuras e profundas com bioluminescência sutil"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 
 O tubarão não negocia com a correnteza: ele a corta. Habitante das águas salgadas muito antes das árvores existirem sobre a Terra, ele sobreviveu a cinco extinções em massa com uma anatomia perfeita de cartilagem, sensores elétricos e movimento incessante. Quando o arquétipo do tubarão emerge na consciência, nos sonhos ou nos trabalhos xamânicos, ele não surge para semear terror, mas para desmascarar a hesitação, despertar o instinto primordial e ensinar o domínio soberano das próprias profundezas emocionais.
