@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-27T16:01:34Z'
 imagem_capa: "/images/baleia-animal-de-poder-memoria-ancestral-canto.jpg"
 imagem_alt: "Baleia jubarte emergindo no oceano profundo, envolta em luz suave, representando memória ancestral e escuta interior"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 Você sente um chamado que vem de longe, como uma canção submersa. A baleia como animal de poder representa a memória ancestral, o canto que atravessa gerações e a escuta profunda da própria alma. Quando ela emerge no seu horizonte interior, não é por acaso: é um convite para descer às águas do inconsciente e ouvir o que o mundo tentou silenciar. Este ensaio tem caráter estritamente simbólico e filosófico; não substitui acompanhamento psicológico ou médico profissional, e nenhuma expressão aqui deve ser interpretada como promessa de cura ou transformação.
 
@@ -35,7 +35,7 @@ A ciência observa o mesmo mistério que a mitologia já intuía:
 - A bióloga Ellen Garland, da Universidade de St Andrews, demonstrou que os cantos atravessam populações inteiras de jubartes, como uma onda cultural que se propaga pelo Pacífico.
 - No Brasil, as jubartes se reproduzem no Banco de Abrolhos, na Bahia.
 
-Assim como a [tartaruga como animal de poder](/posts/animal-de-poder-tartaruga/) ensina a lentidão da memória da Terra, a baleia ensina a memória que viaja em ondas. O que a ciência chama de dialeto, a tradição xamânica nomeia como voz dos antigos. Essa correspondência é uma leitura poética entre campos distintos — ciência e tradição — e não deve ser lida como promessa de transformação pessoal ou efeito terapêutico.
+Assim como a [tartaruga como animal de poder](/posts/a-casca-do-mundo-animal-de-poder-tartaruga-e-a-lentidao-curativa/) ensina a lentidão da memória da Terra, a baleia ensina a memória que viaja em ondas. O que a ciência chama de dialeto, a tradição xamânica nomeia como voz dos antigos. Essa correspondência é uma leitura poética entre campos distintos — ciência e tradição — e não deve ser lida como promessa de transformação pessoal ou efeito terapêutico.
 
 ## Por que a baleia é um arquétipo de travessia e renascimento?
 
