@@ -86,9 +86,9 @@ export const CURATED_PRODUCTS: AmazonProduct[] = [
   },
   {
     id: 'animal-speak-ted-andrews',
-    title: 'Animal Speak: A Sabedoria e o Poder dos Animais Espirituais',
+    title: 'Animal Speak: The Spiritual & Magical Powers of Creatures Great & Small',
     authorOrBrand: 'Ted Andrews',
-    description: 'Guia de referência mundial sobre a linguagem secreta dos animais, totens espirituais, augúrios e presságios da natureza.',
+    description: 'Guia clássico de referência mundial sobre a linguagem secreta dos animais, totens espirituais, augúrios e presságios da natureza.',
     image: '/images/recomendacoes/animal-speak-ted-andrews.jpg',
     url: 'https://www.amazon.com.br/dp/0875420281',
     category: 'livro',
@@ -99,7 +99,7 @@ export const CURATED_PRODUCTS: AmazonProduct[] = [
   },
   {
     id: 'animais-de-poder-steven-farmer',
-    title: 'O Livro dos Animais de Poder: Guia de Simbolismo e Arquétipos',
+    title: 'Power Animals: How to Connect with Your Animal Spirit Guide',
     authorOrBrand: 'Steven D. Farmer',
     description: 'Manual prático para identificar seu animal totêmico, interpretar mensagens em sonhos e utilizar a medicina dos animais na vida cotidiana.',
     image: '/images/recomendacoes/animais-de-poder-steven-farmer.jpg',
