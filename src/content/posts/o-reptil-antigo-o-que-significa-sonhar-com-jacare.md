@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-10-10T16:36:11Z'
 imagem_capa: "/images/o-reptil-antigo-o-que-significa-sonhar-com-jacare.jpg"
 imagem_alt: "Jacaré com os olhos acima da superfície da água, símbolo de sonhar com jacaré"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 Ele viu mundos acabarem e continua aqui. Quando o jacaré emerge no seu sonho, não é um pesadelo — é uma memória de 80 milhões de anos que convida você a atravessar as águas escuras sem se afogar. Sonhar com jacaré é, antes de tudo, uma imagem simbólica de maturação: algo guardado nas profundezas pede para subir à superfície e ser olhado com coragem. Como vimos no [guia completo sobre o significado de sonhar com animais](/posts/sonhos-com-animais-significado-interpretar/), cada imagem tem seu tempo. O jacaré chega quando a travessia já começou.
 
