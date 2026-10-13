@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-10-01T17:43:27Z'
 imagem_capa: "/images/arquitetura-do-mel-animal-de-poder-abelha.jpg"
 imagem_alt: "Abelha pousada sobre flor dourada, simbolizando a medicina do animal de poder abelha e a doçura da comunidade"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 A abelha nunca constrói sozinha — e talvez seja por isso que a colmeia não desaba. Se o animal de poder abelha cruzou o seu caminho, a vida está sussurrando que chegou a hora de parar de carregar o mundo nas costas e reaprender a arte de pertencer. A sua sabedoria não se resume ao trabalho disciplinado que os clichês repetem. A abelha é a arquiteta do mel: um chamado para transformar a solidão em comunidade e o néctar da experiência em doçura partilhada.
 
