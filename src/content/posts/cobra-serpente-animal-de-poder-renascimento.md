@@ -1,15 +1,17 @@
 ---
 title: "A Serpente que Renasce: A Cobra como Animal de Poder da Transmutação"
-description: "A cobra como animal de poder simboliza renascimento e transmutação. Entenda por que a troca de pele e a dualidade entre veneno e medicina tornam a serpente..."
-slug: "cobra-serpente-animal-de-poder-renascimento"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder cobra serpente"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-11T16:03:51Z'
-imagem_capa: "/images/cobra-serpente-animal-de-poder-renascimento.jpg"
-imagem_alt: "Cobra enrolada em um galho, iniciando a troca de pele, com luz dourada ao fundo"
-autor: "Cecilia Aranha"
+description: A cobra como animal de poder simboliza renascimento e transmutação. Entenda por que a troca de pele e a dualidade entre veneno e medicina tornam a serpente...
+slug: cobra-serpente-animal-de-poder-renascimento
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder cobra serpente
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-11T16:03:51Z"
+imagem_capa: /images/cobra-serpente-animal-de-poder-renascimento-documental.jpg
+imagem_alt: Registro fotográfico documental de Serpente em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Serpente: The Grass Snake - Natrix natrix. Registro fotográfico: Darius Bauzys (CC BY 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
 ---
 Quando a cobra cruza seu caminho — seja na mata, no sonho ou na repetição sincrônica de imagens — ela traz um recado inequívoco: algo precisa ser deixado para trás para que você possa renascer. A serpente é, entre todos os animais de poder, aquela que carrega a assinatura mais radical da transformação. Não se trata de uma mudança cosmética, mas de um abandono completo da pele antiga. O simbolismo da cobra fala diretamente sobre transmutação: o que era amargo pode ser ressignificado como experiência, o que parecia fim se revela começo.
 
@@ -22,6 +24,11 @@ A troca de pele, chamada ecdise, é o fundamento biológico que sustenta todo o 
 Esse processo não é automático nem isento de esforço: a cobra se esfrega em superfícies ásperas para romper a pele velha, num gesto que exige atrito e determinação. Na dimensão simbólica, isso aponta para a necessidade de aceitar o desconforto como parte da travessia. Quando a cobra surge como guia, você está sendo convidado a largar uma identidade, uma relação ou uma crença que já não lhe serve — mesmo que a fricção do desapego assuste. Não há renascimento sem atrito, assim como não há pele nova sem que a antiga se rompa.
 
 Em muitas tradições, esse momento de abandono da pele velha é comparado a um rito de passagem. Os povos originários do Alto Rio Negro, por exemplo, contam que a sucuri primordial trocou de pele inúmeras vezes até dar forma aos rios e às florestas — cada muda era um ato de criação. Para nós, humanos, a imagem é igualmente potente: há camadas de história pessoal que precisam ser soltas para que a essência possa respirar. Como vimos no guia sobre o [lobo como animal de poder protetor da alcateia](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), cada animal manifesta um ensinamento distinto: a do lobo é a lealdade ao grupo, a da cobra é a lealdade à própria metamorfose.
+
+<figure class="post-inline-figure">
+  <img src="/images/cobra-serpente-animal-de-poder-renascimento.jpg" alt="Representação artística simbólica de Serpente" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Serpente no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como as tradições ancestrais compreendem a serpente sagrada?
 

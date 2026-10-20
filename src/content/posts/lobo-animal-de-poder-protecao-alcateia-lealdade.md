@@ -1,17 +1,18 @@
 ---
 title: "Lobo como Animal de Poder: Proteção, Alcateia e Lealdade"
-description: "Explore as fascinantes qualidades do Lobo como animal de poder no xamanismo, destacando sua proteção, trabalho em alcateia e lealdade."
-slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-subnicho: "enciclopedia-animal"
-palavra_chave: "lobo como animal de poder lealdade"
-tipo: "cluster"
-pilar_slug: "o-que-e-animal-de-poder"
+description: Explore as fascinantes qualidades do Lobo como animal de poder no xamanismo, destacando sua proteção, trabalho em alcateia e lealdade.
+slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+subnicho: enciclopedia-animal
+palavra_chave: lobo como animal de poder lealdade
+tipo: cluster
+pilar_slug: o-que-e-animal-de-poder
 data: "2026-08-04T10:00:00Z"
-imagem_capa: "/images/lobo-animal-de-poder-protecao-alcateia-lealdade.jpg"
-imagem_alt: "Lobo em meio à floresta, simbolizando sua ligação com a natureza e o poder espiritual."
-autor: "Cecília Aranha"
+imagem_capa: /images/lobo-animal-de-poder-protecao-alcateia-lealdade-documental.jpg
+imagem_alt: Registro fotográfico documental de Lobo em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Lobo: Scandinavian grey wolf Canis lupus. Registro fotográfico: Malene Thyssen (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Scandinavian_grey_wolf_Canis_lupus.jpg"
 ---
-
 No xamanismo, o Lobo é considerado um poderoso guia espiritual, simbolizando a proteção, o trabalho em grupo e a lealdade. Estas características fazem do Lobo uma presença reverenciada entre os animais de poder, especialmente nas culturas indígenas que o veem como mestre na arte de viver em comunidade e preservar a harmonia.
 
 ## O Símbolo da Proteção
@@ -21,6 +22,11 @@ O Lobo é, antes de tudo, um guardião. Sua presença evoca a ideia de proteçã
 > "Chame o espírito do Lobo para proteger sua jornada; como um guardião ele estará ao seu lado, firme e fiel."
 
 Com o espírito do Lobo ao seu lado, muitos acreditam ter mais coragem para enfrentar desafios e defender sua alcateia, isto é, seus entes queridos e seu círculo de relações significativas.
+
+<figure class="post-inline-figure">
+  <img src="/images/lobo-animal-de-poder-protecao-alcateia-lealdade.jpg" alt="Representação artística simbólica de Lobo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Lobo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Vida em Alcateia e Trabalho em Grupo
 

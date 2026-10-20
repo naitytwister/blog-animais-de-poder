@@ -142,41 +142,47 @@ async function searchWikimediaDocumentary(animalKey) {
   const tax = ANIMAL_TAXONOMY[animalKey];
   if (!tax) return null;
 
-  try {
-    // Prioriza fotos avaliadas pelo comitê de qualidade fotográfica (Quality Images / Featured Pictures)
-    // Fundo limpo, iluminação de fauna profissional e sem edifícios ou poluição urbana
-    const query = `incategory:Quality_images ("${tax.scientific}" OR "${tax.common}") filetype:bitmap -chair -diagram -map -flag -icon -building -window`;
-    const url = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(query)}&gsrnamespace=6&prop=imageinfo&iiprop=url|size|extmetadata&format=json&gsrlimit=8`;
+  const candidateQueries = [
+    `incategory:Quality_images "${tax.common}" filetype:bitmap`,
+    `"${tax.common} wildlife" filetype:bitmap -diagram -map -flag -icon`,
+    `"${tax.scientific}" filetype:bitmap -diagram -map -flag -icon`
+  ];
 
-    const res = await fetchWithRetry(url, { timeout: 12000 });
-    const data = await res.json();
+  for (const query of candidateQueries) {
+    try {
+      const url = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(query)}&gsrnamespace=6&prop=imageinfo&iiprop=url|size|extmetadata&format=json&gsrlimit=10`;
 
-    if (!data.query || !data.query.pages) return null;
+      const res = await fetchWithRetry(url, { timeout: 12000 });
+      const data = await res.json();
 
-    const pages = Object.values(data.query.pages);
-    for (const page of pages) {
-      const info = page.imageinfo && page.imageinfo[0];
-      if (!info || !info.url) continue;
+      if (!data.query || !data.query.pages) continue;
 
-      // Validação de enquadramento: paisagem (horizontal) e resolução mínima 1000px
-      if (info.width && info.width >= 1000 && info.width > info.height) {
-        const meta = info.extmetadata || {};
-        const titleClean = page.title.replace(/^File:/, '').replace(/\.[^.]+$/, '').replace(/_/g, ' ');
-        const license = (meta.LicenseShortName && meta.LicenseShortName.value) || 'Domínio Público / CC';
-        const artist = (meta.Artist && meta.Artist.value.replace(/<[^>]*>/g, '').trim()) || 'Wikimedia Commons';
+      const pages = Object.values(data.query.pages);
+      for (const page of pages) {
+        const info = page.imageinfo && page.imageinfo[0];
+        if (!info || !info.url) continue;
 
-        return {
-          source: 'wikimedia',
-          imageUrl: info.url,
-          fonteUrl: info.descriptionurl || 'https://commons.wikimedia.org',
-          legenda: `Fotografia documental de ${tax.namePt}: ${titleClean}. Registro fotográfico: ${artist} (${license}).`,
-          alt: `Registro fotográfico documental de ${tax.namePt} em habitat natural`
-        };
+        // Validação de enquadramento: paisagem (horizontal) e resolução mínima 1000px
+        if (info.width && info.width >= 1000 && info.width > info.height) {
+          const meta = info.extmetadata || {};
+          const titleClean = page.title.replace(/^File:/, '').replace(/\.[^.]+$/, '').replace(/_/g, ' ');
+          const license = (meta.LicenseShortName && meta.LicenseShortName.value) || 'Domínio Público / CC';
+          const artist = (meta.Artist && meta.Artist.value.replace(/<[^>]*>/g, '').trim()) || 'Wikimedia Commons';
+
+          return {
+            source: 'wikimedia',
+            imageUrl: info.url,
+            fonteUrl: info.descriptionurl || 'https://commons.wikimedia.org',
+            legenda: `Fotografia documental de ${tax.namePt}: ${titleClean}. Registro fotográfico: ${artist} (${license}).`,
+            alt: `Registro fotográfico documental de ${tax.namePt} em habitat natural`
+          };
+        }
       }
+    } catch (err) {
+      log.warn(`Wikimedia query falhou ('${query}'): ${err.message}`);
     }
-  } catch (err) {
-    log.warn(`Wikimedia API falhou para '${animalKey}': ${err.message}`);
   }
+
   return null;
 }
 
@@ -217,8 +223,32 @@ function parseMarkdownPost(filePath) {
   return { raw, yamlContent, body, meta };
 }
 
-// --- ATUALIZAÇÃO DO FRONTMATTER PRESERVANDO ESTRUTURA ---
-function updateMarkdownFrontmatter(filePath, post, newFields) {
+// --- ATUALIZAÇÃO DO FRONTMATTER PRESERVANDO ESTRUTURA E MIGRANDO CAPA ANTIGA ---
+function injectSecondaryFigure(body, oldCoverUrl, animalName) {
+  if (!oldCoverUrl || body.includes('post-inline-figure') || body.includes(oldCoverUrl)) {
+    return body;
+  }
+
+  const figureHtml = `\n<figure class="post-inline-figure">\n  <img src="${oldCoverUrl}" alt="Representação artística simbólica de ${animalName}" width="800" height="800" loading="lazy" decoding="async" />\n  <figcaption>Representação artística simbólica: a medicina arquetípica de ${animalName} no imaginário ancestral.</figcaption>\n</figure>\n`;
+
+  // Tenta injetar antes do segundo cabeçalho ##
+  const headings = [...body.matchAll(/\n##\s+/g)];
+  if (headings.length >= 2) {
+    const secondHeadingIdx = headings[1].index;
+    return body.slice(0, secondHeadingIdx) + figureHtml + body.slice(secondHeadingIdx);
+  }
+
+  // Fallback: se não tiver 2 headings, injeta no meio do texto
+  const half = Math.floor(body.length / 2);
+  const nextPara = body.indexOf('\n\n', half);
+  if (nextPara !== -1) {
+    return body.slice(0, nextPara) + figureHtml + body.slice(nextPara);
+  }
+
+  return body + figureHtml;
+}
+
+function updateMarkdownFrontmatter(filePath, post, newFields, updatedBody = null) {
   const meta = { ...post.meta, ...newFields };
   const lines = ['---'];
 
@@ -232,7 +262,8 @@ function updateMarkdownFrontmatter(filePath, post, newFields) {
   }
 
   lines.push('---');
-  lines.push(post.body.trimStart());
+  const finalBody = updatedBody !== null ? updatedBody : post.body;
+  lines.push(finalBody.trimStart());
 
   fs.writeFileSync(filePath, lines.join('\n'), 'utf8');
 }
@@ -305,15 +336,20 @@ async function main() {
       await writeAtomicImage(destPath, buffer);
       log.success(`Imagem atômica salva: ${destFilename} (${Math.round(buffer.length / 1024)} KB)`);
 
-      // Atualiza o Post Markdown
+      // Migra a imagem de capa antiga (arte de IA) para o meio do corpo do texto
+      const oldCover = post.meta.imagem_capa;
+      const tax = ANIMAL_TAXONOMY[animalKey];
+      const updatedBody = injectSecondaryFigure(post.body, oldCover, tax ? tax.namePt : animalKey);
+
+      // Atualiza o Post Markdown com a nova capa documental e corpo enriquecido
       updateMarkdownFrontmatter(filePath, post, {
         imagem_capa: webPath,
         imagem_alt: curated.alt,
         imagem_legenda: curated.legenda,
         imagem_fonte_url: curated.fonteUrl
-      });
+      }, updatedBody);
 
-      log.success(`Frontmatter do post atualizado com legenda e fonte com sucesso!`);
+      log.success(`Frontmatter e corpo do post enriquecidos com 2 mídias (Capa + Arte Interna)!`);
       processedCount++;
     } catch (err) {
       log.error(`Erro ao baixar/processar imagem para ${slug}: ${err.message}`);

@@ -1,15 +1,17 @@
 ---
 title: "O Grande Retiro: O Urso e a Medicina da Força Silenciosa"
 description: "Descubra a medicina ancestral do urso como animal de poder: a força que se recolhe, a hibernação como regeneração e o poder do silêncio interior."
-slug: "o-grande-retiro-urso-medicina-forca-silenciosa"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder urso"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-11T12:41:49Z'
-imagem_capa: "/images/o-grande-retiro-urso-medicina-forca-silenciosa.jpg"
-imagem_alt: "Urso pardo em postura de poder, com olhar sereno, representando a força silenciosa da hibernação espiritual."
-autor: "Cecilia Aranha"
+slug: o-grande-retiro-urso-medicina-forca-silenciosa
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder urso
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-11T12:41:49Z"
+imagem_capa: /images/o-grande-retiro-urso-medicina-forca-silenciosa-documental.jpg
+imagem_alt: Registro fotográfico documental de Urso em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Urso: Closeup kodiak bear hamburg. Registro fotográfico: LadyofHats (Public domain)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Closeup_kodiak_bear_hamburg.JPG"
 ---
 Há um momento em que até a criatura mais poderosa da floresta se recolhe. Para as tradições xamânicas, a imagem do urso que some na escuridão da caverna não fala de fuga, mas de uma força que o mundo exterior nem sempre alcança: a coragem de se retirar para dentro. Quem carrega o peso dos dias e a exaustão de nunca parar talvez reconheça esse chamado — a urgência de uma pausa profunda, onde a quietude não é ausência, mas preparação. Esta leitura simbólica não substitui cuidados de saúde; se o cansaço for persistente, buscar apoio profissional é sempre sábio.
 
@@ -18,6 +20,11 @@ Há um momento em que até a criatura mais poderosa da floresta se recolhe. Para
 O urso como animal de poder é o guardião da força silenciosa e da introspecção. Em diversas tradições xamânicas, ele simboliza a capacidade de se recolher para regenerar — como a hibernação, que transforma inanição em renascimento. Sua medicina fala sobre estabelecer limites sem precisar rugir e proteger o que é sagrado com a presença inteira do corpo, não com a ameaça.
 
 Para muitos povos originários, quem caminha com o urso carrega uma afinidade com o silêncio e a profundidade. Não se trata de um poder espetaculoso, e sim daquela força que se revela quando a agitação cessa e as camadas mais íntimas começam a falar. O urso é o guardião que conhece as plantas, que sabe esperar o inverno passar e que emerge da caverna transformado — sem pressa, mas inteiro.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-grande-retiro-urso-medicina-forca-silenciosa.jpg" alt="Representação artística simbólica de Urso" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Urso no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que a imagem da hibernação revela sobre o retiro interior?
 

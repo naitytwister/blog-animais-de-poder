@@ -1,15 +1,17 @@
 ---
 title: "A Águia Como Animal de Poder: Visão Além do Horizonte"
-description: "A imagem da águia como animal de poder evoca, em muitas tradições, uma forma de percepção ampliada — um convite a enxergar além do imediato."
-slug: "a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder águia"
-tipo: "cluster"
-pilar_slug: "antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo"
-data: '2026-08-11T10:07:13Z'
-imagem_capa: "/images/a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia.jpg"
-imagem_alt: "Águia voando sobre um vale montanhoso com o sol ao fundo, representando a medicina da visão ampliada"
-autor: "Cecilia Aranha"
+description: A imagem da águia como animal de poder evoca, em muitas tradições, uma forma de percepção ampliada — um convite a enxergar além do imediato.
+slug: a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder águia
+tipo: cluster
+pilar_slug: antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo
+data: "2026-08-11T10:07:13Z"
+imagem_capa: /images/a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia-documental.jpg
+imagem_alt: Registro fotográfico documental de Águia em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Águia: Kaiseradler Aquila heliaca amk. Registro fotográfico: user:AngMoKio (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Kaiseradler_Aquila_heliaca_amk.jpg"
 ---
 Quando a águia cruza o seu caminho — seja em sonho, ao vivo ou como uma imagem que não sai da mente — muitas tradições interpretam esse encontro como um convite à reflexão sobre a percepção. A águia-real consegue detectar uma lebre a três quilômetros de distância e ainda mantém o centro do céu no foco. Essa capacidade natural serviu de espelho para que inúmeras culturas enxergassem na ave a metáfora de uma visão que ultrapassa o óbvio. Não se trata de adquirir um poder sobrenatural, mas de se abrir a uma forma de interpretar a vida que valoriza tanto o detalhe quanto o panorama.
 
@@ -18,6 +20,11 @@ Quando a águia cruza o seu caminho — seja em sonho, ao vivo ou como uma image
 A águia tem sido associada à ideia de lucidez porque seu modo de ver une dois planos ao mesmo tempo: o horizonte amplo e o movimento ínfimo no solo. Biologicamente, ela possui duas fóveas em cada olho — dois centros de foco que permitem visão monocular e binocular simultâneas. Esse feito anatômico é frequentemente usado como imagem daquela percepção que não precisa escolher entre o todo e a parte, mas abraça ambos.
 
 Em leituras simbólicas, essa característica pode inspirar um olhar que não se perde na dispersão nem se estreita na obsessão. Diferente dos ensinamentos do lobo, que nos inspiram a confiar no faro da alcateia durante a travessia noturna — [como exploramos em nosso guia sobre a sabedoria ancestral do lobo](/posts/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo/) —, a imagem da águia propõe o recolhimento nas alturas, onde o ruído do cotidiano diminui e as decisões podem ser observadas com mais distanciamento. É uma metáfora para quem sente que está pairando sobre escolhas importantes, sem ainda se lançar.
+
+<figure class="post-inline-figure">
+  <img src="/images/a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia.jpg" alt="Representação artística simbólica de Águia" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Águia no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual o lugar da águia nas tradições ancestrais?
 

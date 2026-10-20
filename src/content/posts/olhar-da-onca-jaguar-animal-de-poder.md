@@ -1,15 +1,17 @@
 ---
 title: "Olhar da Onça: O Que o Jaguar Ensina como Animal de Poder"
-description: "A onça-pintada e o jaguar como animal de poder simbolizam coragem, soberania interior, travessia da sombra e a visão da noite nas tradições indígenas."
-slug: "olhar-da-onca-jaguar-animal-de-poder"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder onca jaguar"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-19T12:26:16Z'
-imagem_capa: "/images/olhar-da-onca-jaguar-animal-de-poder.jpg"
-imagem_alt: "Onça-pintada na escuridão da floresta, olhos brilhantes, símbolo do animal de poder jaguar e da medicina da noite"
-autor: "Cecilia Aranha"
+description: A onça-pintada e o jaguar como animal de poder simbolizam coragem, soberania interior, travessia da sombra e a visão da noite nas tradições indígenas.
+slug: olhar-da-onca-jaguar-animal-de-poder
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder onca jaguar
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-19T12:26:16Z"
+imagem_capa: /images/olhar-da-onca-jaguar-animal-de-poder-documental.jpg
+imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---
 *“Há um par de olhos que brilha na escuridão da mata. A onça-pintada não caça você: ela o convoca. Caminhar pela noite sem medo é um símbolo vivo do que o jaguar representa para quem se esqueceu da própria força.”*
 
@@ -27,6 +29,11 @@ A onça-pintada (*Panthera onca*) é o maior felino das Américas, mas não é a
 Na transcrição de Claude d’Abbeville, em 1612, a estrela Iaouare tenta devorar a Lua. Os eclipses eram lidos como esse assalto celeste. Em guarani, a onça é *xivi*: há o mito da constelação da onça, que persegue os irmãos Sol e Lua. Essa dupla imagem — caçadora terrena e devoradora celeste — prepara a leitura simbólica que o animal oferece.
 
 Contemporaneamente, o jaguar segue como presença viva na arte e na luta indígena. O artista macuxi Jaider Esbell via na onça um parente espiritual e uma assinatura de soberania diante do apagamento cultural. Para muitos povos da Amazônia, o jaguar não virou peça de museu: ele segue habitando o território simbólico de quem resiste, caça, sonha e negocia com a floresta. Essa vitalidade cultural mostra que a onça não é apenas um símbolo do passado, mas uma imagem em movimento, atravessada por novas lutas e leituras.
+
+<figure class="post-inline-figure">
+  <img src="/images/olhar-da-onca-jaguar-animal-de-poder.jpg" alt="Representação artística simbólica de Onça-Pintada" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Onça-Pintada no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos simbólicos a onça-pintada traz como animal de poder?
 
