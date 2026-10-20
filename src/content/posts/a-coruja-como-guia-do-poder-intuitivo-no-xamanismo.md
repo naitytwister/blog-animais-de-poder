@@ -8,11 +8,12 @@ tipo: pilar
 pilar_slug: null
 data: "2026-08-04T10:00:00Z"
 imagem_capa: /images/a-coruja-como-guia-do-poder-intuitivo-no-xamanismo-documental.jpg
-imagem_alt: Registro fotográfico documental de Coruja em habitat natural
+imagem_alt: Coruja-das-torres (Tyto alba) em postura de observação com iluminação natural suave
 autor: Cecília Aranha
-imagem_legenda: "Fotografia documental de Coruja: Eule auf Fensterbank 1. Registro fotográfico: Ameisenigel (CC BY-SA 4.0)."
-imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Eule_auf_Fensterbank_1.jpg"
+imagem_legenda: "Fotografia documental: Coruja-das-torres (Tyto alba) em iluminação natural de estúdio e fundo neutro."
+imagem_fonte_url: "https://animotem.com"
 ---
+
 Com seus olhos que enxergam na escuridão e sua presença silenciosa, a coruja é reverenciada em várias culturas como um símbolo poderoso de intuição e sabedoria. Dentro das práticas xamânicas, ela se destaca como um animal de poder, um meio para acessar verdades profundas e ocultas.
 
 ## O que a coruja nos ensina sobre sabedoria e intuição no xamanismo?
@@ -31,9 +32,20 @@ Este simbolismo transcultural reforça a ideia da coruja como uma conselheira da
 
 A presença da coruja na vida de alguém é um convite para adentrar o mistério com coragem. Lidar com as nossas sombras, desbravando o desconhecido, torna-se uma dança com a escuridão que ela vigia. Ao confiar na coruja, aprendemos a receber e aceitar o que não pode ser plenamente visível, mas que é essencial para nossa evolução espiritual.
 
+<figure class="post-inline-figure">
+  <img src="/images/coruja-visao-interior-simbolica.jpg" alt="Representação artística simbólica da Coruja como guardiã da intuição" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a Coruja como guardiã dos mistérios interiores e da visão arquetípica.</figcaption>
+</figure>
+
 ### Xamanismo: Aplicações da Sabedoria da Coruja
 
 No xamanismo, evocar a presença da coruja implica desenvolvimento de um “olhar interior”. Este olhar não julga, apenas observa, permitindo que a intuição germine e floresça. A coruja nos incentiva a escutar os sussurros de nossa alma e a adentrar nos reinos ocultos do nosso ser.
+
+| Dimensão da Medicina | Na Ilusão Cotidiana | Sob o Olhar da Coruja |
+| :--- | :--- | :--- |
+| **O Silêncio** | Vazio desconfortável | Espaço fértil onde a intuição fala |
+| **A Sombra** | Medo do desconhecido | Portal de cura e autoconhecimento |
+| **A Decisão** | Ansiedade por respostas rápidas | Espera paciente pelo instante exato do voo |
 
 - **Percepção Além das Aparências**: A capacidade de ver claramente, mesmo quando as circunstâncias são nebulosas.
 - **Intuição como Guia**: Confiar na sabedoria interior para orientar decisões e caminhos.

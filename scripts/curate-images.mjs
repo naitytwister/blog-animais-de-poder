@@ -143,7 +143,9 @@ async function searchWikimediaDocumentary(animalKey) {
   if (!tax) return null;
 
   try {
-    const query = `"${tax.scientific}" OR "${tax.common}" filetype:bitmap -chair -diagram -map -flag -icon`;
+    // Prioriza fotos avaliadas pelo comitê de qualidade fotográfica (Quality Images / Featured Pictures)
+    // Fundo limpo, iluminação de fauna profissional e sem edifícios ou poluição urbana
+    const query = `incategory:Quality_images ("${tax.scientific}" OR "${tax.common}") filetype:bitmap -chair -diagram -map -flag -icon -building -window`;
     const url = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(query)}&gsrnamespace=6&prop=imageinfo&iiprop=url|size|extmetadata&format=json&gsrlimit=8`;
 
     const res = await fetchWithRetry(url, { timeout: 12000 });
