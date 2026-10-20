@@ -47,7 +47,7 @@ Assim como a coruja atravessa a noite como [guia do poder intuitivo no xamanismo
 
 > A onça não é um animal que se olha de longe. É uma presença que, nas narrativas ancestrais, devolve ao ser humano a imagem do seu próprio limiar — a fronteira entre o conhecido e o não vivido.
 
-Ela não pede adoração, pede escuta. Se a Senhora das Matas apareceu para você em um sonho, em um encontro com a mata ou em um silêncio súbito, a tradição convida a reconhecer esse encontro como um sinal de travessia — sem respostas prontas. Você pode conhecer o animal de poder associado ao seu momento de vida por meio do [teste de auto-observação disponível no site](/posts/animal-de-poder-teste/). Antes de sair da leitura, pergunte-se: o que a onça está guardando em você que ainda não ousou atravessar? Compartilhe este texto com alguém que precisa escutar esse chamado da floresta.
+Ela não pede adoração, pede escuta. Se a Senhora das Matas apareceu para você em um sonho, em um encontro com a mata ou em um silêncio súbito, a tradição convida a reconhecer esse encontro como um sinal de travessia — sem respostas prontas. Você pode conhecer o animal de poder associado ao seu momento de vida por meio do [teste de auto-observação disponível no site](/quiz/animal-de-poder/). Antes de sair da leitura, pergunte-se: o que a onça está guardando em você que ainda não ousou atravessar? Compartilhe este texto com alguém que precisa escutar esse chamado da floresta.
 
 ## Referências Ancestrais & Fontes
 
@@ -69,4 +69,4 @@ Charía é a onça celeste Tupi-Guarani que persegue Sol e Lua e causa eclipses.
 
 **Como saber se a onça é meu animal de poder?**
 
-Para conhecer o animal de poder associado ao seu momento de vida, as tradições sugerem observar sonhos, encontros com a natureza e repetições simbólicas. O [teste de auto-observação](/posts/animal-de-poder-teste/) é uma ferramenta disponível no site para apoiar essa reflexão.
+Para conhecer o animal de poder associado ao seu momento de vida, as tradições sugerem observar sonhos, encontros com a natureza e repetições simbólicas. O [teste de auto-observação](/quiz/animal-de-poder/) é uma ferramenta disponível no site para apoiar essa reflexão.

@@ -35,7 +35,7 @@ A ciência observa o mesmo mistério que a mitologia já intuía:
 - A bióloga Ellen Garland, da Universidade de St Andrews, demonstrou que os cantos atravessam populações inteiras de jubartes, como uma onda cultural que se propaga pelo Pacífico.
 - No Brasil, as jubartes se reproduzem no Banco de Abrolhos, na Bahia.
 
-Assim como a [tartaruga como animal de poder](/posts/animal-de-poder-tartaruga/) ensina a lentidão da memória da Terra, a baleia ensina a memória que viaja em ondas. O que a ciência chama de dialeto, a tradição xamânica nomeia como voz dos antigos. Essa correspondência é uma leitura poética entre campos distintos — ciência e tradição — e não deve ser lida como promessa de transformação pessoal ou efeito terapêutico.
+Assim como a [tartaruga como animal de poder](/posts/a-casca-do-mundo-animal-de-poder-tartaruga-e-a-lentidao-curativa/) ensina a lentidão da memória da Terra, a baleia ensina a memória que viaja em ondas. O que a ciência chama de dialeto, a tradição xamânica nomeia como voz dos antigos. Essa correspondência é uma leitura poética entre campos distintos — ciência e tradição — e não deve ser lida como promessa de transformação pessoal ou efeito terapêutico.
 
 ## Por que a baleia é um arquétipo de travessia e renascimento?
 

@@ -49,7 +49,7 @@ Segundo a lenda, um samurai foi salvo por um gato diante do templo Gotokuji, e a
 - Vermelho: associado ao afastamento de espíritos e enfermidades
 - Azul: associado à esperança e à realização de projetos
 
-Mas a sombra existe. O bakeneko e o nekomata, de duas caudas, lembram que o gato doméstico envelhece e pode atravessar o umbral nas narrativas. Para compreender a aparição felina no sonho, veja [o que significa sonhar com gato](/posts/o-que-significa-sonhar-com-gato/).
+Mas a sombra existe. O bakeneko e o nekomata, de duas caudas, lembram que o gato doméstico envelhece e pode atravessar o umbral nas narrativas. Para compreender a aparição felina no sonho, veja [o que significa sonhar com gato](/posts/animal-de-poder-gato-guardiao-do-umbral/).
 
 ## Quem é a Pisadeira e o que ela ensina sobre o excesso?
 

@@ -29,7 +29,7 @@ A constelação Corvus guarda a memória desse papel: sabedoria, aviso e visão.
 
 A gata de Freya simboliza o resguardo do espaço onírico ao delimitar, com sua presença silenciosa e atenta, o território onde o dorminhoco pode vagar com segurança. Na mitologia nórdica, Freya, deusa associada ao amor e à magia seiðr, viajava numa carruagem puxada por dois gatos selvagens sagrados. Nas narrativas, esses felinos representavam mistério, intuição e a ronda noturna das sombras.
 
-A magia seiðr, ligada a Freya, envolvia visões e alteração da percepção — práticas próximas do transe e do adormecer nas descrições antigas. Os gatos que puxavam sua carruagem simbolizavam fertilidade, intuição e vigília noturna. No nosso artigo sobre [o significado de sonhar com gato](/posts/olhos-na-penumbra-significado-sonhar-com-gato/), você encontra os matizes dessa presença felina.
+A magia seiðr, ligada a Freya, envolvia visões e alteração da percepção — práticas próximas do transe e do adormecer nas descrições antigas. Os gatos que puxavam sua carruagem simbolizavam fertilidade, intuição e vigília noturna. No nosso artigo sobre [o significado de sonhar com gato](/posts/animal-de-poder-gato-guardiao-do-umbral/), você encontra os matizes dessa presença felina.
 
 ## Quem é Bes, a figura egípcia associada ao sono?
 
