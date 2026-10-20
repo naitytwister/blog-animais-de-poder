@@ -1,17 +1,18 @@
 ---
-title: "A Coruja como Guia do Poder Intuitivo no Xamanismo"
-description: "Desvende o simbolismo da coruja no xamanismo, uma ponte entre a sabedoria oculta e a intuição afiada."
-slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
-subnicho: "xamanismo-e-tradicoes"
-palavra_chave: "coruja como guia intuitivo"
-tipo: "pilar"
+title: A Coruja como Guia do Poder Intuitivo no Xamanismo
+description: Desvende o simbolismo da coruja no xamanismo, uma ponte entre a sabedoria oculta e a intuição afiada.
+slug: a-coruja-como-guia-do-poder-intuitivo-no-xamanismo
+subnicho: xamanismo-e-tradicoes
+palavra_chave: coruja como guia intuitivo
+tipo: pilar
 pilar_slug: null
 data: "2026-08-04T10:00:00Z"
-imagem_capa: "/images/a-coruja-como-guia-do-poder-intuitivo-no-xamanismo.jpg"
-imagem_alt: "Imagem de uma coruja sobre uma árvore contra um céu noturno estrelado"
-autor: "Cecília Aranha"
+imagem_capa: /images/a-coruja-como-guia-do-poder-intuitivo-no-xamanismo-documental.jpg
+imagem_alt: Registro fotográfico documental de Coruja em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Coruja: Eule auf Fensterbank 1. Registro fotográfico: Ameisenigel (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Eule_auf_Fensterbank_1.jpg"
 ---
-
 Com seus olhos que enxergam na escuridão e sua presença silenciosa, a coruja é reverenciada em várias culturas como um símbolo poderoso de intuição e sabedoria. Dentro das práticas xamânicas, ela se destaca como um animal de poder, um meio para acessar verdades profundas e ocultas.
 
 ## O que a coruja nos ensina sobre sabedoria e intuição no xamanismo?

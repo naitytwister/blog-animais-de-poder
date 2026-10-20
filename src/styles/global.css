@@ -176,3 +176,31 @@ img {
     scroll-behavior: auto !important;
   }
 }
+
+/* Captions & Etnographic Figure Styling */
+.cover-figure {
+  margin: 0;
+  padding: 0;
+}
+
+.cover-caption,
+.prose figure figcaption {
+  margin-top: var(--space-2);
+  font-size: var(--text-xs);
+  line-height: 1.4;
+  color: var(--muted);
+  text-align: center;
+  font-style: italic;
+}
+
+.cover-caption a,
+.prose figure figcaption a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.cover-caption a:hover,
+.prose figure figcaption a:hover {
+  color: var(--amber);
+}

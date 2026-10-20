@@ -130,14 +130,27 @@ const faqSchema = faq.length
 
     <div class="post-cover">
       <div class="container-narrow">
-        <img
-          src={data.imagem_capa}
-          alt={data.imagem_alt}
-          width="1200"
-          height="800"
-          loading="eager"
-          decoding="async"
-        />
+        <figure class="cover-figure">
+          <img
+            src={data.imagem_capa}
+            alt={data.imagem_alt}
+            width="1200"
+            height="800"
+            loading="eager"
+            decoding="async"
+          />
+          {data.imagem_legenda && (
+            <figcaption class="cover-caption">
+              {data.imagem_fonte_url ? (
+                <a href={data.imagem_fonte_url} target="_blank" rel="noopener noreferrer">
+                  {data.imagem_legenda}
+                </a>
+              ) : (
+                data.imagem_legenda
+              )}
+            </figcaption>
+          )}
+        </figure>
       </div>
     </div>
 

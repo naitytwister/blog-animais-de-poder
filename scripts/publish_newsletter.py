@@ -338,8 +338,15 @@ def main():
     # 3. Tratamento de flag [skip netlify] no commit
     commit_msg = get_git_commit_message()
     if "[skip netlify]" in commit_msg.lower():
-        log_warning("Detectado '[skip netlify]' no commit!")
-        trigger_netlify_build_hook()
+        log_warning("Detectado '[skip netlify]' no commit.")
+        hook_triggered = trigger_netlify_build_hook()
+        if not hook_triggered:
+            log_info(
+                "[EARLY-EXIT] Deploy ignorado pelo Netlify e sem Build Hook disponível.\n"
+                "O envio da newsletter foi dispensado com sucesso para este commit."
+            )
+            print("::notice title=Newsletter Pulada::Deploy ignorado via [skip netlify]. Pipeline encerrado com sucesso.")
+            sys.exit(0)
 
     # 4. Smoke Test Ativo (Portão de Qualidade Anti-404)
     if not skip_poll and not is_dry_run:

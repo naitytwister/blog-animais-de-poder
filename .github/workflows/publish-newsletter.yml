@@ -26,6 +26,8 @@ jobs:
   publish-newsletter:
     runs-on: ubuntu-latest
     name: Validar Deploy & Disparar Newsletter
+    permissions:
+      contents: read
     steps:
       - name: 📥 Checkout do Repositório
         uses: actions/checkout@v4

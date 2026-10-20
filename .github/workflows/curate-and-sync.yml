@@ -1,0 +1,59 @@
+name: Curate & Sync Assets
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Quantidade de artigos para processar nesta rodada'
+        required: false
+        default: '3'
+      dry_run:
+        description: 'Simulação sem salvar arquivos (Dry Run)'
+        type: boolean
+        default: false
+  schedule:
+    - cron: '0 4 * * *' # Execução noturna diária às 04:00 UTC (01:00 BRT)
+
+concurrency:
+  group: curate-assets-group
+  cancel-in-progress: false
+
+jobs:
+  curate-and-sync:
+    name: Curadoria de Imagens Documentais & Sincronização
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 📥 Checkout do Repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🟢 Configurar Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 🖼️ Executar Motor de Curadoria Corporativo
+        run: |
+          ARGS="--batch-size ${{ github.event.inputs.batch_size || '3' }}"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          node scripts/curate-images.mjs $ARGS
+
+      - name: 🚀 Commit e Push Atômico com Retry de Rebase
+        run: |
+          if [ -n "$(git status --porcelain public/images src/content/posts)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add public/images src/content/posts
+            git commit -m "chore(curadoria): enriquecer imagens e legendas com acervos abertos [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin master && git push origin master && break || sleep 5
+            done
+            echo "✅ Alterações de curadoria sincronizadas com o repositório com sucesso!"
+          else
+            echo "Nenhuma imagem necessitou de curadoria nesta rodada. Repositório 100% atualizado."
+          fi
