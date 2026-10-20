@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-08-20T12:28:26Z'
 imagem_capa: "/images/guardiao-do-tempo-rapido-animal-de-poder-beija-flor.jpg"
 imagem_alt: "Beija-flor em voo suspenso entre flores, simbolizando o tempo do instante e a medicina do animal de poder"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 No plano simbólico das tradições ameríndias, o beija-flor é a única ave que voa para trás — e é justamente por isso que ele é o guardião do tempo que mais nos ensina a viver o instante. Como animal de poder, o beija-flor carrega a medicina da doçura e do tempo que não acumula peso: quem atravessa o passado de asas abertas não se deixa aprisionar por ele. Nas cosmovisões ameríndias, ele não é apenas lembrança de alegria, mas um guia do instante sagrado.
 

@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: '2026-08-13T10:17:47Z'
 imagem_capa: "/images/qual-o-seu-animal-interior-bicho-antigo.jpg"
 imagem_alt: "Silhueta de cinco classes animais — felino, canino, inseto, ave e primata — reunidas em torno de uma figura humana em contemplação"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Há uma pergunta que não se resolve com lógica, mas com escuta: qual o seu animal interior? Seu animal interior é a classe arquetípica dominante — Felino, Canino, Inseto, Ave ou Primata — usada como lente simbólica para observar seu instinto, seus vínculos e suas escolhas. Ele aparece nos gestos antes da palavra. Não é um bicho para imitar, é o bicho antigo que já habita o peito. Esta leitura é uma exploração cultural e simbólica, sem qualquer finalidade terapêutica ou diagnóstica.
 

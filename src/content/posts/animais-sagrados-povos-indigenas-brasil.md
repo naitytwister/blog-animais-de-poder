@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-09-16T15:48:00Z'
 imagem_capa: "/images/animais-sagrados-povos-indigenas-brasil.jpg"
 imagem_alt: "Ilustração simbólica de onça, arara, harpia e cobra-grande unidas como guardiões espirituais na floresta brasileira"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de existirem donos da terra, os povos originários do Brasil reconheciam uma pátria em que os espíritos andavam em quatro patas, vestiam penas e deslizavam pelo fundo dos rios. Se você pergunta quais são esses guardiões, a resposta aparece em presenças concretas: onça, arara, harpia, cobra-grande, colibri e coruja.
 

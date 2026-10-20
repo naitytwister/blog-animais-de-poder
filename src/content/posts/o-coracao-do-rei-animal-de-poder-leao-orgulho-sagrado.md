@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-10-09T17:44:05Z'
 imagem_capa: "/images/o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado.jpg"
 imagem_alt: "Leão majestoso com juba dourada em paisagem aberta, símbolo do animal de poder leão e da medicina da liderança"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Quando a juba dourada do leão se desenha à frente, as tradições xamânicas reconhecem no animal de poder leão um espelho da liderança que serve. A "medicina" do leão — termo usado nessas tradições para descrever os ensinamentos de um animal — nasce do paradoxo: ele é chamado rei, mas vive em bando. A leoa caça, o macho guarda, o grupo sustenta. Ninguém governa sozinho. Esse é o ensinamento que essa figura arquetípica carrega nas narrativas ancestrais.
 
