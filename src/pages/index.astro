@@ -16,16 +16,16 @@ const rest = posts.slice(1);
 <BaseLayout canonicalPath="/">
   <section class="hero">
     <HeroSky />
-    <div class="container hero-inner" data-animate-stagger="0.12">
-      <p class="hero-eyebrow" data-animate-item>Sabedoria ancestral · Sonhos · Sinais</p>
-      <h1 class="hero-title" data-animate-item>
+    <div class="container hero-inner">
+      <p class="hero-eyebrow">Sabedoria ancestral · Sonhos · Sinais</p>
+      <h1 class="hero-title">
         Cada animal que cruza seu caminho tem uma <em>mensagem</em>.
       </h1>
-      <p class="hero-sub" data-animate-item>
+      <p class="hero-sub">
         Explore os animais de poder, o significado de sonhar com animais e a sabedoria das
         tradições ancestrais em um espaço de escuta, respeito e autoconhecimento.
       </p>
-      <div class="hero-actions" data-animate-item>
+      <div class="hero-actions">
         <a class="btn btn-primary" href="/categoria/animais/">Explorar os animais</a>
         <a class="btn btn-ghost" href="/categoria/sonhos/">Sonhos com animais</a>
         <a class="btn btn-quiz" href="/quiz/animal-de-poder/">Descobrir meu animal de poder</a>
@@ -35,7 +35,7 @@ const rest = posts.slice(1);
 
   <section class="quiz-featured" aria-label="Teste do animal de poder">
     <div class="container">
-      <div class="quiz-banner" data-animate="fade-up">
+      <div class="quiz-banner">
         <div class="quiz-banner-content">
           <p class="quiz-banner-eyebrow">Teste interativo · 2 minutos</p>
           <h2>Qual é o seu animal de poder <em>neste momento?</em></h2>
@@ -54,12 +54,12 @@ const rest = posts.slice(1);
 
   <section class="categories" aria-label="Categorias">
     <div class="container">
-      <h2 class="section-title" data-animate="fade-up">Trilhas de leitura</h2>
-      <div class="categories-grid" data-animate-stagger="0.08">
+      <h2 class="section-title">Trilhas de leitura</h2>
+      <div class="categories-grid">
         {Object.entries(SUBNICHOS).map(([id, sub]) => {
           const count = posts.filter((p) => p.data.subnicho === id).length;
           return (
-            <a class="cat-card" href={`/categoria/${sub.slug_categoria}/`} data-animate-item>
+            <a class="cat-card" href={`/categoria/${sub.slug_categoria}/`}>
               <span class="cat-icon" aria-hidden="true">{sub.icone}</span>
               <div>
                 <h3>{sub.titulo}</h3>
@@ -78,8 +78,8 @@ const rest = posts.slice(1);
   {featured && (
     <section class="featured" aria-label="Em destaque">
       <div class="container">
-        <h2 class="section-title" data-animate="fade-up">Em destaque</h2>
-        <div data-animate="fade-up">
+        <h2 class="section-title">Em destaque</h2>
+        <div>
           <PostCard post={featured} featured />
         </div>
       </div>
@@ -89,10 +89,10 @@ const rest = posts.slice(1);
   {rest.length > 0 && (
     <section class="latest" aria-label="Últimos artigos">
       <div class="container">
-        <h2 class="section-title" data-animate="fade-up">Últimos artigos</h2>
-        <div class="posts-grid" data-animate-stagger="0.08">
+        <h2 class="section-title">Últimos artigos</h2>
+        <div class="posts-grid">
           {rest.map((post) => (
-            <div data-animate-item>
+            <div>
               <PostCard post={post} />
             </div>
           ))}
@@ -371,3 +371,4 @@ const rest = posts.slice(1);
     padding-block: var(--space-4) var(--space-8);
   }
 </style>
+
