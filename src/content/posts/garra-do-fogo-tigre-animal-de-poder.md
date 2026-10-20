@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-10-06T17:36:36Z'
 imagem_capa: "/images/garra-do-fogo-tigre-animal-de-poder.jpg"
 imagem_alt: "Tigre de olhar sereno em névoa dourada, representando a coragem serena como animal de poder"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Quando a pressa manda incendiar, o tigre guarda a brasa. Ter o tigre como animal de poder não é herdar a fúria, e sim a coragem serena: a potência que se recolhe, observa e age sem desperdício, no instante exato. A garra do fogo carrega o calor da decisão, mas o passo é silencioso. Quem desperta essa medicina aprende que a verdadeira força não mora no rugido — mora na espera.
 

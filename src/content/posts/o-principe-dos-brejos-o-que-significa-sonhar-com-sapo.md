@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-10-12T20:36:17Z'
 imagem_capa: "/images/o-principe-dos-brejos-o-que-significa-sonhar-com-sapo.jpg"
 imagem_alt: "Sapo dourado repousa à beira de águas escuras entre folhas, símbolo de transformação e limiar entre mundos."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Sonhar com sapo é, para várias tradições ancestrais, um convite simbólico a observar processos de mudança interior com mais atenção. Nem todo príncipe usa coroa. Alguns reinam de cócoras, na beira d'água, esperando a chuva. Quando essa criatura aparece no sonho, muitos intérpretes tradicionais sugerem que algo estagnado pede escuta — não como promessa de metamorfose garantida, mas como imagem de um limiar entre o que fica e o que pode brotar.
 

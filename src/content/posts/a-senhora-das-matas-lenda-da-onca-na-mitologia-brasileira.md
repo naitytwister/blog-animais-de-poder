@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-10-13T18:40:38Z'
 imagem_capa: "/images/a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira.jpg"
 imagem_alt: "Onça-pintada em meio à floresta densa, iluminada por luz dourada de eclipse"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Nas lendas da mitologia brasileira, a onça não é apenas um felino: ela é a Senhora das Matas, guardiã que atravessa os limiares entre humano, animal e espírito. Quando você escuta o farfalhar que não vem do vento, talvez seja ela passando. Esta é uma travessia pelas faces divinas da onça — Charía, Kianumaka-Manã e Yaguareté-abá — para que você reconheça a guardiã ancestral que caminha nas narrativas dos povos originários.
 

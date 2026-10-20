@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-21T17:26:32Z'
 imagem_capa: "/images/corvo-animal-de-poder-mensageiro-limiares.jpg"
 imagem_alt: "Corvo preto pousado em galho ao crepúsculo, com névoa ao fundo, representando o animal de poder corvo"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Ter o corvo como animal de poder é ser convocado a voar até a borda do conhecido e voltar para contar o que viu. Não se trata de agouro, mas de uma medicina de limiar: o corvo circula entre o dia e a noite, entre a fala e o silêncio, entre o fim e o renascimento. Na tradição nórdica, ele era os olhos de Odin — Huginn, o pensamento, e Muninn, a memória. É por essa linhagem que ele nos visita.
 
