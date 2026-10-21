@@ -1,15 +1,17 @@
 ---
 title: "A Metamorfose Silenciosa: A Medicina Transformativa da Borboleta"
-description: "Entenda o animal de poder borboleta e como sua simbologia xamânica oferece reflexões sobre dissolução interior e renovação da alma, sem garantias de resultados."
-slug: "a-metamorfose-silenciosa-medicina-transformativa-borboleta"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder borboleta"
-tipo: "cluster"
-pilar_slug: "/posts/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo/"
-data: '2026-08-11T18:54:57Z'
-imagem_capa: "/images/a-metamorfose-silenciosa-medicina-transformativa-borboleta.jpg"
-imagem_alt: "Borboleta com asas azuis e negras repousando sobre uma folha, simbolizando a pausa sagrada da crisálida na medicina xamânica"
-autor: "Cecilia Aranha"
+description: Entenda o animal de poder borboleta e como sua simbologia xamânica oferece reflexões sobre dissolução interior e renovação da alma, sem garantias de resultados.
+slug: a-metamorfose-silenciosa-medicina-transformativa-borboleta
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder borboleta
+tipo: cluster
+pilar_slug: /posts/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo/
+data: "2026-08-11T18:54:57Z"
+imagem_capa: /images/a-metamorfose-silenciosa-medicina-transformativa-borboleta-documental.jpg
+imagem_alt: Registro fotográfico documental de Borboleta em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Borboleta: Heliconius melpomene 2b Richard Bartz. Registro fotográfico: Richard Bartz, Munich aka Makro Freak (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Heliconius_melpomene_2b_Richard_Bartz.jpg"
 ---
 Há momentos em que a vida pede mais do que uma simples mudança. Ela exige uma metamorfose — a dissolução completa do que você foi até agora. O animal de poder borboleta carrega, de forma simbólica, essa inteligência ancestral que inspira os processos onde a forma antiga precisa se desfazer para que uma nova possa surgir. Não se trata de uma prescrição, mas de uma reflexão cultural sobre ciclos de transformação. Vale lembrar que essas leituras são simbólicas e não substituem o acompanhamento de profissionais de saúde quando se trata de questões emocionais ou psicológicas.
 
@@ -18,6 +20,11 @@ Há momentos em que a vida pede mais do que uma simples mudança. Ela exige uma 
 A borboleta como animal de poder é o arquétipo que, nas tradições xamânicas, simboliza os ciclos de transformação profunda — aqueles em que não basta ajustar a superfície, e a alma parece buscar uma reconfiguração interior. Diferente de outras medicinas que costumam fortalecer estruturas existentes, a imagem da borboleta aponta para a possibilidade de dissolução de velhas formas, sugerindo que, em algumas jornadas, um recomeço radical pode emergir após um período de desconstrução.
 
 Na mitologia grega, Psique — a personificação da alma — era representada com asas de borboleta. A palavra grega *psyche* significa tanto “alma” quanto “borboleta”, unificando num só termo a noção de que a essência humana é, por natureza, mutável e alada. Já na cultura japonesa, a borboleta simboliza a transitoriedade da existência e a alegria que nasce da aceitação dessa impermanência. Entre os povos mexicanos, as borboletas-monarca que chegam no início de novembro são reverenciadas como as almas dos ancestrais retornando para visitar os vivos durante o Dia dos Mortos. Essas referências mostram como a metamorfose da borboleta foi, em várias culturas, um espelho para a experiência humana — um espelho que não promete, mas convida a contemplar.
+
+<figure class="post-inline-figure">
+  <img src="/images/a-metamorfose-silenciosa-medicina-transformativa-borboleta.jpg" alt="Representação artística simbólica de Borboleta" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Borboleta no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais são os quatro estágios da medicina da borboleta?
 

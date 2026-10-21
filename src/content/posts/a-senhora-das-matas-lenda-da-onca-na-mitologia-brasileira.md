@@ -1,15 +1,17 @@
 ---
 title: "A Senhora das Matas: Lenda da Onça na Mitologia Brasileira"
 description: "Conheça a onça como guardiã ancestral nas lendas brasileiras: Charía, Kianumaka-Manã e Yaguareté-abá tecidas pela cosmologia indígena."
-slug: "a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira"
-subnicho: "xamanismo-e-tradicoes"
-palavra_chave: "lenda da onça mitologia brasileira"
-tipo: "cluster"
-pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
-data: '2026-10-13T18:40:38Z'
-imagem_capa: "/images/a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira.jpg"
-imagem_alt: "Onça-pintada em meio à floresta densa, iluminada por luz dourada de eclipse"
-autor: "Cecilia Aranha"
+slug: a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira
+subnicho: xamanismo-e-tradicoes
+palavra_chave: lenda da onça mitologia brasileira
+tipo: cluster
+pilar_slug: a-coruja-como-guia-do-poder-intuitivo-no-xamanismo
+data: "2026-10-13T18:40:38Z"
+imagem_capa: /images/a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira-documental.jpg
+imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---
 Nas lendas da mitologia brasileira, a onça não é apenas um felino: ela é a Senhora das Matas, guardiã que atravessa os limiares entre humano, animal e espírito. Quando você escuta o farfalhar que não vem do vento, talvez seja ela passando. Esta é uma travessia pelas faces divinas da onça — Charía, Kianumaka-Manã e Yaguareté-abá — para que você reconheça a guardiã ancestral que caminha nas narrativas dos povos originários.
 
@@ -20,6 +22,11 @@ Ela é a guardiã ancestral que aparece sob muitos nomes, mas com uma mesma fun�
 - **Charía**, a onça celeste que persegue Sol e Lua.
 - **Kianumaka-Manã**, a Deusa Onça da liberdade e das batalhas.
 - **Yaguareté-abá**, o homem-jaguar que transita entre peles.
+
+<figure class="post-inline-figure">
+  <img src="/images/a-senhora-das-matas-lenda-da-onca-na-mitologia-brasileira.jpg" alt="Representação artística simbólica de Onça-Pintada" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Onça-Pintada no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quem é Charía, a onça celeste que engole o Sol e a Lua?
 

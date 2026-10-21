@@ -1,15 +1,17 @@
 ---
 title: "A Onça que Atravessa a Noite: O que Significa Sonhar com Onça"
-description: "Sonhar com onça é encontro com a potência adormecida. Entenda a leitura ancestral da guardiã da noite e o chamado da mata em sua vida."
-slug: "a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com onca"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-09-02T15:37:35Z'
-imagem_capa: "/images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca.jpg"
-imagem_alt: "Onça-pintada com olhar sereno atravessando a escuridão da floresta, em tons de azul profundo e dourado, representando a travessia da noite no sonho"
-autor: "Cecilia Aranha"
+description: Sonhar com onça é encontro com a potência adormecida. Entenda a leitura ancestral da guardiã da noite e o chamado da mata em sua vida.
+slug: a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com onca
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-09-02T15:37:35Z"
+imagem_capa: /images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca-documental.jpg
+imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---
 > A onça não veio te atacar no sonho. Ela veio lembrar que existe uma força em você que nunca aprendeu a pedir licença.
 
@@ -18,6 +20,11 @@ Sonhar com onça é, na leitura ancestral, um encontro com a própria potência 
 ## O que revela a onça como guardiã da noite nas tradições ancestrais?
 
 A onça carrega o arquétipo da guardiã que enxerga no escuro, aquela que atravessa as horas sem sol para lembrar que há potência mesmo quando a consciência repousa. Nas culturas mesoamericanas, essa presença foi lida como mediação entre mundos — sem qualquer conotação de diagnóstico ou promessa de cura, mas como imagem viva de transição. Entre os astecas, Tezcatlipoca tinha a onça-pintada como nagual, sua forma animal. Ao transformar-se no felino, ele se tornava Tepeyollotl — "Coração da Montanha" — ser que habitava cavernas, o submundo e o céu noturno. A pele pintada do felino era lida como um mapa estrelado: cada mancha, uma constelação. Os maias chamavam a onça de Balam, guardiã do Xibalbá, o mundo de baixo, e a entendiam como o sol noturno — a luz que não morre, apenas atravessa a escuridão para renascer ao amanhecer. Essa natureza dual, luz e sombra, céu e terra, atravessou olmecas, maias, astecas e incas. A onça não era temida como inimiga: era reconhecida como presença divina que regula as transições — entre o dia e a noite, entre a vida e o mistério, entre o medo e a coragem.
+
+<figure class="post-inline-figure">
+  <img src="/images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca.jpg" alt="Representação artística simbólica de Onça-Pintada" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Onça-Pintada no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que a onça é chamada de dona da mata no Brasil?
 
