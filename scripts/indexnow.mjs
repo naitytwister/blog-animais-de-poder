@@ -13,7 +13,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const SITE_HOST = 'animotem.com';
-const INDEXNOW_KEY = 'animotem2026indexnowkey0909';
+const INDEXNOW_KEY = 'dccf5828bb5c453799df7f34b55b5ba4';
 const KEY_LOCATION = `https://${SITE_HOST}/${INDEXNOW_KEY}.txt`;
 
 // Garante o arquivo de verificação pública no Astro/Netlify
