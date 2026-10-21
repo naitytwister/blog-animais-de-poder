@@ -75,7 +75,14 @@ async function run() {
   }
 
   // Encontra o próximo da fila que ainda não foi compartilhado
-  let nextItem = TARGET_QUEUE.find((item) => !history.publishedSlugs.includes(item.slug));
+  // Fonte da verdade: slugs que realmente chegaram aos grupos (social-performance.json),
+  // não o histórico — que antes era marcado mesmo quando o disparo falhava.
+  let postedSlugs = [];
+  try {
+    const perf = JSON.parse(fs.readFileSync(path.join(ROOT, '.browser-session/social-performance.json'), 'utf-8'));
+    postedSlugs = perf.trackedPosts.map((p) => p.slug);
+  } catch {}
+  let nextItem = TARGET_QUEUE.find((item) => !postedSlugs.includes(item.slug));
   if (!nextItem) {
     // Se todos da lista já foram, pega o primeiro novamente (rotação)
     nextItem = TARGET_QUEUE[0];
