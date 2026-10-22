@@ -1,15 +1,17 @@
 ---
 title: "Animal de Poder Cachorro: O Selvagem que Escolheu o Humano"
-description: "A medicina do cachorro como animal de poder revela lealdade ativa, proteção amorosa, passagem entre mundos e a escolha de permanecer ao lado do humano."
-slug: "animal-de-poder-cachorro"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder cachorro"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-17T18:31:46Z'
-imagem_capa: "/images/animal-de-poder-cachorro.jpg"
-imagem_alt: "Cachorro em posição de guarda diante de uma fenda de terra, simbolizando a escolha de ficar ao lado do humano"
-autor: "Cecilia Aranha"
+description: A medicina do cachorro como animal de poder revela lealdade ativa, proteção amorosa, passagem entre mundos e a escolha de permanecer ao lado do humano.
+slug: animal-de-poder-cachorro
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder cachorro
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-17T18:31:46Z"
+imagem_capa: /images/animal-de-poder-cachorro-documental.jpg
+imagem_alt: Registro fotográfico documental de Cão em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Cão: Cane corso głowa profil 493o. Registro fotográfico: Pleple2000 (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Cane_corso_g%C5%82owa_profil_493o.jpg"
 ---
 Animal de poder cachorro é, na leitura simbólica das tradições xamânicas, a medicina da lealdade ativa, da proteção amorosa e da passagem entre mundos. Quando esse guardião se aproxima de uma pessoa, ele traz o arquétipo de quem permanece por escolha, não por imposição. Entre todos os bichos da criação, o cachorro pulou para o lado do humano. Ele não foi domado; escolheu. Essa narrativa pertence ao campo do mito e da interpretação cultural, não a uma verdade verificável sobre o comportamento animal ou sobre a psique humana.
 
@@ -20,6 +22,11 @@ A lealdade do cachorro, na perspectiva simbólica, é lida como o gesto de perma
 Como observa Mircea Eliade, os mitos de criação narram eventos primordiais que servem de modelo para as condutas humanas. A escolha do cão, nessa leitura, não é apenas uma história antiga: é um convite simbólico para refletir sobre os vínculos que elegemos como nossos. Por isso, quando o animal de poder cachorro aparece em sonhos ou sincronicidades, ele pode ser interpretado como um chamado para examinar onde a lealdade é oferecida por obrigação e onde ela é oferecida por escolha. Nessa leitura, a submissão não é a morada desse guardião: a lealdade que importa é aquela que nasce da liberdade, não do medo.
 
 Essa escolha primordial ecoa na relação cotidiana: o cão late para o forasteiro, mas se deita aos pés de quem reconhece como família. Há uma distinção entre fidelidade imposta e fidelidade oferecida. O animal de poder cachorro, como arquétipo, lembra que servir por devoção não aprisiona — mas essa é uma proposição simbólica, não uma regra psicológica aplicável a todos os vínculos humanos.
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-cachorro.jpg" alt="Representação artística simbólica de Cão" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Cão no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como o cão se tornou guardião das passagens?
 

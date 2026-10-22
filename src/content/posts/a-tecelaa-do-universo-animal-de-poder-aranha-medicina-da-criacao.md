@@ -1,15 +1,17 @@
 ---
 title: "A Tecelã do Universo: O Que o Animal de Poder Aranha Ensina Sobre a Criação"
 description: "A aranha como animal de poder revela a sabedoria da criação: tecer a própria realidade com paciência, criatividade e consciência da rede que conecta tudo."
-slug: "a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder aranha"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-17T21:25:18Z'
-imagem_capa: "/images/a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao.jpg"
-imagem_alt: "Aranha tecendo uma teia iluminada pela luz da manhã, símbolo da criação"
-autor: "Cecilia Aranha"
+slug: a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder aranha
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-17T21:25:18Z"
+imagem_capa: /images/a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao-documental.jpg
+imagem_alt: Registro fotográfico documental de Aranha em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Aranha: Wasp and spider 02. Registro fotográfico: Tony Wills (CC BY 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Wasp_and_spider_02.jpg"
 ---
 Há um fio que se estende do centro do seu peito até cada encontro, cada ausência, cada recomeço. Quando a aranha aparece nesse caminho, o fio vibra: é o chamado da Tecelã do Universo. O animal de poder aranha fala da arte de tecer a própria existência com paciência, criatividade e a consciência de que nenhum fio termina em si mesmo.
 
@@ -20,6 +22,11 @@ Importante: este texto aborda a aranha como símbolo ancestral e metáfora da cr
 O animal de poder aranha representa a sabedoria da criação: a habilidade de tramar, fio a fio, uma realidade coerente com a própria essência. Diferente da proteção em alcateia que vimos no [guia completo do lobo como animal de poder](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), a aranha tece, solitária, uma rede que sustenta o todo.
 
 Esse ensinamento não se resume à paciência nem à energia feminina, como costumam repetir os manuais rápidos. Para os povos Hopi e Navajo, a Avó Aranha ensina a tecer e a moldar o barro — liga o gesto criativo à própria criação do mundo. As oito pernas evocam a figura do infinito; a teia obedece a uma geometria sagrada, pois cada milímetro responde ao desenho maior da Criação.
+
+<figure class="post-inline-figure">
+  <img src="/images/a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao.jpg" alt="Representação artística simbólica de Aranha" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Aranha no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que a aranha nos ensina sobre a arte de tecer a própria vida?
 

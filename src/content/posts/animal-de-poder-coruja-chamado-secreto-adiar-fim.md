@@ -1,15 +1,17 @@
 ---
 title: "Animal de Poder Coruja: Chamado Secreto para Adiar o Fim do Mundo"
-description: "A coruja como animal de poder guarda o limiar entre a noite e o dia. Conheça o simbolismo ancestral dessa ave da visão noturna e seu chamado reflexivo."
-slug: "animal-de-poder-coruja-chamado-secreto-adiar-fim"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder coruja"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-18T12:25:36Z'
-imagem_capa: "/images/animal-de-poder-coruja-chamado-secreto-adiar-fim.jpg"
-imagem_alt: "Ilustração simbólica de uma coruja noturna sobre galho, com olhos luminosos e penas escuras, sob um céu estrelado e lua crescente"
-autor: "Cecilia Aranha"
+description: A coruja como animal de poder guarda o limiar entre a noite e o dia. Conheça o simbolismo ancestral dessa ave da visão noturna e seu chamado reflexivo.
+slug: animal-de-poder-coruja-chamado-secreto-adiar-fim
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder coruja
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-18T12:25:36Z"
+imagem_capa: /images/animal-de-poder-coruja-chamado-secreto-adiar-fim-documental.jpg
+imagem_alt: Registro fotográfico documental de Coruja em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Coruja: Händkakk 2014. Registro fotográfico: Ireen Trummer (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:H%C3%A4ndkakk_2014.JPG"
 ---
 A coruja não anuncia a morte; ela guarda o limiar onde a noite e o dia se tocam. Como animal de poder, é a sentinela da visão noturna: enxerga na escuridão aquilo que o dia esconde e devolve ao silêncio as verdades que a pressa não ouve. Quando essa imagem aparece em sonhos ou reflexões, a pergunta sugerida pela tradição não é sobre eventos futuros, mas sobre o que merece atenção no presente.
 
@@ -20,6 +22,11 @@ A coruja não anuncia a morte; ela guarda o limiar onde a noite e o dia se tocam
 A coruja como animal de poder é o arquétipo da visão noturna. Ela não representa um animal exterior que se domestica, mas uma presença interior que ativa a percepção sutil, a escuta do invisível e a coragem de atravessar a própria sombra sem se perder nela.
 
 Na mitologia grega, a coruja acompanha Atena, deusa da sabedoria, da estratégia e da justiça. Seu olhar penetra véus e reconhece o que se esconde por trás das intenções. Em tradições xamânicas, é chamada de "Águia da Noite": enquanto a Águia governa a claridade e o espírito elevado, a coruja guarda o abismo noturno, ligada à Lua e ao subconsciente. Como vimos no nosso [guia completo sobre o lobo como animal de poder de proteção, alcateia e lealdade](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), cada animal revela um ensinamento específico; o da coruja é a travessia pelo que a consciência diurna evita olhar.
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-coruja-chamado-secreto-adiar-fim.jpg" alt="Representação artística simbólica de Coruja" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Coruja no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que a coruja é a guardiã do limiar entre morte simbólica e renascimento?
 
