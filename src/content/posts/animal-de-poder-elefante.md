@@ -1,15 +1,17 @@
 ---
 title: "Elefante: O Animal de Poder da Memória Ancestral e da Matriarca"
 description: "O elefante como animal de poder revela a memória ancestral transmitida pela matriarca: escuta, luto sagrado e liderança pela sabedoria."
-slug: "animal-de-poder-elefante"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder elefante"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-09-18T15:27:54Z'
-imagem_capa: "/images/animal-de-poder-elefante.jpg"
-imagem_alt: "Ilustração simbólica de uma matriarca elefante conduzindo sua manada sob luz dourada de savana, com a memória dos ossos ancestrais à frente"
-autor: "Cecilia Aranha"
+slug: animal-de-poder-elefante
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder elefante
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-09-18T15:27:54Z"
+imagem_capa: /images/animal-de-poder-elefante-documental.jpg
+imagem_alt: Registro fotográfico documental de Elefante em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Elefante: Elephant Kruger 2003. Registro fotográfico: Rob Hooft (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Elephant_Kruger_2003.jpg"
 ---
 Antes de existirem livros, a memória do mundo caminhava em quatro patas — e até hoje é a matriarca quem a guarda. Quando o elefante cruza seu caminho como animal de poder, ele traz a memória ancestral como herança viva, a força tranquila que abre rotas antigas e a sabedoria de quem escuta antes de agir. Não é apenas potência física, mas um chamado para lembrar quem você era antes de o mundo lhe ensinar a esquecer.
 
@@ -20,6 +22,11 @@ O elefante é reconhecido como guardião da memória porque três tradições an
 A origem sagrada do elefante reúne três fios que se entrelaçam. No hinduísmo, Airavata emerge da concha cósmica durante a criação do universo e carrega Indra, unindo a solidez da terra à força do raio. Ganesha, o deus de cabeça de elefante, foi moldado por Parvati do barro do próprio corpo e recebeu a nova cabeça como um recomeço — orelhas largas para ouvir o inaudível, olhos pequenos para ver o essencial, boca contida para não dissipar conhecimento e ventre que digere a experiência. No budismo, o elefante branco no sonho da rainha Maya anuncia o despertar de Buda, tornando-se emblema de pureza e favor divino. Nas culturas da África Austral, a matriarca guarda as rotas de água como um mapa vivo transmitido por imitação.
 
 A biologia confirma essa intuição com dados quantificáveis: a pesquisadora Joyce Poole, da ElephantVoices, documentou matriarcas que reconhecem as vocalizações de mais de cem outros elefantes; Karen McComb, da Universidade de Sussex, demonstrou que matriarcas mais velhas respondem com mais precisão às ameaças; e Phyllis Lee, da Universidade de Stirling, mostrou que a presença da matriarca aumenta a sobrevivência dos filhotes. A memória, nessas tradições e nesses estudos, não é arquivo morto; é presença viva que guia. Como vimos no [guia completo sobre o lobo como animal de poder](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), cada animal carrega uma medicina própria — e a do elefante é essa memória que atravessa gerações.
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-elefante.jpg" alt="Representação artística simbólica de Elefante" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Elefante no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais são os ensinamentos do elefante como animal de poder?
 

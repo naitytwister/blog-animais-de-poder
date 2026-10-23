@@ -1,15 +1,17 @@
 ---
 title: "Animal de Poder Gato: O Guardião do Umbral e da Independência"
 description: "A medicina do gato como animal de poder: independência, mistério e o dom de habitar o limiar entre o visível e o invisível, sem se submeter."
-slug: "animal-de-poder-gato-guardiao-do-umbral"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder gato"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-17T12:24:12Z'
-imagem_capa: "/images/animal-de-poder-gato-guardiao-do-umbral.jpg"
-imagem_alt: "Gato preto de olhos dourados em penumbra, representando o animal de poder gato como guardião do umbral"
-autor: "Cecilia Aranha"
+slug: animal-de-poder-gato-guardiao-do-umbral
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder gato
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-17T12:24:12Z"
+imagem_capa: /images/animal-de-poder-gato-guardiao-do-umbral-documental.jpg
+imagem_alt: Registro fotográfico documental de Gato em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Gato: Domestic cat felis catus. Registro fotográfico: Muhammad Mahdi Karim (GFDL)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Domestic_cat_felis_catus.jpg"
 ---
 O gato não cruza o umbral: ele o habita. Na linguagem simbólica de várias culturas, é o animal que anda pela escuridão sem pedir licença — imagem associada ao mistério e à autonomia. Em leituras espirituais, o gato como animal de poder costuma ser interpretado como um espelho para observar o invisível com curiosidade, sem prometer capacidades sobrenaturais. A independência do gato, nesse contexto simbólico, evoca uma postura de presença sem submissão, não um estado de solidão.
 
@@ -28,6 +30,11 @@ Aspectos simbólicos frequentemente atribuídos ao gato:
 - **Mistério**: sustentar a presença no desconhecido sem reduzir tudo ao controle.
 - **Silêncio ativo**: observar antes de intervir, escolher o momento exato do movimento.
 - **Transição**: transpor portais simbólicos entre estados de consciência.
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-gato-guardiao-do-umbral.jpg" alt="Representação artística simbólica de Gato" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Gato no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como o gato se tornou um guardião sagrado e depois foi perseguido?
 
