@@ -1,14 +1,16 @@
 ---
 title: "Animal de Poder Lobo: A Medicina Ancestral que o Uivo Revela"
-description: "A medicina do lobo como animal de poder revela o uivo que restaura a voz interior, o instinto indomável e a sabedoria dos povos originários."
-slug: "antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder lobo"
-tipo: "pilar"
+description: A medicina do lobo como animal de poder revela o uivo que restaura a voz interior, o instinto indomável e a sabedoria dos povos originários.
+slug: antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder lobo
+tipo: pilar
 data: "2026-08-04T10:00:00Z"
-imagem_capa: "/images/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo.jpg"
-imagem_alt: "Lobo em pé sobre uma pedra, uivando para o céu noturno estrelado, com uma floresta ao fundo em tons de azul e prata, evocando a medicina ancestral do lobo."
-autor: "Cecília Aranha"
+imagem_capa: /images/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo-documental.jpg
+imagem_alt: Registro fotográfico documental de Lobo em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Lobo: Scandinavian grey wolf Canis lupus. Registro fotográfico: Malene Thyssen (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Scandinavian_grey_wolf_Canis_lupus.jpg"
 ---
 O lobo como **animal de poder lobo** não chega para ser domesticado. Não se apresenta com garantias de conforto nem promete atalhos luminosos. Ele surge quando a paisagem interior começa a perder suas vozes — quando o silêncio deixa de ser pausa e se torna esquecimento. E então se ouve, de dentro da mata mais antiga da psique, um uivo que não pede licença: é a medicina ancestral do lobo recordando que há algo em nós que ainda não foi silenciado.
 
@@ -19,6 +21,11 @@ Nas tradições dos povos originários da América do Norte, a palavra *medicina
 > "A natureza não apressa, mas tudo é realizado." — Provérbio Lakota
 
 A medicina do lobo é a da coragem que não precisa rugir para existir. É a inteligência que observa o terreno antes de agir, a lealdade que não anula o indivíduo, a comunicação que atravessa distâncias e mantém a tribo unida. Quando o lobo aparece como animal de poder, não está ali para que alguém se torne mais feroz, e sim para que recorde como se mantém a própria voz viva quando o mundo ao redor quer calá-la.
+
+<figure class="post-inline-figure">
+  <img src="/images/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo.jpg" alt="Representação artística simbólica de Lobo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Lobo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Os ensinamentos que o lobo trouxe aos primeiros povos
 

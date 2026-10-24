@@ -1,15 +1,17 @@
 ---
 title: "Animal de Poder Abelha: Doçura, Comunhão e Pertencimento"
-description: "A abelha como animal de poder revela a medicina do pertencimento coletivo e da doçura sagrada que nasce do trabalho partilhado."
-slug: "arquitetura-do-mel-animal-de-poder-abelha"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder abelha"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-10-01T17:43:27Z'
-imagem_capa: "/images/arquitetura-do-mel-animal-de-poder-abelha.jpg"
-imagem_alt: "Abelha pousada sobre flor dourada, simbolizando a medicina do animal de poder abelha e a doçura da comunidade"
-autor: "Cecilia Aranha"
+description: A abelha como animal de poder revela a medicina do pertencimento coletivo e da doçura sagrada que nasce do trabalho partilhado.
+slug: arquitetura-do-mel-animal-de-poder-abelha
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder abelha
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-10-01T17:43:27Z"
+imagem_capa: /images/arquitetura-do-mel-animal-de-poder-abelha-documental.jpg
+imagem_alt: Registro fotográfico documental de Abelha em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Abelha: Apis mellifera carnica worker honeycomb 2. Registro fotográfico: Richard Bartz, Munich Makro Freak &amp; Beemaster Hubert Seibring, Munich which gave me advice and a protection suite ;) My dog cashed 6 bee-sticks on the nose, i cashed 4. (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Apis_mellifera_carnica_worker_honeycomb_2.jpg"
 ---
 A abelha nunca constrói sozinha — e talvez seja por isso que a colmeia não desaba. Se o animal de poder abelha cruzou o seu caminho, a vida está sussurrando que chegou a hora de parar de carregar o mundo nas costas e reaprender a arte de pertencer. A sua sabedoria não se resume ao trabalho disciplinado que os clichês repetem. A abelha é a arquiteta do mel: um chamado para transformar a solidão em comunidade e o néctar da experiência em doçura partilhada.
 
@@ -22,6 +24,11 @@ Na cosmovisão ancestral, o animal de poder abelha representa a alma coletiva �
 No Egito, as abelhas nasceram das lágrimas de Rá, e o templo de Nut era o "castelo da abelha", guardião do olho vivo do deus. Na Grécia, as sacerdotisas Melissas serviam a Ártemis e Deméter, e as pitonisas de Delfos eram chamadas abelhas. Em Creta, a deusa mãe era representada com abelhas douradas, símbolo da regeneração e da aliança entre o mundo visível e o invisível. Entre os povos indígenas do Brasil, as meliponas — abelhas nativas sem ferrão — são guardiãs de um saber ancestral. O povo Atikum reconhece a "abelha-mestra" como guia simbólica do mel, conforme documenta LEO-NETO (2011). Em todas essas tradições, a abelha nunca é símbolo de esforço individual, mas memória viva do coletivo.
 
 A psicóloga junguiana Marie-Louise von Franz observa que a abelha, assim como outros insetos sociais, evoca a imagem do inconsciente coletivo em movimento. O biólogo e filósofo Rupert Sheldrake, por sua vez, associa o comportamento emergente da colmeia a campos mórficos — padrões invisíveis que conectam os indivíduos além da comunicação visível. A abelha, portanto, ensina que a natureza mais profunda do ser é relacional.
+
+<figure class="post-inline-figure">
+  <img src="/images/arquitetura-do-mel-animal-de-poder-abelha.jpg" alt="Representação artística simbólica de Abelha" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Abelha no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como a abelha restaura o sentido de pertencimento no coletivo?
 

@@ -1,17 +1,18 @@
 ---
 title: "Animal de Poder Tubarão: Instinto Primitivo, Foco Implacável e Domínio das Profundezas"
 description: "Conheça o animal de poder tubarão: instinto primitivo, foco e a sabedoria ancestral do Aumakua para navegar com coragem suas águas profundas."
-slug: "animal-de-poder-tubarao"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder tubarao"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-09-10T12:00:00Z'
-imagem_capa: "/images/animal-de-poder-tubarao.jpg"
-imagem_alt: "Ilustração mística de um tubarão ancestral emergindo de águas oceânicas escuras e profundas com bioluminescência sutil"
-autor: "Cecilia Aranha"
+slug: animal-de-poder-tubarao
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder tubarao
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-09-10T12:00:00Z"
+imagem_capa: /images/animal-de-poder-tubarao-documental.jpg
+imagem_alt: Registro fotográfico documental de Tubarão em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Tubarão: Tiburón azul (Prionace glauca) y submarinista, canal Fayal-Pico, islas Azores, Portugal, 2020-07-27, DD 08. Registro fotográfico: Diego Delso (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Tibur%C3%B3n_azul_(Prionace_glauca)_y_submarinista,_canal_Fayal-Pico,_islas_Azores,_Portugal,_2020-07-27,_DD_08.jpg"
 ---
-
 O tubarão não negocia com a correnteza: ele a corta. Habitante das águas salgadas muito antes das árvores existirem sobre a Terra, ele sobreviveu a cinco extinções em massa com uma anatomia perfeita de cartilagem, sensores elétricos e movimento incessante. Quando o arquétipo do tubarão emerge na consciência, nos sonhos ou nos trabalhos xamânicos, ele não surge para semear terror, mas para desmascarar a hesitação, despertar o instinto primordial e ensinar o domínio soberano das próprias profundezas emocionais.
 
 > **Aviso editorial:** Este artigo explora as raízes mitológicas, simbólicas e transpessoais atribuídas ao tubarão em diversas culturas ancestrais e no xamanismo contemporâneo. Suas lições operam como lentes de autoconhecimento e reflexão interior.
@@ -29,6 +30,11 @@ Ter o tubarão como aliado espiritual ou guardião arquetípico indica uma alma 
 3. **Integrar a Sombra sem Vergonha:** O tubarão carrega o medo ancestral que a humanidade projeta no mar desconhecido. Ele ensina a não temer a própria agressividade saudável, a determinação e a capacidade de dizer "não" com firmeza inabalável.
 
 ---
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-tubarao.jpg" alt="Representação artística simbólica de Tubarão" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Tubarão no imaginário ancestral.</figcaption>
+</figure>
 
 ## O Simbolismo Ancestral do Tubarão nas Tradições do Mundo
 
