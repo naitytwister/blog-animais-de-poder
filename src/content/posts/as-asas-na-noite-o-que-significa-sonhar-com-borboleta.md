@@ -1,15 +1,17 @@
 ---
 title: "As Asas na Noite: O Que Significa Sonhar com Borboleta?"
-description: "Sonhar com borboleta é a alma anunciando uma metamorfose em curso. Entenda o mito de Psique, os sinais do sonho e o chamado à renovação."
-slug: "as-asas-na-noite-o-que-significa-sonhar-com-borboleta"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com borboleta"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-08-28T21:37:27Z'
-imagem_capa: "/images/as-asas-na-noite-o-que-significa-sonhar-com-borboleta.jpg"
-imagem_alt: "Borboleta noturna em voo, com asas translúcidas sobre fundo azul-escuro, simbolizando alma e metamorfose"
-autor: "Cecilia Aranha"
+description: Sonhar com borboleta é a alma anunciando uma metamorfose em curso. Entenda o mito de Psique, os sinais do sonho e o chamado à renovação.
+slug: as-asas-na-noite-o-que-significa-sonhar-com-borboleta
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com borboleta
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-08-28T21:37:27Z"
+imagem_capa: /images/as-asas-na-noite-o-que-significa-sonhar-com-borboleta-documental.jpg
+imagem_alt: Registro fotográfico documental de Borboleta em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Borboleta: Heliconius melpomene 2b Richard Bartz. Registro fotográfico: Richard Bartz, Munich aka Makro Freak (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Heliconius_melpomene_2b_Richard_Bartz.jpg"
 ---
 Sonhar com borboleta é a alma anunciando uma metamorfose já em curso. As asas na noite não pedem presságio: revelam que um ciclo se despede e outro começa a ganhar forma. Esse sonho costuma aparecer quando a vida pede leveza, quando o que era lagarta já não cabe mais. Não é um recado sobre o futuro, e sim sobre o presente em movimento. Se o sonho voltou, talvez seja hora de reconhecer a transformação que você já vinha adiando.
 
@@ -18,6 +20,11 @@ Sonhar com borboleta é a alma anunciando uma metamorfose já em curso. As asas 
 A borboleta se tornou imagem da alma porque seu ciclo — lagarta, casulo, voo — espelha a transformação interna da psique. Nos sonhos, ela surge como espelho do que já se move por dentro, não como oráculo fechado. O símbolo conversa com a sua história, não com um catálogo.
 
 Como vimos no [guia completo sobre o que os sonhos com animais querem nos dizer](/posts/sonhos-com-animais-significado-interpretar/), a imagem onírica não é um código pronto, mas uma linguagem íntima. No grego antigo, *psychē* nomeava ao mesmo tempo alma e borboleta. A deusa Psique, personificação da alma, é representada com asas de borboleta. No Egito antigo, acreditava-se que a alma deixava o corpo como borboleta após a morte. No Japão, a borboleta carrega a alegria do amor e a transitoriedade da vida. No cristianismo, a saída do casulo virou imagem da ressurreição. No México, a borboleta-monarca chega perto do Dia dos Mortos como mensageira das almas.
+
+<figure class="post-inline-figure">
+  <img src="/images/as-asas-na-noite-o-que-significa-sonhar-com-borboleta.jpg" alt="Representação artística simbólica de Borboleta" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Borboleta no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais sinais do sonho revelam que uma metamorfose está em curso?
 

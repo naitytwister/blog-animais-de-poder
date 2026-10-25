@@ -1,15 +1,17 @@
 ---
 title: "Baleia Animal de Poder: O Canto das Profundezas e a Memória Ancestral"
 description: "Entenda o que significa ter a baleia como animal de poder: memória ancestral, canto sagrado que atravessa gerações e escuta profunda da própria alma."
-slug: "baleia-animal-de-poder-memoria-ancestral-canto"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder baleia"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-09-27T16:01:34Z'
-imagem_capa: "/images/baleia-animal-de-poder-memoria-ancestral-canto.jpg"
-imagem_alt: "Baleia jubarte emergindo no oceano profundo, envolta em luz suave, representando memória ancestral e escuta interior"
-autor: "Cecilia Aranha"
+slug: baleia-animal-de-poder-memoria-ancestral-canto
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder baleia
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-09-27T16:01:34Z"
+imagem_capa: /images/baleia-animal-de-poder-memoria-ancestral-canto-documental.jpg
+imagem_alt: Registro fotográfico documental de Baleia em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Baleia: Delphinapterus leucas beluga MNHN. Registro fotográfico: Jebulon (CC0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Delphinapterus_leucas_beluga_MNHN.jpg"
 ---
 Você sente um chamado que vem de longe, como uma canção submersa. A baleia como animal de poder representa a memória ancestral, o canto que atravessa gerações e a escuta profunda da própria alma. Quando ela emerge no seu horizonte interior, não é por acaso: é um convite para descer às águas do inconsciente e ouvir o que o mundo tentou silenciar. Este ensaio tem caráter estritamente simbólico e filosófico; não substitui acompanhamento psicológico ou médico profissional, e nenhuma expressão aqui deve ser interpretada como promessa de cura ou transformação.
 
@@ -22,6 +24,11 @@ Na tradição xamânica, a baleia é compreendida como guardiã da memória. Ela
 Na cosmologia xamânica, a baleia é o grande tambor do oceano, a guardiã dos registros da Mãe Terra. Se o lobo guarda a memória da alcateia e o pacto da lealdade, como vimos no [guia sobre o lobo como animal de poder](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), a baleia guarda a memória inteira do mundo nas suas águas. Ela não carrega apenas informações: carrega a vibração que organiza o caos.
 
 Essa imagem aparece em várias tradições como uma consciência que sustenta o mundo sobre as costas. No xamanismo, evocar a baleia é buscar acesso ao subconsciente e à mente universal — não para prever o futuro, mas para lembrar o que a alma já sabia antes do nascimento. Carl Gustav Jung, em seus estudos sobre o inconsciente coletivo, descreveu arquétipos semelhantes como imagens primordiais herdadas culturalmente; a baleia funciona, nesse enquadre, como uma dessas imagens, e não como prescrição de experiência interior.
+
+<figure class="post-inline-figure">
+  <img src="/images/baleia-animal-de-poder-memoria-ancestral-canto.jpg" alt="Representação artística simbólica de Baleia" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Baleia no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual é a relação entre o canto da baleia e a memória ancestral?
 

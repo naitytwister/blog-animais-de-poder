@@ -1,15 +1,17 @@
 ---
 title: "Cavalo de Poder: A Travessia da Liberdade Interior"
-description: "O animal de poder cavalo ensina que liberdade não é ausência de vínculos, mas a coragem de cavalgar com consciência. Descubra seus significados ancestrais."
-slug: "cavalo-de-poder-travessia-liberdade-interior"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder cavalo"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-12T10:16:30Z'
-imagem_capa: "/images/cavalo-de-poder-travessia-liberdade-interior.jpg"
-imagem_alt: "Cavalo preto com crina ao vento, correndo livremente em um prado dourado ao pôr do sol, simbolizando o animal de poder cavalo e a liberdade espiritual."
-autor: "Cecilia Aranha"
+description: O animal de poder cavalo ensina que liberdade não é ausência de vínculos, mas a coragem de cavalgar com consciência. Descubra seus significados ancestrais.
+slug: cavalo-de-poder-travessia-liberdade-interior
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder cavalo
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-12T10:16:30Z"
+imagem_capa: /images/cavalo-de-poder-travessia-liberdade-interior-documental.jpg
+imagem_alt: Registro fotográfico documental de Cavalo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Cavalo: Merfeld, Wildpferdefang -- 2014 -- 7882. Registro fotográfico: Dietmar Rabich (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Merfeld,_Wildpferdefang_--_2014_--_7882.jpg"
 ---
 Você já sentiu aquela inquietação que parece vir do fundo dos ossos, um chamado para se mover? Em várias tradições, o animal de poder cavalo emerge como um símbolo dessa necessidade de travessia. Não como um convite à fuga, mas como representação da coragem para escolher um caminho com consciência. Das estepes siberianas às planícies americanas, o cavalo é lembrado como uma força que nos recorda: a liberdade não é ausência de vínculos, e sim a escolha de como percorrer a própria estrada.
 
@@ -18,6 +20,11 @@ Você já sentiu aquela inquietação que parece vir do fundo dos ossos, um cham
 No xamanismo siberiano, o tambor ritual é conhecido como "cavalo". Diz-se que ele carrega o espírito do xamã através dos mundos, simbolizando que o animal de poder cavalo não é o destino, mas o meio que torna possível a jornada sagrada.
 
 Nas línguas turco-mongólicas, o tambor xamânico é chamado literalmente de "cavalo". Sem ele, a alma do xamã, segundo as crenças, não alcançaria os reinos superiores ou inferiores. A lenda quirguiz de Töshtük ilustra isso: seu cavalo falante guia-o na recuperação da alma, pressentindo perigos que a razão ignora. Dessa forma, o cavalo é frequentemente interpretado como a inteligência instintiva que dialoga com a consciência.
+
+<figure class="post-inline-figure">
+  <img src="/images/cavalo-de-poder-travessia-liberdade-interior.jpg" alt="Representação artística simbólica de Cavalo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Cavalo no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que Sun’ka Wakan nos revela sobre parentesco e espelhamento?
 
