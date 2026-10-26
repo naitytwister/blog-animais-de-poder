@@ -1,15 +1,17 @@
 ---
 title: "O Guardião do Tempo Rápido: Animal de Poder Beija-Flor e a Graça do Instante"
-description: "O animal de poder beija-flor ensina a medicina do instante, o voo para trás e o tempo que não acumula peso. Descubra seu chamado ancestral."
-slug: "guardiao-do-tempo-rapido-animal-de-poder-beija-flor"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder beija flor"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-08-20T12:28:26Z'
-imagem_capa: "/images/guardiao-do-tempo-rapido-animal-de-poder-beija-flor.jpg"
-imagem_alt: "Beija-flor em voo suspenso entre flores, simbolizando o tempo do instante e a medicina do animal de poder"
-autor: "Cecilia Aranha"
+description: O animal de poder beija-flor ensina a medicina do instante, o voo para trás e o tempo que não acumula peso. Descubra seu chamado ancestral.
+slug: guardiao-do-tempo-rapido-animal-de-poder-beija-flor
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder beija flor
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-08-20T12:28:26Z"
+imagem_capa: /images/guardiao-do-tempo-rapido-animal-de-poder-beija-flor-documental.jpg
+imagem_alt: Registro fotográfico documental de Beija-flor em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Beija-flor: Colibri-thalassinus-001-edit. Registro fotográfico: Mdf, Edited by Laitche (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Colibri-thalassinus-001-edit.jpg"
 ---
 No plano simbólico das tradições ameríndias, o beija-flor é a única ave que voa para trás — e é justamente por isso que ele é o guardião do tempo que mais nos ensina a viver o instante. Como animal de poder, o beija-flor carrega a medicina da doçura e do tempo que não acumula peso: quem atravessa o passado de asas abertas não se deixa aprisionar por ele. Nas cosmovisões ameríndias, ele não é apenas lembrança de alegria, mas um guia do instante sagrado.
 
@@ -20,6 +22,11 @@ O beija-flor como animal de poder é o guardião da doçura e do movimento sutil
 Na família Trochilidae, cerca de 340 espécies exclusivas das Américas, pulsa um coração acima de mil batimentos por minuto. As asas desenham um oito no ar em 50 a 80 batidas por segundo. Para os mexicas, essa intensidade era sagrada: Huitzilopochtli, o Colibri do Sul, divindade solar ligada ao renascimento. Guerreiros mortos em batalha retornavam como beija-flores após quatro anos acompanhando o sol. Entre os taíno do Caribe, o colibri era mensageiro do amor e das cores.
 
 Cada animal de poder ocupa um papel próprio no xamanismo. Como vimos no [guia do lobo como animal de poder, guardião da alcateia e da lealdade](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), o lobo ensina pertencimento e proteção; o beija-flor ensina a arte de estar inteiro no que é breve.
+
+<figure class="post-inline-figure">
+  <img src="/images/guardiao-do-tempo-rapido-animal-de-poder-beija-flor.jpg" alt="Representação artística simbólica de Beija-flor" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Beija-flor no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual é a medicina do instante que o beija-flor nos transmite?
 

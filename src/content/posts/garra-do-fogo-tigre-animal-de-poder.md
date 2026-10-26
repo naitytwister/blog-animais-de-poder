@@ -1,15 +1,17 @@
 ---
 title: "A Garra do Fogo: Tigre como Animal de Poder"
 description: "Entenda o significado do tigre como animal de poder e a medicina da coragem serena: fogo contido, paciência e ação precisa."
-slug: "garra-do-fogo-tigre-animal-de-poder"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder tigre"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-10-06T17:36:36Z'
-imagem_capa: "/images/garra-do-fogo-tigre-animal-de-poder.jpg"
-imagem_alt: "Tigre de olhar sereno em névoa dourada, representando a coragem serena como animal de poder"
-autor: "Cecilia Aranha"
+slug: garra-do-fogo-tigre-animal-de-poder
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder tigre
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-10-06T17:36:36Z"
+imagem_capa: /images/garra-do-fogo-tigre-animal-de-poder-documental.jpg
+imagem_alt: Registro fotográfico documental de Tigre em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Tigre: Tiger berlin-3. Registro fotográfico: Softeis (Public domain)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Tiger_berlin-3.jpg"
 ---
 Quando a pressa manda incendiar, o tigre guarda a brasa. Ter o tigre como animal de poder não é herdar a fúria, e sim a coragem serena: a potência que se recolhe, observa e age sem desperdício, no instante exato. A garra do fogo carrega o calor da decisão, mas o passo é silencioso. Quem desperta essa medicina aprende que a verdadeira força não mora no rugido — mora na espera.
 
@@ -26,6 +28,11 @@ Como registra o historiador das religiões Mircea Eliade em *O Sagrado e o Profa
 Na Índia, a deusa Durga monta um tigre para expressar, em linguagem mítica, o domínio simbólico das emoções. Ela não luta contra o tigre — ela o cavalga. Isso sintetiza a medicina: a coragem não elimina o fogo, ela o governa.
 
 Na Coreia, o espírito da montanha San-shin é frequentemente acompanhado pelo tigre, que aparece com cachimbo e um coelho. É um guardião vigilante, mensageiro entre o mundo humano e o sagrado das montanhas. O pesquisador David A. Mason, em seu estudo sobre o xamanismo coreano, descreve o tigre de San-shin como emblema de soberania espiritual e proteção serena.
+
+<figure class="post-inline-figure">
+  <img src="/images/garra-do-fogo-tigre-animal-de-poder.jpg" alt="Representação artística simbólica de Tigre" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Tigre no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais são os ensinamentos simbólicos do tigre como animal de poder?
 

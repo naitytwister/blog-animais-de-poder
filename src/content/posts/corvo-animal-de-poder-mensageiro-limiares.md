@@ -1,15 +1,17 @@
 ---
 title: "Corvo de Odin e a Noite: Animal de Poder Corvo nos Limiares"
-description: "Entenda o que significa ter o corvo como animal de poder, a partir dos corvos de Odin, Huginn e Muninn, e o papel do mensageiro nos limiares."
-slug: "corvo-animal-de-poder-mensageiro-limiares"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder corvo"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-09-21T17:26:32Z'
-imagem_capa: "/images/corvo-animal-de-poder-mensageiro-limiares.jpg"
-imagem_alt: "Corvo preto pousado em galho ao crepúsculo, com névoa ao fundo, representando o animal de poder corvo"
-autor: "Cecilia Aranha"
+description: Entenda o que significa ter o corvo como animal de poder, a partir dos corvos de Odin, Huginn e Muninn, e o papel do mensageiro nos limiares.
+slug: corvo-animal-de-poder-mensageiro-limiares
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder corvo
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-09-21T17:26:32Z"
+imagem_capa: /images/corvo-animal-de-poder-mensageiro-limiares-documental.jpg
+imagem_alt: Registro fotográfico documental de Corvo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Corvo: Corvus-01. Registro fotográfico: Thermos (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Corvus-01.jpg"
 ---
 Ter o corvo como animal de poder é ser convocado a voar até a borda do conhecido e voltar para contar o que viu. Não se trata de agouro, mas de uma medicina de limiar: o corvo circula entre o dia e a noite, entre a fala e o silêncio, entre o fim e o renascimento. Na tradição nórdica, ele era os olhos de Odin — Huginn, o pensamento, e Muninn, a memória. É por essa linhagem que ele nos visita.
 
@@ -18,6 +20,11 @@ Ter o corvo como animal de poder é ser convocado a voar até a borda do conheci
 Significa carregar uma consciência de ponte: o corvo não escolhe entre luz e sombra, ele transita. Para os povos da Costa Noroeste do Pacífico, como Tlingit e Haida, o Corvo é criador e trickster — rouba a luz e o fogo para dar forma ao mundo. Como animal de poder, pede que você reconheça que o desconforto e o mistério também ensinam.
 
 Embora muitos o associem à morte, o corvo no xamanismo é a prova de que atravessar o escuro não é anular-se. Para alguns povos nativos norte-americanos, ele representa a "vacuidade do Grande Mistério", o vazio de onde nascem as respostas. Essa compreensão aparece sobretudo entre os povos do noroeste, cujas narrativas foram documentadas por etnógrafos como Franz Boas e John R. Swanton. Nessa perspectiva, ter o corvo como guia é aceitar que nem tudo precisa ser explicado: há sabedoria em permanecer no limiar.
+
+<figure class="post-inline-figure">
+  <img src="/images/corvo-animal-de-poder-mensageiro-limiares.jpg" alt="Representação artística simbólica de Corvo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Corvo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que Odin temia mais perder Muninn, a memória?
 
