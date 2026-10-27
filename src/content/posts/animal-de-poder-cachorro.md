@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-17T18:31:46Z"
 imagem_capa: /images/animal-de-poder-cachorro-documental.jpg
 imagem_alt: Registro fotográfico documental de Cão em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Cão: Cane corso głowa profil 493o. Registro fotográfico: Pleple2000 (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Cane_corso_g%C5%82owa_profil_493o.jpg"
 ---
@@ -72,7 +72,7 @@ A raiz do animal de poder cachorro não está na obediência, e sim no salto. A 
 
 ## Sobre a Autora
 
-Cecilia Aranha é escritora e pesquisadora de mitologia comparada e psicologia analítica, com foco em simbologia animal e tradições xamânicas. Há mais de dez anos, estuda as narrativas ancestrais que ligam humanos e animais de poder, sempre com respeito às culturas originárias e sem pretensão de verdades universais.
+Cecília Aranha é escritora e pesquisadora de mitologia comparada e psicologia analítica, com foco em simbologia animal e tradições xamânicas. Há mais de dez anos, estuda as narrativas ancestrais que ligam humanos e animais de poder, sempre com respeito às culturas originárias e sem pretensão de verdades universais.
 
 ## Referências Ancestrais & Fontes
 

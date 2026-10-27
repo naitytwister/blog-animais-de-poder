@@ -9,7 +9,7 @@ pilar_slug: sonhos-com-animais-significado-interpretar
 data: "2026-08-26T12:31:15Z"
 imagem_capa: /images/o-galope-invisivel-o-que-significa-sonhar-com-cavalo-documental.jpg
 imagem_alt: Registro fotográfico documental de Cavalo em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Cavalo: Merfeld, Wildpferdefang -- 2014 -- 7882. Registro fotográfico: Dietmar Rabich (CC BY-SA 4.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Merfeld,_Wildpferdefang_--_2014_--_7882.jpg"
 ---

@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-10-01T17:43:27Z"
 imagem_capa: /images/arquitetura-do-mel-animal-de-poder-abelha-documental.jpg
 imagem_alt: Registro fotográfico documental de Abelha em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Abelha: Apis mellifera carnica worker honeycomb 2. Registro fotográfico: Richard Bartz, Munich Makro Freak &amp; Beemaster Hubert Seibring, Munich which gave me advice and a protection suite ;) My dog cashed 6 bee-sticks on the nose, i cashed 4. (CC BY-SA 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Apis_mellifera_carnica_worker_honeycomb_2.jpg"
 ---

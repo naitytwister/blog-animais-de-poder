@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-18T12:25:36Z"
 imagem_capa: /images/animal-de-poder-coruja-chamado-secreto-adiar-fim-documental.jpg
 imagem_alt: Registro fotográfico documental de Coruja em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Coruja: Händkakk 2014. Registro fotográfico: Ireen Trummer (CC BY-SA 4.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:H%C3%A4ndkakk_2014.JPG"
 ---

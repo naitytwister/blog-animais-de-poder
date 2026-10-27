@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-09-16T15:48:00Z'
 imagem_capa: "/images/animais-sagrados-povos-indigenas-brasil.jpg"
 imagem_alt: "Ilustração simbólica de onça, arara, harpia e cobra-grande unidas como guardiões espirituais na floresta brasileira"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de existirem donos da terra, os povos originários do Brasil reconheciam uma pátria em que os espíritos andavam em quatro patas, vestiam penas e deslizavam pelo fundo dos rios. Se você pergunta quais são esses guardiões, a resposta aparece em presenças concretas: onça, arara, harpia, cobra-grande, colibri e coruja.
 
@@ -81,7 +81,7 @@ Esses guardiões não são metáforas distantes. São espelhos de qualidades que
 
 ## Sobre a Autora
 
-Cecilia Aranha é pesquisadora de simbologias ancestrais e tradições orais dos povos originários do Brasil, com formação em antropologia e estudos da psique. Há mais de dez anos dedica-se à escrita de ensaios que conectam mitologia, psicologia analítica e cosmovisão indígena, sempre a partir de fontes acadêmicas e do convívio com comunidades tradicionais. Seu trabalho busca traduzir a sabedoria dos povos da floresta para leitores contemporâneos, sem reduzir a complexidade cultural a fórmulas prontas.
+Cecília Aranha é pesquisadora de simbologias ancestrais e tradições orais dos povos originários do Brasil, com formação em antropologia e estudos da psique. Há mais de dez anos dedica-se à escrita de ensaios que conectam mitologia, psicologia analítica e cosmovisão indígena, sempre a partir de fontes acadêmicas e do convívio com comunidades tradicionais. Seu trabalho busca traduzir a sabedoria dos povos da floresta para leitores contemporâneos, sem reduzir a complexidade cultural a fórmulas prontas.
 
 ## Referências Ancestrais & Fontes
 

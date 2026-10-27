@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-10-12T20:36:17Z'
 imagem_capa: "/images/o-principe-dos-brejos-o-que-significa-sonhar-com-sapo.jpg"
 imagem_alt: "Sapo dourado repousa à beira de águas escuras entre folhas, símbolo de transformação e limiar entre mundos."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Sonhar com sapo é, para várias tradições ancestrais, um convite simbólico a observar processos de mudança interior com mais atenção. Nem todo príncipe usa coroa. Alguns reinam de cócoras, na beira d'água, esperando a chuva. Quando essa criatura aparece no sonho, muitos intérpretes tradicionais sugerem que algo estagnado pede escuta — não como promessa de metamorfose garantida, mas como imagem de um limiar entre o que fica e o que pode brotar.
 
@@ -43,7 +43,7 @@ Entre os povos de língua Pano — Katukina (Noke Kuin), Yawanawá e Kaxinawá (
 
 Em várias culturas, o sapo é associado à lua porque ambos emergem com a umidade e governam os ritmos da água — elemento ligado à memória emocional. Essa associação não implica previsão de eventos, mas oferece um pano de fundo para compreender por que a figura do sapo atravessa tantas cosmovisões.
 
-A autora deste site, Cecilia Aranha, dedica-se ao estudo de tradições simbólicas ligadas aos animais, cruzando leituras de etnografias, mitologia comparada e psicologia analítica — sem apresentar interpretações como verdades definitivas.
+A autora deste site, Cecília Aranha, dedica-se ao estudo de tradições simbólicas ligadas aos animais, cruzando leituras de etnografias, mitologia comparada e psicologia analítica — sem apresentar interpretações como verdades definitivas.
 
 ## O que o sapo ensina sobre a sombra e o renascimento interior?
 

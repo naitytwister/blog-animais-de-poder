@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-11T16:03:51Z"
 imagem_capa: /images/cobra-serpente-animal-de-poder-renascimento-documental.jpg
 imagem_alt: Registro fotográfico documental de Serpente em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Serpente: The Grass Snake - Natrix natrix. Registro fotográfico: Darius Bauzys (CC BY 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
 ---
@@ -54,7 +54,7 @@ Culturalmente, diversas tradições apontam que a peçonha da serpente, quando c
 
 > “A serpente não nega o veneno que carrega — ela o integra como parte do seu ser, e nisso reside sua inteireza.”
 
-Cecilia Aranha, que assina este artigo, dedica-se há mais de uma década ao estudo comparativo de tradições ancestrais e mitologia simbólica, colaborando com pesquisadores de etnobotânica e história oral de povos originários.
+Cecília Aranha, que assina este artigo, dedica-se há mais de uma década ao estudo comparativo de tradições ancestrais e mitologia simbólica, colaborando com pesquisadores de etnobotânica e história oral de povos originários.
 
 A cobra como animal de poder não oferece uma travessia confortável. Ela pede que você se desfaça do que já não respira — e que o faça com a confiança de quem sabe que por baixo da pele antiga já existe uma nova. Não se trata de deixar de ser, mas de se tornar quem se está sendo. E se a serpente apareceu, talvez seja hora de parar de segurar o que já está morto e permitir que o atrito da vida faça seu trabalho. Afinal, qual pele você está pronto para deixar pelo caminho?
 
@@ -65,7 +65,7 @@ A cobra como animal de poder não oferece uma travessia confortável. Ela pede q
 - LÉVI-STRAUSS, Claude. *O Cru e o Cozido*. São Paulo: Cosac Naify.
 - KRENAK, Ailton. *Ideias para Adiar o Fim do Mundo*. São Paulo: Companhia das Letras.
 - Mitos e lendas dos povos indígenas do Brasil – Instituto Socioambiental (ISA).
-- Entrevistas e registros de história oral com anciãos das etnias Tukano e Desana, Alto Rio Negro, compilados por Cecilia Aranha (2012–2022).
+- Entrevistas e registros de história oral com anciãos das etnias Tukano e Desana, Alto Rio Negro, compilados por Cecília Aranha (2012–2022).
 
 ## Perguntas Frequentes
 

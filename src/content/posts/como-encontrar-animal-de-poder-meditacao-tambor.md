@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-10-18T15:06:39Z'
 imagem_capa: "/images/como-encontrar-animal-de-poder-meditacao-tambor.jpg"
 imagem_alt: "Tambor xamânico apoiado em tronco de árvore, com penas e vegetação ao redor, sob luz dourada"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Ninguém encontra um animal de poder à força. O tambor devolve o coração ao ritmo da Terra, e é nesse compasso que o animal — presença antiga e silenciosa — se deixa ver. Na tradição xamânica, acredita-se que a meditação com o tambor, entre 4 e 4,5 batidas por segundo, favorece um estado de atenção semelhante ao limiar entre sono e vigília, onde a escuta se abre e o animal se apresenta como imagem, sensação ou presença.
 

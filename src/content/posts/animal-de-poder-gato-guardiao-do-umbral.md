@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-17T12:24:12Z"
 imagem_capa: /images/animal-de-poder-gato-guardiao-do-umbral-documental.jpg
 imagem_alt: Registro fotográfico documental de Gato em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Gato: Domestic cat felis catus. Registro fotográfico: Muhammad Mahdi Karim (GFDL)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Domestic_cat_felis_catus.jpg"
 ---

@@ -9,7 +9,7 @@ pilar_slug: antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo
 data: "2026-08-11T10:07:13Z"
 imagem_capa: /images/a-visao-mais-ampla-que-o-horizonte-sabedoria-aguia-documental.jpg
 imagem_alt: Registro fotográfico documental de Águia em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Águia: Kaiseradler Aquila heliaca amk. Registro fotográfico: user:AngMoKio (CC BY-SA 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Kaiseradler_Aquila_heliaca_amk.jpg"
 ---

@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-09-18T15:27:54Z"
 imagem_capa: /images/animal-de-poder-elefante-documental.jpg
 imagem_alt: Registro fotográfico documental de Elefante em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Elefante: Elephant Kruger 2003. Registro fotográfico: Rob Hooft (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Elephant_Kruger_2003.jpg"
 ---
@@ -54,7 +54,7 @@ Há também uma sombra nesse arquétipo: quando a energia da matriarca se desequ
 
 Antes de existirem livros, a memória do mundo caminhava em quatro patas. Hoje ela ainda caminha — silenciosa, paciente, ancestral — na matriarca que sabe onde a água espera e no luto que devolve os mortos à terra. Se o elefante se aproximou de você, talvez seja hora de escutar o que sua linhagem sussurra. Que memória sua precisa ser honrada? Qual despedida espera por seu rito? Se quer descobrir qual animal te acompanha agora, [faça o teste oficial do site](https://animotem.com/quiz/animal-de-poder/).
 
-**Sobre a autora:** Cecilia Aranha é pesquisadora independente de mitologia comparada e simbologia animal, com formação complementar em psicologia analítica. Escreve o Bestiário Interior para traduzir tradições orais e sabedorias ancestrais em reflexões contemporâneas, sem finalidade diagnóstica ou terapêutica.
+**Sobre a autora:** Cecília Aranha é pesquisadora independente de mitologia comparada e simbologia animal, com formação complementar em psicologia analítica. Escreve o Bestiário Interior para traduzir tradições orais e sabedorias ancestrais em reflexões contemporâneas, sem finalidade diagnóstica ou terapêutica.
 
 ## Referências Ancestrais & Fontes
 

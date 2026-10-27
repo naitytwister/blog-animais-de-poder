@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-19T12:26:16Z"
 imagem_capa: /images/olhar-da-onca-jaguar-animal-de-poder-documental.jpg
 imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---

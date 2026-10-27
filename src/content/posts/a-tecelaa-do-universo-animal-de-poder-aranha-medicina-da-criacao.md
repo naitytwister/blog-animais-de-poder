@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-17T21:25:18Z"
 imagem_capa: /images/a-tecelaa-do-universo-animal-de-poder-aranha-medicina-da-criacao-documental.jpg
 imagem_alt: Registro fotográfico documental de Aranha em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Aranha: Wasp and spider 02. Registro fotográfico: Tony Wills (CC BY 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Wasp_and_spider_02.jpg"
 ---

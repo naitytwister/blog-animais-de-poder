@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-10-16T15:47:19Z'
 imagem_capa: "/images/significado-da-coruja-na-mitologia.jpg"
 imagem_alt: "Coruja em galho noturno com lua ao fundo, cercada por símbolos de Atena e da floresta"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 A coruja, na mitologia comparada, é a ave de dupla face: consagrada à sabedoria de Atena e, ao mesmo tempo, anunciadora de morte em Roma, na Idade Média e nas matas amazônicas. Ela vê, na calada da noite, aquilo que você reluta em enxergar. Há uma pergunta antiga que atravessa os mitos: o que essa ave vê quando o mundo dorme?
 

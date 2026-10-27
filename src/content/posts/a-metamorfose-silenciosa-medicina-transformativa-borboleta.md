@@ -9,7 +9,7 @@ pilar_slug: /posts/antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo/
 data: "2026-08-11T18:54:57Z"
 imagem_capa: /images/a-metamorfose-silenciosa-medicina-transformativa-borboleta-documental.jpg
 imagem_alt: Registro fotográfico documental de Borboleta em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Borboleta: Heliconius melpomene 2b Richard Bartz. Registro fotográfico: Richard Bartz, Munich aka Makro Freak (CC BY-SA 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Heliconius_melpomene_2b_Richard_Bartz.jpg"
 ---

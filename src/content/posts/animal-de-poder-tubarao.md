@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-09-10T12:00:00Z"
 imagem_capa: /images/animal-de-poder-tubarao-documental.jpg
 imagem_alt: Registro fotográfico documental de Tubarão em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Tubarão: Tiburón azul (Prionace glauca) y submarinista, canal Fayal-Pico, islas Azores, Portugal, 2020-07-27, DD 08. Registro fotográfico: Diego Delso (CC BY-SA 4.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Tibur%C3%B3n_azul_(Prionace_glauca)_y_submarinista,_canal_Fayal-Pico,_islas_Azores,_Portugal,_2020-07-27,_DD_08.jpg"
 ---

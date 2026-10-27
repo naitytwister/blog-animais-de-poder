@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-09-27T16:01:34Z"
 imagem_capa: /images/baleia-animal-de-poder-memoria-ancestral-canto-documental.jpg
 imagem_alt: Registro fotográfico documental de Baleia em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Baleia: Delphinapterus leucas beluga MNHN. Registro fotográfico: Jebulon (CC0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Delphinapterus_leucas_beluga_MNHN.jpg"
 ---

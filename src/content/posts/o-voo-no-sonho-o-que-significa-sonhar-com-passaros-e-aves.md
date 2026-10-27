@@ -9,7 +9,7 @@ pilar_slug: "sonhos-com-animais-significado-interpretar"
 data: '2026-09-03T15:30:01Z'
 imagem_capa: "/images/o-voo-no-sonho-o-que-significa-sonhar-com-passaros-e-aves.jpg"
 imagem_alt: "Pássaro em voo cruzando o céu ao entardecer, símbolo da alma que sonha"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Na visão ancestral dos povos ameríndios, quando o corpo adormece, algo na respiração se lembra de que pertence ao ar. Os antigos chamavam isso de alma-sonho: uma centelha que se desprende da pele como o pássaro do galho, sem aviso e sem adeus. Sonhar com pássaros e aves, portanto, não é um mero acaso da memória. É o sonho reconhecendo a si mesmo — o voo que você já realiza todas as noites, quando o mundo físico afrouxa as amarras e a consciência retoma as asas.
 
@@ -57,7 +57,7 @@ Entre os povos que escutaram o céu com mais reverência, o sonho nunca foi um s
 
 Se essa leitura simbólica fizer sentido para você, na próxima noite em que um pássaro cruzar seu sonho, observe a direção do voo. Havia medo? Havia vento? A ave cantava para alguém? Sonhar com pássaros e aves é ser lembrado de que a alma sabe voar, mesmo quando o corpo esqueceu. Que sonho está pedindo asas em você? Qual desses sinais você já percebeu?
 
-**Sobre a autora:** Cecilia Aranha pesquisa e escreve sobre simbologia ancestral, sonhos e cosmovisões ameríndias, com foco na psicologia analítica. Seu trabalho busca traduzir as leituras culturais dos povos originários para uma linguagem contemporânea, sempre com respeito às tradições.
+**Sobre a autora:** Cecília Aranha pesquisa e escreve sobre simbologia ancestral, sonhos e cosmovisões ameríndias, com foco na psicologia analítica. Seu trabalho busca traduzir as leituras culturais dos povos originários para uma linguagem contemporânea, sempre com respeito às tradições.
 
 ## Referências Ancestrais & Fontes
 
