@@ -1,15 +1,17 @@
 ---
 title: "O Vigia da Noite: Animal de Poder Morcego e Medicina do Renascimento"
 description: "Descubra a medicina do morcego como animal de poder: renascimento, desapego e visão no escuro interior, entre Camazotz e a ecolocalização."
-slug: "morcego-animal-de-poder-medicina-renascimento"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder morcego"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-10-04T16:10:11Z'
-imagem_capa: "/images/morcego-animal-de-poder-medicina-renascimento.jpg"
-imagem_alt: "Morcego em voo noturno entre sombras e luz, símbolo de renascimento e visão no escuro"
-autor: "Cecilia Aranha"
+slug: morcego-animal-de-poder-medicina-renascimento
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder morcego
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-10-04T16:10:11Z"
+imagem_capa: /images/morcego-animal-de-poder-medicina-renascimento-documental.jpg
+imagem_alt: Registro fotográfico documental de Morcego em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Morcego: Ghent April 2012-2. Registro fotográfico: Alvesgaspar (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Ghent_April_2012-2.jpg"
 ---
 Ter o morcego como animal de poder é receber, no plano estritamente simbólico, um convite de travessia. Nas tradições que o cultuam como arquétipo, esse vigia da noite representa a imagem do renascimento: desapego de padrões antigos, visão no escuro interior e passagem pelo limiar — sempre como metáfora cultural, sem promessa de transformação. Quem encontra o morcego não está diante de um presságio de fim, mas de uma narrativa mítica de purificação.
 
@@ -24,6 +26,11 @@ Essa medicina se desdobra em três imagens arquetípicas:
 - Ver sem os olhos: a ecolocalização como metáfora da visão interior, que enxerga o que a luz não alcança.
 - Morrer para renascer: desapego de padrões e papéis que já cumpriram seu ciclo, em chave estritamente simbólica.
 - Habitar o limiar: transitar entre o sono e a vigília, entre o mundo visível e o invisível, sem pânico.
+
+<figure class="post-inline-figure">
+  <img src="/images/morcego-animal-de-poder-medicina-renascimento.jpg" alt="Representação artística simbólica de Morcego" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Morcego no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que o morcego é associado ao renascimento e não apenas à morte?
 

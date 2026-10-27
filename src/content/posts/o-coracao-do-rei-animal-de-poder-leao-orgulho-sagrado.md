@@ -1,15 +1,17 @@
 ---
 title: "O Coração do Rei: Animal de Poder Leão e o Orgulho Sagrado"
 description: "Descubra a medicina do animal de poder leão: a liderança que serve e protege, o papel da leoa e a sombra do orgulho que isola."
-slug: "o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder leao"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-10-09T17:44:05Z'
-imagem_capa: "/images/o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado.jpg"
-imagem_alt: "Leão majestoso com juba dourada em paisagem aberta, símbolo do animal de poder leão e da medicina da liderança"
-autor: "Cecilia Aranha"
+slug: o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder leao
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-10-09T17:44:05Z"
+imagem_capa: /images/o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado-documental.jpg
+imagem_alt: Registro fotográfico documental de Leão em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Leão: Okonjima Lioness. Registro fotográfico: Falense (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Okonjima_Lioness.jpg"
 ---
 Quando a juba dourada do leão se desenha à frente, as tradições xamânicas reconhecem no animal de poder leão um espelho da liderança que serve. A "medicina" do leão — termo usado nessas tradições para descrever os ensinamentos de um animal — nasce do paradoxo: ele é chamado rei, mas vive em bando. A leoa caça, o macho guarda, o grupo sustenta. Ninguém governa sozinho. Esse é o ensinamento que essa figura arquetípica carrega nas narrativas ancestrais.
 
@@ -18,6 +20,11 @@ Quando a juba dourada do leão se desenha à frente, as tradições xamânicas r
 Na simbologia das tradições xamânicas e da psicologia analítica, o animal de poder leão é uma figura arquetípica associada à liderança, à coragem e à proteção. Não se trata de uma entidade literal, mas de um espelho simbólico que ajuda a refletir sobre autoridade interior e responsabilidade coletiva.
 
 Essa associação aparece em várias culturas. No Egito, Sekhmet era a deusa‑leoa da guerra e da justiça — a força que pune também restaura a ordem. Maahes, deus com cabeça de leão, protegia os faraós em batalha e era ligado à justiça. No hinduísmo, Narasimha, meio‑homem meio‑leão, derrotou Hiranyakashipu para restaurar o dharma. Já o Leão de Judá sintetiza a linhagem: força e coragem de quem reina sem precisar provar grandeza.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado.jpg" alt="Representação artística simbólica de Leão" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Leão no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que a leoa é vista como a guardiã da alcateia?
 

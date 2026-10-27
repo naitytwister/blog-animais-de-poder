@@ -1,15 +1,17 @@
 ---
 title: "O Galope Invisível: O Que Significa Sonhar com Cavalo"
 description: "Entenda o que significa sonhar com cavalo sob a ótica ancestral: o galope invisível da força vital, a liberdade e os recados do inconsciente."
-slug: "o-galope-invisivel-o-que-significa-sonhar-com-cavalo"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com cavalo"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-08-26T12:31:15Z'
-imagem_capa: "/images/o-galope-invisivel-o-que-significa-sonhar-com-cavalo.jpg"
-imagem_alt: "Ilustração simbólica de um cavalo galopando em meio à névoa, representando o galope invisível da força interior que se manifesta nos sonhos"
-autor: "Cecilia Aranha"
+slug: o-galope-invisivel-o-que-significa-sonhar-com-cavalo
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com cavalo
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-08-26T12:31:15Z"
+imagem_capa: /images/o-galope-invisivel-o-que-significa-sonhar-com-cavalo-documental.jpg
+imagem_alt: Registro fotográfico documental de Cavalo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Cavalo: Merfeld, Wildpferdefang -- 2014 -- 7882. Registro fotográfico: Dietmar Rabich (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Merfeld,_Wildpferdefang_--_2014_--_7882.jpg"
 ---
 Ninguém vê o cavalo que nos acorda no meio da noite. Ele não galopa pela rua — galopa por dentro, nas veias do sonho e na memória de um corpo que já foi mais selvagem. Na tradição simbólica, sonhar com cavalo costuma ser lido como um convite a escutar o que a psique associa ao movimento, ao desejo e à coragem. Essa leitura oferece um espelho ancestral para refletir sobre os próprios impulsos, mas não substitui acompanhamento psicológico ou médico — é uma chave de linguagem, não um diagnóstico.
 
@@ -18,6 +20,11 @@ Ninguém vê o cavalo que nos acorda no meio da noite. Ele não galopa pela rua 
 Na tradição ancestral, o cavalo que surge nos sonhos é visto como um símbolo possível de energia de movimento e desejo. Essa perspectiva é simbólica e cultural, não um diagnóstico psicológico nem uma promessa de transformação. Ela convida a observar se há impulsos sendo contidos ou adormecidos, sempre como metáfora. Como vimos no [guia completo sobre o significado dos sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), cada criatura traz um recado próprio dentro dessas tradições.
 
 Mircea Eliade, em *O Xamanismo e as Técnicas Arcaicas do Êxtase*, registra que, entre povos siberianos, o tambor do xamã é chamado de "cavalo" porque carrega a alma em direção a estados ampliados de consciência. Essa imagem atravessa continentes: na mitologia celta, Epona conduzia as almas para o Outro Mundo; no panteão grego, Pégaso nascia do sangue da Medusa; na tradição hindu, os Ashwins, gêmeos cavaleiros, representavam a passagem da noite para o dia e o impulso de cura. Nenhuma dessas tradições afirma que o sonho define o futuro; elas apenas emprestam uma gramática simbólica para escutar o que o cavalo quer comunicar.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-galope-invisivel-o-que-significa-sonhar-com-cavalo.jpg" alt="Representação artística simbólica de Cavalo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Cavalo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como os detalhes do sonho mudam o significado do cavalo?
 
