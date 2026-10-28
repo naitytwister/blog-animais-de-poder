@@ -1,15 +1,17 @@
 ---
 title: "O Homem de 2 Milhões de Anos: Por Que a Cobra Visita Seus Sonhos"
-description: "Sonhar com cobra não é só um símbolo pessoal — é a visita da memória ancestral da espécie. Descubra o significado profundo desse arquétipo milenar."
-slug: "o-homem-de-2-milhoes-de-anos-por-que-a-cobra-visita-seus-sonhos"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com cobra"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
+description: Sonhar com cobra não é só um símbolo pessoal — é a visita da memória ancestral da espécie. Descubra o significado profundo desse arquétipo milenar.
+slug: o-homem-de-2-milhoes-de-anos-por-que-a-cobra-visita-seus-sonhos
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com cobra
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
 data: "2025-03-29T12:00:00Z"
-imagem_capa: "/images/o-homem-de-2-milhoes-de-anos-por-que-a-cobra-visita-seus-sonhos.jpg"
-imagem_alt: "Representação artística de uma serpente ancestral com elementos simbólicos de sonho e memória"
-autor: "Cecília Aranha"
+imagem_capa: /images/o-homem-de-2-milhoes-de-anos-por-que-a-cobra-visita-seus-sonhos-documental.jpg
+imagem_alt: Registro fotográfico documental de Serpente em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Serpente: The Grass Snake - Natrix natrix. Registro fotográfico: Darius Bauzys (CC BY 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
 ---
 No escuro do sono, você sente o deslizar frio de uma presença sem patas. A cobra aparece. O que significa sonhar com cobra? Não é apenas um símbolo pessoal — é o eco de uma memória que antecede a linguagem, uma visita daquela camada profunda da psique onde ainda habita o homem de dois milhões de anos. A serpente que cruza seus sonhos não está ali para prever traição ou enviar mensagens literais: ela é o fio que conecta sua biografia individual à história da espécie, o arquétipo que pulsa no inconsciente coletivo e convida à transformação.
 
@@ -20,6 +22,11 @@ A força desse símbolo onírico tem raízes evolutivas muito anteriores a qualq
 Essa ameaça constante ficou gravada nos circuitos mais profundos do sistema nervoso. Estudos da neurociência mostram que o cérebro humano reconhece imagens de serpentes com velocidade e ativação emocional muito superiores às de outros estímulos perigosos. Não se trata de um medo aprendido na infância, mas de um alarme primário que dorme em nós há milênios — e que desperta nos sonhos quando algo igualmente instintivo pede passagem na vida desperta.
 
 A mesma arquitetura neural que permitia a sobrevivência na savana é a que hoje interpreta o símbolo da cobra com uma intensidade singular. Por isso a serpente é o animal onírico mais recorrente da humanidade: ela fala diretamente a uma parte da psique que não entende palavras, mas reconhece movimentos.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-homem-de-2-milhoes-de-anos-por-que-a-cobra-visita-seus-sonhos.jpg" alt="Representação artística simbólica de Serpente" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Serpente no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como a serpente se tornou um arquétipo universal?
 
