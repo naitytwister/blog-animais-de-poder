@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-09-14T17:15:35Z'
 imagem_capa: "/images/encontrar-animal-repetidamente.jpg"
 imagem_alt: "Animal silvestre atravessando um caminho de terra na névoa, encontro simbólico entre humano e animal de poder"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Dentro das tradições xamânicas, encontrar o mesmo animal repetidamente é interpretado como um sinal de que ele deixou de ser paisagem e passou a ser parente — uma leitura simbólica, não um fato universal. É o sagui na janela toda manhã, o socó no mesmo mourão, a cobra à mesma hora. Essa insistência pede escuta, não explicação imediata.
 

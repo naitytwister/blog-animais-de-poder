@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-18T15:27:54Z'
 imagem_capa: "/images/animal-de-poder-elefante.jpg"
 imagem_alt: "Ilustração simbólica de uma matriarca elefante conduzindo sua manada sob luz dourada de savana, com a memória dos ossos ancestrais à frente"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de existirem livros, a memória do mundo caminhava em quatro patas — e até hoje é a matriarca quem a guarda. Quando o elefante cruza seu caminho como animal de poder, ele traz a memória ancestral como herança viva, a força tranquila que abre rotas antigas e a sabedoria de quem escuta antes de agir. Não é apenas potência física, mas um chamado para lembrar quem você era antes de o mundo lhe ensinar a esquecer.
 

@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-09-15T15:55:37Z'
 imagem_capa: "/images/a-escuta-que-nomeia-xamanismo-animal-de-poder.jpg"
 imagem_alt: "Ilustração simbólica de um guardião animal emergindo entre árvores ao anoitecer, envolto em silêncio e neblina"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você chega à floresta com perguntas prontas, e o silêncio devolve apenas o farfalhar das folhas. No xamanismo, o animal de poder raramente se apresenta a quem exige respostas. Ele se revela na escuta — quando você abandona a pressa de nomear e aceita que montanhas, rios e bichos também falam. Então o guardião atravessa a clareira porque você finalmente se calou para ouvir.
 
