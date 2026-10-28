@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-09-28T18:57:26Z"
 imagem_capa: /images/animal-de-poder-golfinho-cura-alegria-documental.jpg
 imagem_alt: Registro fotográfico documental de Golfinho em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Golfinho: Globicephala macrorhynchus Tenerife 2012. Registro fotográfico: Cayambe (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Globicephala_macrorhynchus_Tenerife_2012.jpg"
 ---

@@ -188,7 +188,7 @@ img {
   margin-top: var(--space-2);
   font-size: var(--text-xs);
   line-height: 1.4;
-  color: var(--muted);
+  color: var(--text-soft);
   text-align: center;
   font-style: italic;
 }

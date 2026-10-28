@@ -9,7 +9,7 @@ pilar_slug: sonhos-com-animais-significado-interpretar
 data: "2026-08-28T21:37:27Z"
 imagem_capa: /images/as-asas-na-noite-o-que-significa-sonhar-com-borboleta-documental.jpg
 imagem_alt: Registro fotográfico documental de Borboleta em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Borboleta: Heliconius melpomene 2b Richard Bartz. Registro fotográfico: Richard Bartz, Munich aka Makro Freak (CC BY-SA 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Heliconius_melpomene_2b_Richard_Bartz.jpg"
 ---

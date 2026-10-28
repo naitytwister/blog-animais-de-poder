@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-08-20T12:28:26Z"
 imagem_capa: /images/guardiao-do-tempo-rapido-animal-de-poder-beija-flor-documental.jpg
 imagem_alt: Registro fotográfico documental de Beija-flor em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Beija-flor: Colibri-thalassinus-001-edit. Registro fotográfico: Mdf, Edited by Laitche (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Colibri-thalassinus-001-edit.jpg"
 ---
@@ -59,7 +59,7 @@ O guardião do tempo rápido lembra que a vida não pede pressa, mas inteireza. 
 
 ## Sobre a autora
 
-Cecilia Aranha pesquisa simbologia ancestral e tradições ameríndias há mais de uma década, dedicando-se ao estudo comparado de mitologias e à escuta das cosmovisões originárias. Seus ensaios partem do respeito à diversidade cultural e da leitura simbólica como caminho de reflexão, sem qualquer pretensão de aconselhamento médico ou psicológico.
+Cecília Aranha pesquisa simbologia ancestral e tradições ameríndias há mais de uma década, dedicando-se ao estudo comparado de mitologias e à escuta das cosmovisões originárias. Seus ensaios partem do respeito à diversidade cultural e da leitura simbólica como caminho de reflexão, sem qualquer pretensão de aconselhamento médico ou psicológico.
 
 ## Referências Ancestrais & Fontes
 - Sams, Jamie e Carson, David. Medicine Cards: The Discovery of Power Through the Ways of Animals. St. Martin's Press, 1999.

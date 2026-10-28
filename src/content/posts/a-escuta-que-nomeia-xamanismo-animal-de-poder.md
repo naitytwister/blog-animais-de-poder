@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-09-15T15:55:37Z'
 imagem_capa: "/images/a-escuta-que-nomeia-xamanismo-animal-de-poder.jpg"
 imagem_alt: "Ilustração simbólica de um guardião animal emergindo entre árvores ao anoitecer, envolto em silêncio e neblina"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Você chega à floresta com perguntas prontas, e o silêncio devolve apenas o farfalhar das folhas. No xamanismo, o animal de poder raramente se apresenta a quem exige respostas. Ele se revela na escuta — quando você abandona a pressa de nomear e aceita que montanhas, rios e bichos também falam. Então o guardião atravessa a clareira porque você finalmente se calou para ouvir.
 
@@ -42,7 +42,7 @@ O animal de poder não se revela a quem invade a floresta com perguntas em riste
 
 > "Os rios são entidades. Eles não são recursos para nos apropriarmos deles." — Ailton Krenak
 
-Se em alguma madrugada o silêncio se fez mais denso e um animal emergiu sem ser chamado, talvez a floresta já estivesse falando há tempos. Nomear esse guardião é menos um ato de descoberta do que de reconhecimento. A escuta não termina quando o animal se mostra — ela apenas começa a fazer sentido. Esta leitura é simbólica, não substitui acompanhamento profissional de saúde mental. Cecilia Aranha pesquisa tradições xamânicas e simbolismo animal há mais de uma década, dialogando com fontes etnográficas e lideranças indígenas. Qual desses sinais você já percebeu na sua vida?
+Se em alguma madrugada o silêncio se fez mais denso e um animal emergiu sem ser chamado, talvez a floresta já estivesse falando há tempos. Nomear esse guardião é menos um ato de descoberta do que de reconhecimento. A escuta não termina quando o animal se mostra — ela apenas começa a fazer sentido. Esta leitura é simbólica, não substitui acompanhamento profissional de saúde mental. Cecília Aranha pesquisa tradições xamânicas e simbolismo animal há mais de uma década, dialogando com fontes etnográficas e lideranças indígenas. Qual desses sinais você já percebeu na sua vida?
 
 ## Referências Ancestrais & Fontes
 

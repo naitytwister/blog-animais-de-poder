@@ -9,7 +9,7 @@ pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
 data: '2026-10-22T16:18:29Z'
 imagem_capa: "/images/jornada-xamanica-tambor-animal-de-poder.jpg"
 imagem_alt: "Tambor xamânico de pele esticada repousando sobre um tronco, envolto por penas e folhas, em luz dourada de floresta"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Antes de aprender a falar, você já conhecia o tambor — o coração da sua mãe batendo no escuro. A jornada xamânica é, em essência, a tentativa de voltar a escutar essa voz primordial. Esse chamado não é acaso: o tambor, com seu pulso de quatro a cinco batidas por segundo, reacende a memória de um tempo em que escutar era a sua única forma de existir.
 

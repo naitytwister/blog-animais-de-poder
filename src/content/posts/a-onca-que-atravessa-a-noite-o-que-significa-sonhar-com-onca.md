@@ -9,7 +9,7 @@ pilar_slug: sonhos-com-animais-significado-interpretar
 data: "2026-09-02T15:37:35Z"
 imagem_capa: /images/a-onca-que-atravessa-a-noite-o-que-significa-sonhar-com-onca-documental.jpg
 imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---

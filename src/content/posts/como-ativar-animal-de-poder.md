@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-10-21T16:19:48Z'
 imagem_capa: "/images/como-ativar-animal-de-poder.jpg"
 imagem_alt: "Ilustração simbólica de um lobo caminhando ao lado de uma pessoa ao entardecer, representando o animal de poder como presença cotidiana"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Ativar o animal de poder não pede uma cerimônia distante. Pede que você lembre, no meio de um dia comum, que há um bicho ancestral caminhando ao seu lado — esperando ser notado. Cultivar essa presença começa por um gesto simples: lembrar e agradecer. Não há ritual complexo, apenas a decisão de incluir o invisível na rotina. É assim que a presença vira brasa: ela se reacende com a atenção.
 

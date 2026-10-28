@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-10-09T17:44:05Z"
 imagem_capa: /images/o-coracao-do-rei-animal-de-poder-leao-orgulho-sagrado-documental.jpg
 imagem_alt: Registro fotográfico documental de Leão em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Leão: Okonjima Lioness. Registro fotográfico: Falense (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Okonjima_Lioness.jpg"
 ---

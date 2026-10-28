@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-10-04T16:10:11Z"
 imagem_capa: /images/morcego-animal-de-poder-medicina-renascimento-documental.jpg
 imagem_alt: Registro fotográfico documental de Morcego em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Morcego: Ghent April 2012-2. Registro fotográfico: Alvesgaspar (CC BY-SA 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Ghent_April_2012-2.jpg"
 ---

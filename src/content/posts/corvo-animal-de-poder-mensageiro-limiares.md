@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-09-21T17:26:32Z"
 imagem_capa: /images/corvo-animal-de-poder-mensageiro-limiares-documental.jpg
 imagem_alt: Registro fotográfico documental de Corvo em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Corvo: Corvus-01. Registro fotográfico: Thermos (CC BY-SA 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Corvus-01.jpg"
 ---

@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-10-06T17:36:36Z"
 imagem_capa: /images/garra-do-fogo-tigre-animal-de-poder-documental.jpg
 imagem_alt: Registro fotográfico documental de Tigre em habitat natural
-autor: Cecilia Aranha
+autor: "Cecília Aranha"
 imagem_legenda: "Fotografia documental de Tigre: Tiger berlin-3. Registro fotográfico: Softeis (Public domain)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Tiger_berlin-3.jpg"
 ---
@@ -64,7 +64,7 @@ A pressa ensina a queimar; o tigre ensina a arder sem cinzas. A coragem serena n
 
 ## Sobre a autora
 
-Cecilia Aranha é ensaísta e pesquisadora de simbologia cultural comparada, com foco em tradições ancestrais, mitologia e psicologia analítica. Graduada em Letras e pós-graduada em Ciências da Religião, dedica-se há mais de dez anos ao estudo das relações entre narrativas míticas e processos de individuação. Seus textos buscam unir rigor acadêmico e linguagem poética, sempre com respeito às culturas originárias e à natureza simbólica do conhecimento ancestral.
+Cecília Aranha é ensaísta e pesquisadora de simbologia cultural comparada, com foco em tradições ancestrais, mitologia e psicologia analítica. Graduada em Letras e pós-graduada em Ciências da Religião, dedica-se há mais de dez anos ao estudo das relações entre narrativas míticas e processos de individuação. Seus textos buscam unir rigor acadêmico e linguagem poética, sempre com respeito às culturas originárias e à natureza simbólica do conhecimento ancestral.
 
 ## Referências Ancestrais & Fontes
 
