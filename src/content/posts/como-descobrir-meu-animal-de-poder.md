@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: '2026-08-15T12:19:32Z'
 imagem_capa: "/images/como-descobrir-meu-animal-de-poder.jpg"
 imagem_alt: "Ilustração simbólica de um buscador diante de quatro portas de madeira em meio à mata, com a luz da lua revelando pegadas de animais ao redor."
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 Existe uma pergunta que insiste: como descobrir o animal que me acompanha no invisível? Muitas tradições xamânicas descrevem quatro portas de escuta — três rituais contemplativos e um teste de espelho — praticadas com reverência, como quem caminha descalço em território sagrado. Como vimos no [guia completo sobre o que é animal de poder](/posts/o-que-e-animal-de-poder/), essa busca é menos sobre obter respostas do que sobre refinar a pergunta.
 
