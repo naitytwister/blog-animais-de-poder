@@ -1,15 +1,17 @@
 ---
 title: "O Príncipe dos Brejos: O Que Significa Sonhar com Sapo"
-description: "Sonhar com sapo é interpretado em tradições ancestrais como convite a observar transformações e fertilidade simbólica. Conheça esse chamado."
-slug: "o-principe-dos-brejos-o-que-significa-sonhar-com-sapo"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com sapo"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-10-12T20:36:17Z'
-imagem_capa: "/images/o-principe-dos-brejos-o-que-significa-sonhar-com-sapo.jpg"
-imagem_alt: "Sapo dourado repousa à beira de águas escuras entre folhas, símbolo de transformação e limiar entre mundos."
-autor: "Cecilia Aranha"
+description: Sonhar com sapo é interpretado em tradições ancestrais como convite a observar transformações e fertilidade simbólica. Conheça esse chamado.
+slug: o-principe-dos-brejos-o-que-significa-sonhar-com-sapo
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com sapo
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-10-12T20:36:17Z"
+imagem_capa: /images/o-principe-dos-brejos-o-que-significa-sonhar-com-sapo-documental.jpg
+imagem_alt: Registro fotográfico documental de Sapo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Sapo: Dendrobates-tinctorius-Epipedobates-tricolor. Registro fotográfico: Holger Krisp (CC BY 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Dendrobates-tinctorius-Epipedobates-tricolor.jpg"
 ---
 Sonhar com sapo é, para várias tradições ancestrais, um convite simbólico a observar processos de mudança interior com mais atenção. Nem todo príncipe usa coroa. Alguns reinam de cócoras, na beira d'água, esperando a chuva. Quando essa criatura aparece no sonho, muitos intérpretes tradicionais sugerem que algo estagnado pede escuta — não como promessa de metamorfose garantida, mas como imagem de um limiar entre o que fica e o que pode brotar.
 
@@ -22,6 +24,11 @@ Como vimos no [guia completo sobre sonhos com animais e seus significados](/post
 A pele do sapo também guarda um ensinamento simbólico: ela se renova em ciclos, sendo abandonada para dar lugar a outra. Em leituras xamânicas e mitológicas, essa característica biológica é interpretada como imagem de desprendimento gradual, sem rupturas violentas. O que se desprende não é destruído, mas reciclado pela terra úmida.
 
 A escritora Marie-Louise von Franz, em estudos sobre contos de fada, nota que o sapo frequentemente representa aquilo que foi considerado feio ou inferior e que, se acolhido, pode revelar um valor oculto. Por isso, a imagem do brejo pode ser lida menos como sujeira e mais como húmus: matéria em repouso que antecede uma possível floração — sem que essa floração seja tratada como destino certo.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-principe-dos-brejos-o-que-significa-sonhar-com-sapo.jpg" alt="Representação artística simbólica de Sapo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Sapo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais variações do sonho podem sugerir diferentes chamados?
 

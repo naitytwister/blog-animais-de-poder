@@ -1,15 +1,17 @@
 ---
 title: "A Teia na Madrugada: O Que Significa Sonhar com Aranha"
-description: "Sonhar com aranha não é agouro. Entenda o chamado da Grande Tecelã — uma leitura que entrelaça mitologia, xamanismo e psicologia profunda."
-slug: "o-que-significa-sonhar-com-aranha"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com aranha"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-08-10T18:59:52Z'
-imagem_capa: "/images/o-que-significa-sonhar-com-aranha.jpg"
-imagem_alt: "Ilustração onírica de aranha tecendo fios prateados entre luzes do inconsciente"
-autor: "Cecília Aranha"
+description: Sonhar com aranha não é agouro. Entenda o chamado da Grande Tecelã — uma leitura que entrelaça mitologia, xamanismo e psicologia profunda.
+slug: o-que-significa-sonhar-com-aranha
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com aranha
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-08-10T18:59:52Z"
+imagem_capa: /images/o-que-significa-sonhar-com-aranha-documental.jpg
+imagem_alt: Registro fotográfico documental de Aranha em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Aranha: Wasp and spider 02. Registro fotográfico: Tony Wills (CC BY 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Wasp_and_spider_02.jpg"
 ---
 **Aviso importante:** Este artigo explora o simbolismo cultural e ancestral da aranha nos sonhos sob uma perspectiva mitológica, xamânica e da psicologia analítica. Nenhum trecho constitui diagnóstico, tratamento, orientação psicológica ou promessa de transformação pessoal. Para questões de saúde emocional, procure sempre um profissional habilitado.
 
@@ -20,6 +22,11 @@ Sonhar com aranha costuma ser recebido com calafrio, mas o assombro revela uma i
 A aranha não aparece por acaso. Nas narrativas de diversos povos, ela é a fiandeira que une o disperso, e na perspectiva da psicologia junguiana — uma entre várias lentes interpretativas — a teia funciona como imagem da totalidade psíquica, uma metáfora para o movimento de integração interior que cada pessoa pode ou não experimentar. Sonhar com esse animal pode ser lido, simbolicamente, como um espelho das forças que organizam (ou enredam) pensamentos, projetos e vínculos. Reitera-se que o sonho não dita o que fazer nem promete qualquer transformação; convida, quando muito, a uma reflexão pessoal sobre quais fios estão sendo puxados, cortados ou esquecidos.
 
 Dentro desse campo simbólico, o sonho ganha nuances conforme a atitude da aranha. Se ela tece calmamente, é possível enxergar ali um reflexo de sintonia com o próprio impulso criador — uma imagem que fala de processos internos, não de causas externas. Se permanece imóvel, observando, a cena pode evocar a paciência e a qualidade da atenção que dedicamos às relações e decisões já em curso. Nenhum desses cenários carrega um significado fixo ou uma orientação a ser seguida; são estímulos para a reflexão pessoal, sempre mediada pelo contexto e pela história de quem sonha, e jamais substituem o acompanhamento de um profissional da saúde mental quando necessário.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-que-significa-sonhar-com-aranha.jpg" alt="Representação artística simbólica de Aranha" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Aranha no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quem são as tecelãs que inspiraram essa leitura?
 
