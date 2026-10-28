@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-10-04T16:10:11Z'
 imagem_capa: "/images/morcego-animal-de-poder-medicina-renascimento.jpg"
 imagem_alt: "Morcego em voo noturno entre sombras e luz, símbolo de renascimento e visão no escuro"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 Ter o morcego como animal de poder é receber, no plano estritamente simbólico, um convite de travessia. Nas tradições que o cultuam como arquétipo, esse vigia da noite representa a imagem do renascimento: desapego de padrões antigos, visão no escuro interior e passagem pelo limiar — sempre como metáfora cultural, sem promessa de transformação. Quem encontra o morcego não está diante de um presságio de fim, mas de uma narrativa mítica de purificação.
 

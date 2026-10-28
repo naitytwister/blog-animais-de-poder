@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: '2026-09-19T15:02:48Z'
 imagem_capa: "/images/a-casca-do-mundo-animal-de-poder-tartaruga-e-a-lentidao-curativa.jpg"
 imagem_alt: "Tartaruga ancestral com casco semelhante a uma montanha, símbolo da casca do mundo e da lentidão sagrada"
-autor: "Cecilia Aranha"
+autor: Cecília Aranha
 ---
 Na leitura simbólica do xamanismo, a tartaruga como animal de poder é associada à sabedoria da lentidão, à proteção da própria casca e à memória profunda da Mãe Terra. Essa imagem não substitui orientação profissional, mas funciona como um arquétipo para refletir sobre o ritmo da vida. Ela não pede que você pare, mas que encontre, simbolícamente, um passo que volte a ter peso.
 
