@@ -1,15 +1,17 @@
 ---
 title: "O Rio Dentro do Sonho: O Que Significa Sonhar com Peixe"
-description: "Sonhar com peixe é encontrar um mensageiro das águas profundas do inconsciente. Entre Jung, povos do rio e tradições ancestrais, o que este símbolo pode..."
-slug: "o-que-significa-sonhar-com-peixe"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com peixe"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-08-10T21:25:25Z'
-imagem_capa: "/images/o-que-significa-sonhar-com-peixe.jpg"
-imagem_alt: "Peixe prateado nadando em águas escuras e profundas, iluminado por um feixe de luz que desce da superfície, evocando o encontro entre o consciente e o inconsciente."
-autor: "Cecília Aranha"
+description: Sonhar com peixe é encontrar um mensageiro das águas profundas do inconsciente. Entre Jung, povos do rio e tradições ancestrais, o que este símbolo pode...
+slug: o-que-significa-sonhar-com-peixe
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com peixe
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-08-10T21:25:25Z"
+imagem_capa: /images/o-que-significa-sonhar-com-peixe-documental.jpg
+imagem_alt: Registro fotográfico documental de Peixe em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Peixe: Schlammspringer Periophthalmus sp. Registro fotográfico: Holger Krisp (CC BY 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Schlammspringer_Periophthalmus_sp.jpg"
 ---
 Sonhar com peixe é um convite para observar as correntes submersas da psique. Diferente do que muitos manuais sugerem, essa imagem não entrega respostas prontas sobre prosperidade ou azar. O peixe que cruza o seu sonho é, antes de tudo, um reflexo daquilo que se move nas profundezas que você não vê, mas que sustentam toda a superfície da sua vida. Como exploramos no nosso [guia completo sobre sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), o peixe ocupa um lugar muito específico: ele não pisa na terra firme da consciência — emerge de onde a luz mal alcança.
 
@@ -22,6 +24,11 @@ As águas oníricas onde o peixe nada são, para a psicologia analítica de Carl
 Vale lembrar que Jung jamais propôs um dicionário de símbolos oníricos. Em sua obra *Arquétipos e o Inconsciente Coletivo*, ele insiste que cada sonho pertence à biografia de quem sonha. O peixe pode, em determinados contextos e apenas para certas pessoas, funcionar como uma imagem do Si-mesmo — aquela totalidade psíquica que tenta se comunicar com o ego por meio de metáforas visuais. Contudo, essa leitura não é automática nem universal: depende inteiramente da relação que você estabelece com o símbolo.
 
 É por isso que os manuais de sonhos que oferecem respostas prontas — *peixe vivo é sorte, peixe morto é perda* — tendem a empobrecer a experiência. O que importa não é o peixe em si, mas a qualidade da água onde ele aparece. Turva? Cristalina? Agitada? Estagnada? O peixe apenas aponta. A qualidade da água pode, simbolicamente, sugerir certas tonalidades do seu mundo interior — mas somente você tem os elementos para reconhecer se essa paisagem lhe diz respeito ou não. Nenhuma interpretação externa substitui essa delicada escuta de si.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-que-significa-sonhar-com-peixe.jpg" alt="Representação artística simbólica de Peixe" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Peixe no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que os povos do rio ensinam sobre o peixe que visita os sonhos?
 

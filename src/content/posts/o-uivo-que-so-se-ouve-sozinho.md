@@ -1,15 +1,17 @@
 ---
 title: "O Uivo Que Só Se Ouve Sozinho: O Lobo Solitário e o Encontro com a Própria Sombra"
-description: "O lobo solitário simboliza a coragem de partir, não por exclusão, mas por um chamado interior de exploração. Uma jornada simbólica rumo à sombra e ao..."
-slug: "o-uivo-que-so-se-ouve-sozinho"
-subnicho: "enciclopedia-animal"
-palavra_chave: "significado espiritual do lobo solitário"
-tipo: "cluster"
-pilar_slug: "antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo"
-data: '2026-08-10T23:11:45Z'
-imagem_capa: "/images/o-uivo-que-so-se-ouve-sozinho.jpg"
-imagem_alt: "Lobo solitário uivando para o céu noturno entre montanhas, com luz de lua prateada"
-autor: "Cecília Aranha"
+description: O lobo solitário simboliza a coragem de partir, não por exclusão, mas por um chamado interior de exploração. Uma jornada simbólica rumo à sombra e ao...
+slug: o-uivo-que-so-se-ouve-sozinho
+subnicho: enciclopedia-animal
+palavra_chave: significado espiritual do lobo solitário
+tipo: cluster
+pilar_slug: antes-que-a-mata-silencie-a-medicina-ancestral-do-lobo
+data: "2026-08-10T23:11:45Z"
+imagem_capa: /images/o-uivo-que-so-se-ouve-sozinho-documental.jpg
+imagem_alt: Registro fotográfico documental de Lobo em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Lobo: Scandinavian grey wolf Canis lupus. Registro fotográfico: Malene Thyssen (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Scandinavian_grey_wolf_Canis_lupus.jpg"
 ---
 Você sente o chamado do afastamento. Não como rejeição, mas como um impulso quase biológico de se distanciar do que sempre foi familiar. Na tradição de muitos povos, o lobo que abandona a alcateia não está perdido — está obedecendo a uma urgência da alma. O significado espiritual do lobo solitário aponta para essa coragem primordial: a de se lançar ao desconhecido para que a vida possa se expandir para além dos círculos já mapeados.
 
@@ -22,6 +24,11 @@ Diferente do que exploramos no nosso [guia sobre a medicina ancestral do lobo co
 Entre os dois e três anos de idade, lobos dispersores — os chamados *dispersal wolves* — deixam a alcateia natal por conta própria. Não são expulsos, nem feridos: partem. Viajam centenas de quilômetros, sozinhos, atravessando territórios desconhecidos e expostos a perigos que a vida em grupo amorteceria. Esse comportamento, documentado por biólogos em populações selvagens da América do Norte e Eurásia, é uma estratégia evolutiva: se todos os lobos permanecessem no mesmo território, os recursos se esgotariam e a diversidade genética da espécie se comprometeria.
 
 A partida do lobo solitário, portanto, não é um acidente nem um fracasso. É o motor da renovação, a entrega de um indivíduo a um destino incerto para que o todo possa respirar. A natureza deposita nos ombros desse andarilho a responsabilidade por um futuro que a alcateia, sozinha, não pode gerar. Na linguagem simbólica, esse movimento revela uma lei profunda: há ciclos em que o pertencimento ao grupo precisa ser suspenso para que um novo território interior se abra.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-uivo-que-so-se-ouve-sozinho.jpg" alt="Representação artística simbólica de Lobo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Lobo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Como as tradições ancestrais interpretam o lobo solitário?
 

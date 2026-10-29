@@ -1,15 +1,17 @@
 ---
 title: "O Réptil Antigo: O Que Significa Sonhar com Jacaré"
-description: "Sonhar com jacaré revela um chamado de travessia entre emoções profundas e a vida concreta. Entenda os significados simbólicos e ancestrais."
-slug: "o-reptil-antigo-o-que-significa-sonhar-com-jacare"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com jacaré"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-10-10T16:36:11Z'
-imagem_capa: "/images/o-reptil-antigo-o-que-significa-sonhar-com-jacare.jpg"
-imagem_alt: "Jacaré com os olhos acima da superfície da água, símbolo de sonhar com jacaré"
-autor: "Cecília Aranha"
+description: Sonhar com jacaré revela um chamado de travessia entre emoções profundas e a vida concreta. Entenda os significados simbólicos e ancestrais.
+slug: o-reptil-antigo-o-que-significa-sonhar-com-jacare
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com jacaré
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-10-10T16:36:11Z"
+imagem_capa: /images/o-reptil-antigo-o-que-significa-sonhar-com-jacare-documental.jpg
+imagem_alt: Registro fotográfico documental de Jacaré em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Jacaré: Caiman crocodylus crocodylus. Registro fotográfico: No machine-readable author provided. Escaladix assumed (based on copyright claims). (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Caiman_crocodylus_crocodylus.jpg"
 ---
 Ele viu mundos acabarem e continua aqui. Quando o jacaré emerge no seu sonho, não é um pesadelo — é uma memória de 80 milhões de anos que convida você a atravessar as águas escuras sem se afogar. Sonhar com jacaré é, antes de tudo, uma imagem simbólica de maturação: algo guardado nas profundezas pede para subir à superfície e ser olhado com coragem. Como vimos no [guia completo sobre o significado de sonhar com animais](/posts/sonhos-com-animais-significado-interpretar/), cada imagem tem seu tempo. O jacaré chega quando a travessia já começou.
 
@@ -18,6 +20,11 @@ Ele viu mundos acabarem e continua aqui. Quando o jacaré emerge no seu sonho, n
 Sonhar com jacaré costuma apontar, no plano simbólico, para uma emoção antiga emergindo do inconsciente para se tornar consciente. O réptil, que transita entre água e terra, fala da passagem de algo afetivo e subterrâneo para a vida material. Não deve ser lido como presságio absoluto: é uma imagem que pede fechamento de ciclo. Quem recebe essa figura é convidado a nomear dores antigas, acolher a própria agressividade instintiva e reconhecê-la como impulso de proteção da vida.
 
 O jacaré pertence aos crocodilianos, linhagem que sobrevive há mais de 80 milhões de anos. Sonhar com ele é dialogar com uma memória evolutiva. O medo que surge no sonho não é fraqueza; é o registro de um instinto que te manteve desperto até aqui. Essa leitura é estritamente simbólica e não substitui avaliação de profissionais de saúde mental.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-reptil-antigo-o-que-significa-sonhar-com-jacare.jpg" alt="Representação artística simbólica de Jacaré" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Jacaré no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que o jacaré aparece como réptil antigo nos sonhos?
 
