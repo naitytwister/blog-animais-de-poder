@@ -1,15 +1,17 @@
 ---
 title: "Animal de Poder Raposa: A Medicina da Astúcia no Limiar das Sombras"
-description: "A raposa como animal de poder ensina travessia, invisibilidade estratégica e cura da memória. Um ensaio sobre trickster, limiar e astúcia."
-slug: "raposa-animal-de-poder-medicina-limiar"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder raposa"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
-data: '2026-09-26T15:22:36Z'
-imagem_capa: "/images/raposa-animal-de-poder-medicina-limiar.jpg"
-imagem_alt: "Raposa caminhando em silêncio entre sombras de floresta, símbolo de astúcia e limiar"
-autor: "Cecília Aranha"
+description: A raposa como animal de poder ensina travessia, invisibilidade estratégica e cura da memória. Um ensaio sobre trickster, limiar e astúcia.
+slug: raposa-animal-de-poder-medicina-limiar
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder raposa
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
+data: "2026-09-26T15:22:36Z"
+imagem_capa: /images/raposa-animal-de-poder-medicina-limiar-documental.jpg
+imagem_alt: Registro fotográfico documental de Raposa em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Raposa: Culpeo MC. Registro fotográfico: Christian Mehlführer, User:Chmehl (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Culpeo_MC.jpg"
 ---
 A raposa não enfrenta a noite — ela aprende a ser noite. Essa é a sua medicina. No xamanismo, a raposa como animal de poder não é apenas símbolo de esperteza: é o arquétipo da travessia liminar. Ela habita as fronteiras entre o visível e o invisível, a verdade e o disfarce, a estratégia e a invisibilidade. Se você sonha com ela, talvez esteja sendo convidado a observar antes de agir, a revisitar memórias antigas com outros olhos e a atravessar o que não se vence pela força.
 
@@ -18,6 +20,11 @@ A raposa não enfrenta a noite — ela aprende a ser noite. Essa é a sua medici
 Nas tradições ancestrais, a raposa é retratada como mensageira entre mundos, guardiã da fertilidade e figura trickster. Entre os celtas, guia espiritual ligada a Brigid; no Japão, kitsune metamórfica e mensageira de Inari; na China, animal feiticeiro e feminino; entre povos nativos norte-americanos, presença ligada a práticas de renovação.
 
 No Japão, a kitsune é a raposa espírito que carrega essa duplicidade com rara precisão. As Zenko, raposas benévolas ligadas a Inari, são descritas em mitos como portadoras de bênçãos de fertilidade e proteção; segundo a tradição japonesa, acredita-se que afastem espíritos malévolos. As Yako, chamadas nogitsune, são as tricksters que perseguem os próprios fins sem se importar com o bem-estar humano. O fenômeno do kitsunetsuki — a possessão por raposa — foi tratado por séculos em rituais de santuário e exorcismo budista. A lenda de Kuzunoha, a esposa-raposa que se revela pela cauda e retorna à natureza, condensa essa condição liminar: nem totalmente humana, nem totalmente animal, presença que transita entre o mundo doméstico e o selvagem. A raposa japonesa não é uma criatura má ou boa, mas um reflexo vivo da fronteira — paciente, observadora, capaz de atravessar o véu sem se fixar em um só lado.
+
+<figure class="post-inline-figure">
+  <img src="/images/raposa-animal-de-poder-medicina-limiar.jpg" alt="Representação artística simbólica de Raposa" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Raposa no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais são os principais ensinamentos simbólicos da raposa como animal de poder?
 

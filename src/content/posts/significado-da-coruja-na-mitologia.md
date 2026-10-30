@@ -1,15 +1,17 @@
 ---
 title: "O Significado da Coruja na Mitologia: O Que a Ave Vê"
 description: "A coruja é a ave de dupla face: sabedoria de Atena e agouro de morte de Roma à Amazônia. Um ensaio comparativo sobre o mito dessa ave noturna."
-slug: "significado-da-coruja-na-mitologia"
-subnicho: "xamanismo-e-tradicoes"
-palavra_chave: "coruja mitologia significado"
-tipo: "cluster"
-pilar_slug: "a-coruja-como-guia-do-poder-intuitivo-no-xamanismo"
-data: '2026-10-16T15:47:19Z'
-imagem_capa: "/images/significado-da-coruja-na-mitologia.jpg"
-imagem_alt: "Coruja em galho noturno com lua ao fundo, cercada por símbolos de Atena e da floresta"
-autor: "Cecília Aranha"
+slug: significado-da-coruja-na-mitologia
+subnicho: xamanismo-e-tradicoes
+palavra_chave: coruja mitologia significado
+tipo: cluster
+pilar_slug: a-coruja-como-guia-do-poder-intuitivo-no-xamanismo
+data: "2026-10-16T15:47:19Z"
+imagem_capa: /images/significado-da-coruja-na-mitologia-documental.jpg
+imagem_alt: Registro fotográfico documental de Coruja em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Coruja: Händkakk 2014. Registro fotográfico: Ireen Trummer (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:H%C3%A4ndkakk_2014.JPG"
 ---
 A coruja, na mitologia comparada, é a ave de dupla face: consagrada à sabedoria de Atena e, ao mesmo tempo, anunciadora de morte em Roma, na Idade Média e nas matas amazônicas. Ela vê, na calada da noite, aquilo que você reluta em enxergar. Há uma pergunta antiga que atravessa os mitos: o que essa ave vê quando o mundo dorme?
 
@@ -18,6 +20,11 @@ A coruja, na mitologia comparada, é a ave de dupla face: consagrada à sabedori
 Na Grécia antiga, a coruja de Atena era o mocho-galego (*Athene noctua*), ave consagrada à deusa da sabedoria e da guerra estratégica. O epíteto *glaukopis*, atribuído à deusa, significava "olhos de coruja" ou "olhos luminosos" — sinal de que Atena enxergava o que os olhares comuns não alcançavam. A noite não era tempo de sono, mas de pensamento filosófico e revelação intelectual.
 
 Por ser noturna, a coruja virou símbolo dessa busca. Atenas cunhou na tetradracma de prata, a partir do século V a.C., a imagem de Atena no anverso e a coruja no reverso. As moedas eram chamadas de *glaukes*, as corujas, e circularam por todo o Mediterrâneo, fixando a ave como sinal de sabedoria por dois mil e quinhentos anos. Vasos entregues como prêmios nas Panateneias também levavam a coruja, consagrando-a à cidade que carregava o nome da deusa.
+
+<figure class="post-inline-figure">
+  <img src="/images/significado-da-coruja-na-mitologia.jpg" alt="Representação artística simbólica de Coruja" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Coruja no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que Roma e a Idade Média transformaram a coruja em agouro?
 

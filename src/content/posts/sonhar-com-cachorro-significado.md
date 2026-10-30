@@ -1,21 +1,28 @@
 ---
 title: "O Guardião que Late no Sonho: O Que Significa Sonhar com Cachorro"
 description: "Sonhar com cachorro revela o guardião interior: a voz do instinto, da lealdade e da proteção que habita o inconsciente. Descubra a simbologia ancestral."
-slug: "sonhar-com-cachorro-significado"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com cachorro"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-08-05T11:44:05Z'
-imagem_capa: "/images/sonhar-com-cachorro-significado.jpg"
-imagem_alt: "Ilustração de um cachorro ancestral, como um guardião espiritual, no limiar entre a luz e a sombra, simbolizando proteção."
-autor: "Cecília Aranha"
+slug: sonhar-com-cachorro-significado
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com cachorro
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-08-05T11:44:05Z"
+imagem_capa: /images/sonhar-com-cachorro-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Cão em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Cão: Cane corso głowa profil 493o. Registro fotográfico: Pleple2000 (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Cane_corso_g%C5%82owa_profil_493o.jpg"
 ---
 Quando um cachorro atravessa a fronteira do sono, seu latido não é um simples ruído — é um chamado. Sonhar com cachorro é, na essência, um encontro com o guardião interior: a voz do instinto, da lealdade e da proteção que habita o inconsciente. Diferente das listas genéricas que reduzem o cão a um presságio de sorte ou azar, as tradições ancestrais e a psicologia profunda reconhecem nele o psicopompo — o guia que transita entre mundos, o sentinela que guarda o limiar entre o que sabemos e o que precisamos lembrar.
 
 ## O que significa sonhar com cachorro?
 
 Sonhar com cachorro é receber a visita de um arquétipo que fala a linguagem da fidelidade e do instinto. Na experiência onírica, o cão raramente é apenas um animal de estimação: ele encarna a parte mais leal da psique, aquela que protege, alerta ou, por vezes, late para que o ego consciente finalmente escute algo que vem sendo ignorado. Como mergulhamos em nosso [guia completo sobre a interpretação espiritual dos sonhos com animais](/posts/sonhos-com-animais-significado-interpretar/), cada criatura que nos visita durante o sono carrega uma assinatura simbólica própria — e o cachorro, domesticado a partir do lobo selvagem, simboliza o instinto que a humanidade aprendeu a acolher, mas que nunca deixou de ser um guardião atento às travessias da alma.
+
+<figure class="post-inline-figure">
+  <img src="/images/sonhar-com-cachorro-significado.jpg" alt="Representação artística simbólica de Cão" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Cão no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que o cão é visto como guardião do limiar em tantas culturas?
 
