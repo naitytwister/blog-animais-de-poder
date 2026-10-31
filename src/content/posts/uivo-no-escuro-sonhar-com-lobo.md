@@ -1,15 +1,17 @@
 ---
 title: "O Uivo no Escuro da Noite: O Que Significa Sonhar com Lobo?"
-description: "Sonhar com lobo é um chamado do inconsciente para escutar o que ficou esquecido no escuro. Entenda o uivo como ponte entre o consciente e o inconsciente."
-slug: "uivo-no-escuro-sonhar-com-lobo"
-subnicho: "sonhos-e-sinais"
-palavra_chave: "o que significa sonhar com lobo"
-tipo: "cluster"
-pilar_slug: "sonhos-com-animais-significado-interpretar"
-data: '2026-09-06T14:37:43Z'
-imagem_capa: "/images/uivo-no-escuro-sonhar-com-lobo.jpg"
-imagem_alt: "Lobo cinzento uivando sob a lua cheia em uma floresta noturna, simbolizando o chamado do inconsciente nos sonhos."
-autor: "Cecília Aranha"
+description: Sonhar com lobo é um chamado do inconsciente para escutar o que ficou esquecido no escuro. Entenda o uivo como ponte entre o consciente e o inconsciente.
+slug: uivo-no-escuro-sonhar-com-lobo
+subnicho: sonhos-e-sinais
+palavra_chave: o que significa sonhar com lobo
+tipo: cluster
+pilar_slug: sonhos-com-animais-significado-interpretar
+data: "2026-09-06T14:37:43Z"
+imagem_capa: /images/uivo-no-escuro-sonhar-com-lobo-documental.jpg
+imagem_alt: Registro fotográfico documental de Lobo em habitat natural
+autor: Cecília Aranha
+imagem_legenda: "Fotografia documental de Lobo: Scandinavian grey wolf Canis lupus. Registro fotográfico: Malene Thyssen (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Scandinavian_grey_wolf_Canis_lupus.jpg"
 ---
 Na leitura simbólica dos sonhos, o lobo não aparece para assustar. Em diversas tradições ancestrais, acredita-se que esse animal surge como imagem de um chamado interior, convidando a revisitar o que ficou esquecido na noite da psique. Como mostramos no nosso [guia sobre o que os animais querem dizer quando aparecem nos sonhos](/posts/sonhos-com-animais-significado-interpretar/), cada bicho toca a psique de um jeito próprio. O lobo vem pelo uivo, não pela presença física — e é aí que mora o seu mistério. Este texto não oferece aconselhamento psicológico; é um mergulho em sentidos culturais e simbólicos.
 
@@ -20,6 +22,11 @@ Na tradição de povos originários norte-americanos, acredita-se que o uivo do 
 Para esses povos, o lobo é tratado como irmão, não como fera distante. Com ele se aprende a cooperar, a respeitar a sabedoria dos mais velhos e a cuidar da família. Essa mesma sabedoria, segundo as narrativas tradicionais, manifesta-se no sonho: o uivo do lobo não ameaça, orienta. Quando o animal solta a voz na noite, ele representa a união do que estava apartado — o princípio masculino e o feminino, a ação e a intuição, o Avô Sol e a Avó Lua. O uivo, nessa leitura, é a costura entre o que o dia desfez e o que a noite pode reconstruir.
 
 Na mitologia nórdica, os lobos Skoll e Hati perseguem o Sol e a Lua, anunciando, simbolicamente, a tensão entre a ordem e o caos. Essa imagem ancestral ecoa no sonho: o uivo não é apenas um som, mas um sinal de que algo oculto pede passagem. Na leitura simbólica, a Lua é o território desse encontro. O lobo que uiva sob a Lua, nas tradições que associam o animal ao astro noturno, não está apenas marcando presença; ele mergulha o sonhador naquilo que a superfície do consciente insiste em não ver. Medos, padrões antigos e tristezas guardadas sobem à tona não para ferir, mas para serem reconhecidos. O lobo enxerga bem no escuro — e, simbolicamente, empresta essa visão noturna a quem sonha.
+
+<figure class="post-inline-figure">
+  <img src="/images/uivo-no-escuro-sonhar-com-lobo.jpg" alt="Representação artística simbólica de Lobo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Lobo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual a diferença entre o lobo do sonho e o lobo-totem?
 
