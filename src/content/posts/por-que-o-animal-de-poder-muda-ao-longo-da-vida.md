@@ -9,7 +9,7 @@ pilar_slug: "o-que-e-animal-de-poder"
 data: "2026-10-28T17:39:24Z"
 imagem_capa: "/images/por-que-o-animal-de-poder-muda-ao-longo-da-vida.jpg"
 imagem_alt: "Paisagem simbólica com quatro estações e animais de poder representando a travessia da alma"
-autor: "Cecilia Aranha"
+autor: "Cecília Aranha"
 ---
 O animal de poder muda ao longo da vida porque cada travessia pede uma medicina simbólica específica, e nenhuma alma atravessa o deserto com a mesma pele do início. Em chave simbólica, você não carrega um animal de poder para sempre; carrega um para cada estação. O desencontro nasce quando insistimos em segurar um espírito que já trocou de pele, como a serpente abandona a capa antiga para continuar viva.
 
