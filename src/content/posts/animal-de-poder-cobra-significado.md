@@ -1,15 +1,17 @@
 ---
 title: "Pele que Fica: Significado da Cobra como Animal de Poder"
 description: "Entenda o significado da cobra como animal de poder: transmutação, cura pelo veneno e renascimento contínuo nas tradições ancestrais e amazônicas."
-slug: "animal-de-poder-cobra-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "animal de poder cobra significado"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
+slug: animal-de-poder-cobra-significado
+subnicho: enciclopedia-animal
+palavra_chave: animal de poder cobra significado
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-05T19:15:27Z"
-imagem_capa: "/images/animal-de-poder-cobra-significado.jpg"
-imagem_alt: "Cobra em processo de troca de pele, símbolo de renovação e transmutação espiritual"
-autor: "Cecilia Aranha"
+imagem_capa: /images/animal-de-poder-cobra-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Serpente em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Serpente: The Grass Snake - Natrix natrix. Registro fotográfico: Darius Bauzys (CC BY 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
 ---
 Em muitas tradições ancestrais, a cobra é reconhecida como animal de poder ligado à transmutação: trocar de pele, transformar o que fere em lucidez e renascer sem negar a morte. Não é um símbolo de perigo, mas de regeneração instintiva e escuta do que fica oculto. Se a serpente cruza seu caminho — em sonho ou no mundo —, ela pode ser vista como um convite para refletir sobre o que já não está em harmonia com o momento presente.
 
@@ -20,6 +22,11 @@ A serpente é associada, em diversas culturas, à morte simbólica do que já n�
 Na tradição dos povos Hopi, a dança anual da cobra unia o espírito do Céu e o do Submundo para renovar a fertilidade da terra, soltando as serpentes vivas nos campos ao final do ritual. Em Creta minoica, a Deusa-mãe segurava cobras como guardiãs dos mistérios de nascimento e regeneração; o réptil era visto como o cordão umbilical que ligava os humanos à Mãe Terra.
 
 O ouroboros egípcio, a serpente que morde a própria cauda, carrega a imagem do retorno eterno; na mitologia nórdica, Jormungandr circunda o mundo com essa mesma continuidade. Na alquimia e no hinduísmo, a kundalini adormecida na base da coluna é descrita como serpente que sobe para despertar a consciência espiritual. O caduceu de Hermes e o bastão de Asclépio confirmam o arquétipo: o réptil também é associado à cura, em sentido simbólico e mitológico.
+
+<figure class="post-inline-figure">
+  <img src="/images/animal-de-poder-cobra-significado.jpg" alt="Representação artística simbólica de Serpente" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Serpente no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que a troca de pele da serpente nos ensina sobre deixar ir?
 
