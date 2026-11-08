@@ -1,15 +1,17 @@
 ---
 title: "A Caverna Interior: O que Significa o Urso como Animal de Poder"
-description: "O urso como animal de poder ensina o recolhimento, a cura e o renascimento interior. Entenda a sabedoria da caverna e do inverno da alma."
-slug: "urso-animal-de-poder-caverna-interior"
-subnicho: "enciclopedia-animal"
-palavra_chave: "urso animal de poder significado"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
+description: O urso como animal de poder ensina o recolhimento, a cura e o renascimento interior. Entenda a sabedoria da caverna e do inverno da alma.
+slug: urso-animal-de-poder-caverna-interior
+subnicho: enciclopedia-animal
+palavra_chave: urso animal de poder significado
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-07T17:10:56Z"
-imagem_capa: "/images/urso-animal-de-poder-caverna-interior.jpg"
-imagem_alt: "Urso em frente a uma caverna, símbolo do recolhimento e do renascimento interior"
-autor: "Cecilia Aranha"
+imagem_capa: /images/urso-animal-de-poder-caverna-interior-documental.jpg
+imagem_alt: Registro fotográfico documental de Urso em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Urso: Closeup kodiak bear hamburg. Registro fotográfico: LadyofHats (Public domain)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Closeup_kodiak_bear_hamburg.JPG"
 ---
 Quando o urso cruza seu caminho — em sonho, em pensamento repetido ou numa sincronicidade — ele não pede pressa. Ele pede descida. O urso como animal de poder carrega a medicina do recolhimento profundo: a coragem de entrar na própria caverna, digerir as experiências e renascer. Diferente do lobo, que se cura na alcateia, o urso ensina a travessia solitária do inverno da alma. Se essa imagem te convoca, talvez seja hora de silenciar e escutar.
 
@@ -22,6 +24,11 @@ Não é metáfora isolada. Entre os Ainu, o ritual do urso celebrava o retorno d
 O urso como animal de poder significa força, proteção e acolhimento — e, sobretudo, a sabedoria do recolhimento. Sua força não se impõe: nasce da capacidade de descer ao próprio mundo interno, digerir experiências e retornar renovado. Na visão xamânica, o urso é o mestre da caverna interior. Ele ensina que há um tempo para agir e um tempo para se retirar; um tempo para estar com a alcateia e outro para a solidão sagrada. Sua medicina é a introversão que transforma. Quando o urso aparece, convida a estabelecer limites, proteger a própria energia e escutar as necessidades do corpo e do espírito. Não se trata de fuga, mas de recolhimento necessário: a descida à caverna não é fim, é gestação. O urso não teme o escuro; atravessa-o com a paciência de quem sabe que a primavera chega. Esse é o significado essencial: a coragem de pausar para renascer.
 
 Nessa travessia, o contraste com o [lobo, animal de poder da lealdade e da alcateia](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), fica claro: o lobo se fortalece no grupo; o urso, na descida solitária.
+
+<figure class="post-inline-figure">
+  <img src="/images/urso-animal-de-poder-caverna-interior.jpg" alt="Representação artística simbólica de Urso" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Urso no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que a hibernação do urso ensina sobre o recolhimento interior?
 
