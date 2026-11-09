@@ -1,15 +1,17 @@
 ---
 title: "A Aranha Que Adia o Fim do Mundo: O Que Significa a Aranha como Animal de Poder"
-description: "A aranha como animal de poder ensina a tecer o destino com paciência e criatividade. Explore os simbolismos de Grandmother Spider, Aracne e Anansi."
-slug: "aranha-animal-de-poder-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "aranha animal de poder significado"
-tipo: "cluster"
-pilar_slug: "animal-de-poder-cobra-significado"
+description: A aranha como animal de poder ensina a tecer o destino com paciência e criatividade. Explore os simbolismos de Grandmother Spider, Aracne e Anansi.
+slug: aranha-animal-de-poder-significado
+subnicho: enciclopedia-animal
+palavra_chave: aranha animal de poder significado
+tipo: cluster
+pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-08T17:24:39Z"
-imagem_capa: "/images/aranha-animal-de-poder-significado.jpg"
-imagem_alt: "Aranha tecendo uma teia ao amanhecer, representando o animal de poder e a tecelagem do destino"
-autor: "Cecilia Aranha"
+imagem_capa: /images/aranha-animal-de-poder-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Aranha em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Aranha: Wasp and spider 02. Registro fotográfico: Tony Wills (CC BY 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Wasp_and_spider_02.jpg"
 ---
 Quando a aranha cruza o seu caminho, no simbolismo dos povos originários ela traz um convite: assumir o tear da própria vida. No xamanismo e nas tradições ancestrais, a aranha como animal de poder significa a tecelã do destino — aquela que transforma fios soltos em uma teia de sentido, com paciência, precisão e criatividade. Ela não luta contra o caos; ela o organiza em silêncio. Se esse ser o visita, talvez seja o momento de reconhecer que você também é arquiteto da sua realidade.
 
@@ -18,6 +20,11 @@ Quando a aranha cruza o seu caminho, no simbolismo dos povos originários ela tr
 A aranha como animal de poder representa a tecelagem consciente do destino. Ela ensina que cada fio da vida — escolhas, relações, pensamentos — compõe uma teia coerente. Sua presença sugere criatividade paciente e atenção às conexões invisíveis. Em vez de reagir ao caos, a aranha inspira a organizar a própria história com intenção.
 
 Em síntese, a aranha ensina a tecer com paciência e consciência das conexões. Suas oito pernas lembram o infinito e a repetição criadora, transformando espera em estratégia e caos em ordem provisória.
+
+<figure class="post-inline-figure">
+  <img src="/images/aranha-animal-de-poder-significado.jpg" alt="Representação artística simbólica de Aranha" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Aranha no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual é a origem mitológica da aranha como tecelã do destino?
 
