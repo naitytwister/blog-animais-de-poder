@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-07T17:10:56Z"
 imagem_capa: /images/urso-animal-de-poder-caverna-interior-documental.jpg
 imagem_alt: Registro fotográfico documental de Urso em habitat natural
-autor: Cecilia Aranha
+autor: 'Cecília Aranha'
 imagem_legenda: "Fotografia documental de Urso: Closeup kodiak bear hamburg. Registro fotográfico: LadyofHats (Public domain)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Closeup_kodiak_bear_hamburg.JPG"
 ---

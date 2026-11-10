@@ -9,7 +9,7 @@ pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-05T19:15:27Z"
 imagem_capa: /images/animal-de-poder-cobra-significado-documental.jpg
 imagem_alt: Registro fotográfico documental de Serpente em habitat natural
-autor: Cecilia Aranha
+autor: 'Cecília Aranha'
 imagem_legenda: "Fotografia documental de Serpente: The Grass Snake - Natrix natrix. Registro fotográfico: Darius Bauzys (CC BY 3.0)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:The_Grass_Snake_-_Natrix_natrix.jpg"
 ---

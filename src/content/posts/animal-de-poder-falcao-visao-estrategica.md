@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: "2026-11-03T18:50:46Z"
 imagem_capa: "/images/animal-de-poder-falcao-visao-estrategica.jpg"
 imagem_alt: "Falcão em voo com as asas abertas contra o céu dourado, representando a visão estratégica como animal de poder"
-autor: "Cecilia Aranha"
+autor: 'Cecília Aranha'
 ---
 O falcão não vê mais longe do que você — ele vê o que importa antes de o tempo chegar. Como animal de poder, o falcão carrega a medicina da visão estratégica: enxergar o detalhe essencial a grande distância, eleger um único alvo e mergulhar no instante exato. Você não precisa dominar o céu inteiro; basta reconhecer o ponto onde a vida pede sua presença e agir como se o horizonte estivesse inteiro no seu olhar.
 

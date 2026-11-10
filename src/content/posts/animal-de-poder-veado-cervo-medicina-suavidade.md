@@ -9,7 +9,7 @@ pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
 data: "2026-10-29T17:47:24Z"
 imagem_capa: "/images/animal-de-poder-veado-cervo-medicina-suavidade.jpg"
 imagem_alt: "Veado com galhadas irradiando luz suave em uma floresta ancestral, representando a medicina da suavidade e da regeneração"
-autor: "Cecilia Aranha"
+autor: 'Cecília Aranha'
 ---
 Existe uma força que atravessa a floresta inteira sem quebrar um único galho. Ela não ruge, não domina, não impõe — e, ainda assim, diante dela, até o medo se deita. Essa força tem nome: é a medicina do veado, a suavidade que vence sem ferir. O veado como animal de poder é o espelho de uma firmeza sensível, capaz de escutar antes de agir, ceder para regenerar e proteger o território sem alarde. Talvez você já tenha sentido essa presença nos momentos em que a pressa cedeu lugar à escuta.
 

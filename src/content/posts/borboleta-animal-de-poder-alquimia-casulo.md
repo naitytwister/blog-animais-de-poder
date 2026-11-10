@@ -9,7 +9,7 @@ pilar_slug: "animal-de-poder-cobra-significado"
 data: "2026-11-09T21:46:11Z"
 imagem_capa: "/images/borboleta-animal-de-poder-alquimia-casulo.jpg"
 imagem_alt: "Borboleta saindo do casulo, símbolo da morte iniciática e do renascimento no xamanismo"
-autor: "Cecilia Aranha"
+autor: 'Cecília Aranha'
 ---
 Quando algo em você parece prestes a ruir, uma pergunta sussurra sob a pele: o que significa a borboleta como animal de poder? Ela não pede apenas que você mude. Convida a uma morte iniciática, em que a lagarta se desfaz quase por inteiro antes de se recompor em asas. Se busca identificar qual animal te acompanha agora, faça o [teste oficial do site](https://animotem.com/quiz/animal-de-poder/) depois desta leitura.
 

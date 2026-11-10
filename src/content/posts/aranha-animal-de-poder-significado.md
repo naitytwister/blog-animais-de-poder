@@ -9,7 +9,7 @@ pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-08T17:24:39Z"
 imagem_capa: /images/aranha-animal-de-poder-significado-documental.jpg
 imagem_alt: Registro fotográfico documental de Aranha em habitat natural
-autor: Cecilia Aranha
+autor: 'Cecília Aranha'
 imagem_legenda: "Fotografia documental de Aranha: Wasp and spider 02. Registro fotográfico: Tony Wills (CC BY 2.5)."
 imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Wasp_and_spider_02.jpg"
 ---
