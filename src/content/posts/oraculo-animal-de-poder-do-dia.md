@@ -9,7 +9,7 @@ pilar_slug: "guia-definitivo-animais-poder-signo-zodiaco"
 data: "2026-11-04T19:04:28Z"
 imagem_capa: "/images/oraculo-animal-de-poder-do-dia.jpg"
 imagem_alt: "Pássaro em voo na luz da manhã, símbolo da mensagem animal do dia"
-autor: "Cecilia Aranha"
+autor: 'Cecília Aranha'
 ---
 Para receber a mensagem do reino animal para hoje, não é preciso descobrir um totem permanente nem possuir um baralho físico. O oráculo animal de poder do dia é um gesto de escuta: ao despertar, você se abre para o mensageiro passageiro que entrega a lição que o agora pede. O recado muda a cada manhã, porque o instante também muda. Amanhã não existe nesse rito — existe apenas a natureza que fala agora.
 
