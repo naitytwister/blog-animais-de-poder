@@ -1,15 +1,17 @@
 ---
 title: "Borboleta como Animal de Poder: A Alquimia do Casulo e o Renascimento"
 description: "A borboleta como animal de poder simboliza a morte iniciática: dissolver-se no casulo para renascer inteiro. Entenda a medicina da alma e da ancestralidade."
-slug: "borboleta-animal-de-poder-alquimia-casulo"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa a borboleta como animal de poder"
-tipo: "cluster"
-pilar_slug: "animal-de-poder-cobra-significado"
+slug: borboleta-animal-de-poder-alquimia-casulo
+subnicho: enciclopedia-animal
+palavra_chave: o que significa a borboleta como animal de poder
+tipo: cluster
+pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-09T21:46:11Z"
-imagem_capa: "/images/borboleta-animal-de-poder-alquimia-casulo.jpg"
-imagem_alt: "Borboleta saindo do casulo, símbolo da morte iniciática e do renascimento no xamanismo"
-autor: "Cecilia Aranha"
+imagem_capa: /images/borboleta-animal-de-poder-alquimia-casulo-documental.jpg
+imagem_alt: Registro fotográfico documental de Borboleta em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Borboleta: Charaxes brutus natalensis. Registro fotográfico: Muhammad Mahdi Karim (GFDL 1.2)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Charaxes_brutus_natalensis.jpg"
 ---
 Quando algo em você parece prestes a ruir, uma pergunta sussurra sob a pele: o que significa a borboleta como animal de poder? Ela não pede apenas que você mude. Convida a uma morte iniciática, em que a lagarta se desfaz quase por inteiro antes de se recompor em asas. Se busca identificar qual animal te acompanha agora, faça o [teste oficial do site](https://animotem.com/quiz/animal-de-poder/) depois desta leitura.
 
@@ -20,6 +22,11 @@ A borboleta como animal de poder significa, nas tradições xamânicas, a traves
 Simbologia xamânica: a borboleta condensa a morte iniciática. A lagarta não se reforma; dissolve-se quase por inteiro no casulo, num processo biológico chamado histólise. Pequenas células imaginais guardam a memória do que deve vir. Do ponto de vista da psique, esse fenômeno espelha a noite escura: uma fase em que velhos papéis, nomes e convicções perdem o contorno antes de uma identidade mais inteira emergir. A medicina da borboleta não promete conforto imediato. Ela convida, simbolicamente, a não temer o casulo, a acolher o vazio como útero e a reconhecer que nada se perde, apenas se transfigura. Quem caminha com esse animal de poder, segundo as tradições, pode ser convidado a compreender que a liberdade das asas nasce de uma entrega radical ao escuro. A lagarta não voa mais alto; ela desaparece. O que emerge é outro ser, nascido da entrega ao informe. Essa é a diferença fundamental entre a borboleta e a cobra: a segunda troca de pele preservando a forma, enquanto a primeira se liquefaz antes de renascer.
 
 Essa travessia difere da [medicina da serpente](/posts/animal-de-poder-cobra-significado/), que troca de pele preservando a forma. A borboleta pede, nas leituras simbólicas, um mergulho mais radical: dissolver-se por inteiro antes de ganhar asas.
+
+<figure class="post-inline-figure">
+  <img src="/images/borboleta-animal-de-poder-alquimia-casulo.jpg" alt="Representação artística simbólica de Borboleta" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Borboleta no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que a biologia do casulo revela sobre a noite escura da alma?
 
