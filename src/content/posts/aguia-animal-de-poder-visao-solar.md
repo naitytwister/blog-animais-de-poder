@@ -1,21 +1,28 @@
 ---
 title: "O voo que rasga o céu: o que a águia ensina"
-description: "Descubra o significado profundo da águia como animal de poder — visão solar, liberdade e conexão sagrada nas tradições ancestrais."
-slug: "aguia-animal-de-poder-visao-solar"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa a águia como animal de poder"
-tipo: "cluster"
-pilar_slug: "animal-de-poder-cobra-significado"
+description: Descubra o significado profundo da águia como animal de poder — visão solar, liberdade e conexão sagrada nas tradições ancestrais.
+slug: aguia-animal-de-poder-visao-solar
+subnicho: enciclopedia-animal
+palavra_chave: o que significa a águia como animal de poder
+tipo: cluster
+pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-11T19:01:05Z"
-imagem_capa: "/images/aguia-animal-de-poder-visao-solar.jpg"
-imagem_alt: "Águia em pleno voo sob o sol, símbolo de visão ampliada e liberdade no xamanismo"
-autor: "Cecilia Aranha"
+imagem_capa: /images/aguia-animal-de-poder-visao-solar-documental.jpg
+imagem_alt: Registro fotográfico documental de Águia em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Águia: Fighting white-tailed eagles (Haliaeetus albicilla) (2). Registro fotográfico: Andreas Weith (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Fighting_white-tailed_eagles_(Haliaeetus_albicilla)_(2).jpg"
 ---
 O que significa a águia como animal de poder? Nas tradições xamânicas, a águia é a visão solar e soberana: enxerga o todo sem ilusões, voa perto do Sol sem se ofuscar e atravessa céu e terra como mensageira do sagrado. Você não encontra a águia por acaso. Ela surge quando a vida pede clareza, verdade e a coragem de ver longe. Como toda medicina animal, ela não é um totem fixo; é um espelho que a alma encontra em determinada travessia.
 
 ## O que significa a águia como animal de poder?
 
 A águia, como animal de poder, representa a visão solar, a soberania e a mediação entre o céu e a terra. Ela convida a consciência a subir, observar a própria vida de um ponto elevado e distinguir o essencial do ruído. Nas tradições dos povos originários, a águia não é apenas uma ave — é uma mensageira, guardiã de orações e presença que conecta o humano ao sagrado. Quando atravessa sonhos ou encontros repetidos, costuma sinalizar um momento de despertar simbólico. O chamado é para reconhecer os laços que limitam e assumir uma liberdade que exige responsabilidade. A águia ensina que a verdadeira força não está na agressividade, mas na capacidade de sustentar a altura com lucidez. Ela revela o propósito quando a névoa encobre o caminho e lembra que a clareza nasce do silêncio interior. Ver com nitidez é um ato de coragem: é deixar que a luz solar ilumine as sombras. A águia não oferece respostas fáceis, mas a visão necessária para atravessar o desconhecido.
+
+<figure class="post-inline-figure">
+  <img src="/images/aguia-animal-de-poder-visao-solar.jpg" alt="Representação artística simbólica de Águia" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Águia no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que a águia foi venerada como animal sagrado em tantas culturas?
 
