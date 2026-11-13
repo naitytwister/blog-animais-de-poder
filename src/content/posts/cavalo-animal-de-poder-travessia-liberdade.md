@@ -1,15 +1,17 @@
 ---
 title: "O Galope Invisível: o que significa o cavalo como animal de poder"
 description: "Descubra o que significa o cavalo como animal de poder: a medicina da travessia, do tambor à jornada xamânica, e o paradoxo da liberdade com disciplina."
-slug: "cavalo-animal-de-poder-travessia-liberdade"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o cavalo como animal de poder"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
+slug: cavalo-animal-de-poder-travessia-liberdade
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o cavalo como animal de poder
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-12T19:20:17Z"
-imagem_capa: "/images/cavalo-animal-de-poder-travessia-liberdade.jpg"
-imagem_alt: "Cavalo galopando em horizonte aberto sob céu dourado, símbolo de travessia espiritual e liberdade interior"
-autor: "Cecilia Aranha"
+imagem_capa: /images/cavalo-animal-de-poder-travessia-liberdade-documental.jpg
+imagem_alt: Registro fotográfico documental de Cavalo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Cavalo: Merfeld, Wildpferdefang -- 2014 -- 7882. Registro fotográfico: Dietmar Rabich (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Merfeld,_Wildpferdefang_--_2014_--_7882.jpg"
 ---
 O cavalo como animal de poder significa a medicina da travessia: a ponte entre o visível e o invisível, o impulso que pede movimento com direção e disciplina. Quando ele surge, pergunta para onde a alma precisa galopar agora. Não é fuga, mas coragem de nomear o caminho e percorrê-lo com presença, escutando o chamado que se esconde sob o medo e a indecisão.
 
@@ -20,6 +22,11 @@ O tambor xamânico é chamado de cavalo nas línguas turco-mongólicas porque tr
 Na lenda quirguiz de Töshtük, um cavalo falante guia o herói na recuperação da alma, mostrando que a travessia pede inteligência, não apenas força. Esse papel de condutor aparece em diversas tradições: o equino não carrega só o corpo, mas a intenção de quem o monta.
 
 Se o lobo ensina lealdade, como vimos no [guia completo sobre o lobo como animal de poder](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), o cavalo ensina a travessia. O [tambor na jornada xamânica](/posts/jornada-xamanica-tambor-animal-de-poder/) faz o cavalo correr no peito, atravessando portas.
+
+<figure class="post-inline-figure">
+  <img src="/images/cavalo-animal-de-poder-travessia-liberdade.jpg" alt="Representação artística simbólica de Cavalo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Cavalo no imaginário ancestral.</figcaption>
+</figure>
 
 ## O que Epona, Sleipnir e Pégaso ensinam sobre soberania e passagem?
 
