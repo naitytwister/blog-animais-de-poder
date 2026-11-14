@@ -1,15 +1,17 @@
 ---
 title: "Voo e Cura: O Que Significa o Beija-Flor Como Animal de Poder"
-description: "O beija-flor como animal de poder ensina leveza, cura e alegria. Conheça a medicina dessa ave sagrada na tradição guarani e andina."
-slug: "o-voo-que-apaga-o-incendio-beija-flor-animal-de-poder"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o beija-flor como animal de poder"
-tipo: "cluster"
-pilar_slug: "animal-de-poder-cobra-significado"
+description: O beija-flor como animal de poder ensina leveza, cura e alegria. Conheça a medicina dessa ave sagrada na tradição guarani e andina.
+slug: o-voo-que-apaga-o-incendio-beija-flor-animal-de-poder
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o beija-flor como animal de poder
+tipo: cluster
+pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-13T18:57:10Z"
-imagem_capa: "/images/o-voo-que-apaga-o-incendio-beija-flor-animal-de-poder.jpg"
-imagem_alt: "Beija-flor pairando no ar com asas iridescentes, gotas de néctar na ponta do bico, símbolo de leveza e cura"
-autor: "Cecilia Aranha"
+imagem_capa: /images/o-voo-que-apaga-o-incendio-beija-flor-animal-de-poder-documental.jpg
+imagem_alt: Registro fotográfico documental de Beija-flor em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Beija-flor: Colibri-thalassinus-001-edit. Registro fotográfico: Mdf, Edited by Laitche (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Colibri-thalassinus-001-edit.jpg"
 ---
 O beija-flor como animal de poder significa leveza que não foge da gravidade. É a medicina da alegria que atravessa a dor, do amor que abre corações fechados e da resiliência do pequeno diante do incêndio. Na tradição guarani, antes de qualquer símbolo, existe um gesto: o colibri carregando gotas d'água para apagar o fogo da floresta. Ele não pergunta se vai dar certo. Apenas faz a sua parte.
 
@@ -18,6 +20,11 @@ O beija-flor como animal de poder significa leveza que não foge da gravidade. �
 O beija-flor como animal de poder significa a capacidade de tocar o presente com intensidade sem se aprisionar a ele. Ele simboliza a leveza que não nega a dor, mas a atravessa com precisão, extraindo néctar até de flores efêmeras. É um convite à flexibilidade afetiva, à constância amorosa e à cura que nasce da alegria — sempre em chave simbólica e reflexiva, não como promessa de resultado.
 
 Na narrativa amazônica do Coacyaba, o primeiro beija-flor nasce da alma liberta e passa a visitar as flores. Na cosmologia andina, ele representa a esperança que renasce após a travessia. Essa ave lembra que é possível tocar o mundo sem se prender a ele, voltar ao passado sem se aprisionar e sustentar o coração aberto mesmo quando o caminho se repete. Sua presença como animal de poder fala de resiliência do pequeno diante do incêndio, um gesto silencioso de continuidade.
+
+<figure class="post-inline-figure">
+  <img src="/images/o-voo-que-apaga-o-incendio-beija-flor-animal-de-poder.jpg" alt="Representação artística simbólica de Beija-flor" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Beija-flor no imaginário ancestral.</figcaption>
+</figure>
 
 ## Qual a origem do beija-flor como mensageiro de cura e passagem?
 
