@@ -1,15 +1,17 @@
 ---
 title: "O Mistério de Sete Vidas: O que Significa o Gato como Animal de Poder"
-description: "Entenda o gato como animal de poder, guardião do limiar entre o visível e o invisível, e o que ele ensina sobre autonomia e transmutação."
-slug: "gato-animal-de-poder-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o gato como animal de poder"
-tipo: "cluster"
-pilar_slug: "animal-de-poder-cobra-significado"
+description: Entenda o gato como animal de poder, guardião do limiar entre o visível e o invisível, e o que ele ensina sobre autonomia e transmutação.
+slug: gato-animal-de-poder-significado
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o gato como animal de poder
+tipo: cluster
+pilar_slug: animal-de-poder-cobra-significado
 data: "2026-11-14T17:29:23Z"
-imagem_capa: "/images/gato-animal-de-poder-significado.jpg"
-imagem_alt: "Ilustração simbólica de um gato preto com olhos dourados brilhantes na penumbra, representando o mistério e a intuição do animal de poder"
-autor: "Cecilia Aranha"
+imagem_capa: /images/gato-animal-de-poder-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Gato em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Gato: Domestic cat felis catus. Registro fotográfico: Muhammad Mahdi Karim (GFDL)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Domestic_cat_felis_catus.jpg"
 ---
 O gato como animal de poder significa a ativação da intuição, da soberania pessoal e da capacidade de atravessar sombras sem se perder. Diferente de animais que ensinam em bando, o felino ensina a solidão fértil e a escuta profunda. No ditado brasileiro das sete vidas, há um reconhecimento ancestral: o gato carrega a simbologia do renascimento constante, do equilíbrio que se reconstrói após cada queda. Ele não se anuncia com alarde; chega como um sopro na penumbra, à espreita de quem decide ver.
 
@@ -22,6 +24,11 @@ Essa leitura remonta a um tempo em que o gato era sagrado, não doméstico. No E
 Na tradição nórdica, a deusa Freya, associada ao amor e à magia conhecida como *seidr*, tinha a carruagem puxada por gatos. Isso não era um detalhe decorativo: o gato era o animal que transitava entre mundos, carregando a sabedoria de quem enxerga com a pele e se move sem fazer ruído.
 
 Como vimos no nosso [guia sobre a cobra e o poder da renovação](/posts/animal-de-poder-cobra-significado/), a troca de pele é um símbolo de morte e renascimento. O gato partilha dessa leitura simbólica, mas por outra via: ele cai, vira o corpo no ar e aterrissa de pé. A resiliência não é teórica — é física, gravada nos reflexos.
+
+<figure class="post-inline-figure">
+  <img src="/images/gato-animal-de-poder-significado.jpg" alt="Representação artística simbólica de Gato" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Gato no imaginário ancestral.</figcaption>
+</figure>
 
 ## Por que o gato preto foi transformado em mau agouro?
 
