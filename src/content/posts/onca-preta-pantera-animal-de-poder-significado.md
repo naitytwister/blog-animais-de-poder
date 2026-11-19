@@ -1,15 +1,17 @@
 ---
 title: "A onça-preta: o que significa a pantera como animal de poder"
-description: "A pantera como animal de poder é a guardiã lunar da sombra, do silêncio e do renascimento. Entenda o significado ancestral desse arquétipo."
-slug: "onca-preta-pantera-animal-de-poder-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa a pantera como animal de poder"
-tipo: "cluster"
-pilar_slug: "animais-de-poder"
+description: A pantera como animal de poder é a guardiã lunar da sombra, do silêncio e do renascimento. Entenda o significado ancestral desse arquétipo.
+slug: onca-preta-pantera-animal-de-poder-significado
+subnicho: enciclopedia-animal
+palavra_chave: o que significa a pantera como animal de poder
+tipo: cluster
+pilar_slug: animais-de-poder
 data: "2026-11-18T19:45:24Z"
-imagem_capa: "/images/onca-preta-pantera-animal-de-poder-significado.jpg"
-imagem_alt: "Pantera negra de olhos dourados entre sombras de floresta, representando o animal de poder guardião da escuridão"
-autor: "Cecilia Aranha"
+imagem_capa: /images/onca-preta-pantera-animal-de-poder-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Onça-Pintada em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Onça-Pintada: Chapultepec Zoo - Jaguar (02). Registro fotográfico: Katie Chan (CC BY-SA 4.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Chapultepec_Zoo_-_Jaguar_(02).jpg"
 ---
 Você sente o escuro como presença ou ausência? Para a pantera como animal de poder, a escuridão não é falta de luz, mas território fértil onde a intuição enxerga sem olhos. Quando esse animal surge em sonhos ou meditações, o simbolismo aponta para a descida às camadas silenciosas de si mesmo. A pantera não promete força espetaculosa: oferece a capacidade de atravessar o medo sem apagá-lo.
 
@@ -20,6 +22,11 @@ Você sente o escuro como presença ou ausência? Para a pantera como animal de 
 A pantera como animal de poder significa a capacidade de ver no escuro e atravessar ciclos de morte e renascimento com dignidade. Ela rege a intuição profunda, a proteção invisível e a aceitação da sombra sem se deixar consumir por ela.
 
 Diferente de totens solares, a pantera atua nos bastidores da psique. Sua aparição, em leituras simbólicas, anuncia que algo precisa se despedir. Na natureza, a pantera negra é melanismo em leopardos e onças-pintadas. No Brasil, a onça-preta é a expressão viva desse arquétipo. Na mitologia Tucano, a pantera negra engolia o sol nos eclipses. Releia o [guia completo sobre animais de poder](/posts/animais-de-poder/).
+
+<figure class="post-inline-figure">
+  <img src="/images/onca-preta-pantera-animal-de-poder-significado.jpg" alt="Representação artística simbólica de Onça-Pintada" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Onça-Pintada no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos a pantera como animal de poder traz?
 
