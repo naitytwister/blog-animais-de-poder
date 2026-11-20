@@ -1,15 +1,17 @@
 ---
-title: "O que significa o elefante como animal de poder? Memória ancestral"
-description: "O elefante como animal de poder significa memória ancestral, sabedoria matriarcal e o luto como forma de continuar. Entenda mitos e psicologia."
-slug: "elefante-animal-de-poder-memoria-ancestral"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o elefante como animal de poder"
-tipo: "cluster"
-pilar_slug: "animais-de-poder"
+title: O que significa o elefante como animal de poder? Memória ancestral
+description: O elefante como animal de poder significa memória ancestral, sabedoria matriarcal e o luto como forma de continuar. Entenda mitos e psicologia.
+slug: elefante-animal-de-poder-memoria-ancestral
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o elefante como animal de poder
+tipo: cluster
+pilar_slug: animais-de-poder
 data: "2026-11-19T19:46:14Z"
-imagem_capa: "/images/elefante-animal-de-poder-memoria-ancestral.jpg"
-imagem_alt: "Elefante como animal de poder, guardião da memória ancestral e do luto sagrado"
-autor: "Cecilia Aranha"
+imagem_capa: /images/elefante-animal-de-poder-memoria-ancestral-documental.jpg
+imagem_alt: Registro fotográfico documental de Elefante em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Elefante: Elephant Kruger 2003. Registro fotográfico: Rob Hooft (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Elephant_Kruger_2003.jpg"
 ---
 O elefante como animal de poder significa memória ancestral, sabedoria matriarcal e o luto como forma de continuar. Quando essa presença surge em sua vida, ela costuma ser lida como um convite a lembrar quem veio antes e a sustentar os fios que mantêm a comunidade viva. Não se trata apenas de força ou longevidade — mas da consciência de que esquecer é morrer. Nas manadas, a anciã conduz; nos mitos, o elefante guarda o princípio. Este ensaio atravessa ciência e símbolo para refletir sobre o que essa presença pode despertar em você, sempre no campo da leitura simbólica.
 
@@ -18,6 +20,11 @@ O elefante como animal de poder significa memória ancestral, sabedoria matriarc
 O elefante aparece na mitologia como arquivista do mundo e removedor de obstáculos, guardando a função de abrir caminhos sem apagar o que já foi. Das tradições hindus ao sonho da rainha Māyā, ele carrega a continuidade como princípio. Essa raiz simbólica conecta o animal à memória e à passagem, sem conferir poderes sobrenaturais ou garantias.
 
 No hinduísmo, Ganesha é associado aos começos, à memória e à remoção de obstáculos. No budismo, o elefante branco visitou a rainha Māyā antes do nascimento de Buda, um episódio que as tradições interpretam como anúncio de um destino de grandeza. Já na África do Sul e na Costa do Marfim, presas e cabeça de elefante nos brasões nacionais simbolizam sabedoria, força, moderação e eternidade. Como vimos no [guia completo sobre animais de poder no xamanismo](/posts/animais-de-poder/), cada animal guarda uma função psíquica; o elefante guarda a continuidade.
+
+<figure class="post-inline-figure">
+  <img src="/images/elefante-animal-de-poder-memoria-ancestral.jpg" alt="Representação artística simbólica de Elefante" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Elefante no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos o elefante como animal de poder traz?
 
