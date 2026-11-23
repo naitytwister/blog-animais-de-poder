@@ -1,21 +1,28 @@
 ---
-title: "O que significa a raposa como animal de poder"
+title: O que significa a raposa como animal de poder
 description: "Descubra o significado da raposa como animal de poder: inteligência estratégica, adaptação silenciosa e a coragem de habitar a fronteira entre mundos."
-slug: "raposa-animal-de-poder-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa a raposa como animal de poder"
-tipo: "cluster"
-pilar_slug: "animais-de-poder"
+slug: raposa-animal-de-poder-significado
+subnicho: enciclopedia-animal
+palavra_chave: o que significa a raposa como animal de poder
+tipo: cluster
+pilar_slug: animais-de-poder
 data: "2026-11-22T18:50:43Z"
-imagem_capa: "/images/raposa-animal-de-poder-significado.jpg"
-imagem_alt: "Raposa com olhar atento e cauda espessa caminhando entre a mata e o campo, simbolizando a travessia entre mundos."
-autor: "Cecilia Aranha"
+imagem_capa: /images/raposa-animal-de-poder-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Raposa em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Raposa: Culpeo MC. Registro fotográfico: Christian Mehlführer, User:Chmehl (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Culpeo_MC.jpg"
 ---
 Você percebe a raposa quando o mundo pede silêncio e astúcia. No xamanismo, a raposa como animal de poder é associada à inteligência estratégica, à adaptação silenciosa e à coragem de habitar a fronteira entre o visível e o invisível. Se ela cruza seu caminho, pode ser um convite a confiar na própria sagacidade.
 
 ## Qual a origem mitológica da raposa como animal de poder?
 
 Na mitologia, a raposa une o Japão, a Europa e as Américas em torno da travessia entre mundos. No xintoísmo, as kitsune são mensageiras de Inari, figuras de transição entre o material e o espiritual. Na etimologia, “raposa” deriva de “rabo”, símbolo de equilíbrio. No Brasil, designa canídeos como o graxaim, presença que aproxima o arquétipo do cotidiano.
+
+<figure class="post-inline-figure">
+  <img src="/images/raposa-animal-de-poder-significado.jpg" alt="Representação artística simbólica de Raposa" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Raposa no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos a raposa como animal de poder traz?
 
