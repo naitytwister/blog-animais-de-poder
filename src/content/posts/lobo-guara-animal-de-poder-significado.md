@@ -1,15 +1,17 @@
 ---
-title: "O que significa o lobo-guará como animal de poder"
+title: O que significa o lobo-guará como animal de poder
 description: "O lobo-guará como animal de poder revela a solidão fértil: caminhar sozinho pelo cerrado interior enquanto se dispersa vida. Entenda sua medicina ancestral."
-slug: "lobo-guara-animal-de-poder-significado"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o lobo-guará como animal de poder"
-tipo: "cluster"
-pilar_slug: "animais-de-poder"
+slug: lobo-guara-animal-de-poder-significado
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o lobo-guará como animal de poder
+tipo: cluster
+pilar_slug: animais-de-poder
 data: "2026-11-25T20:51:41Z"
-imagem_capa: "/images/lobo-guara-animal-de-poder-significado.jpg"
-imagem_alt: "Lobo-guará solitário caminhando pelo cerrado ao entardecer, com vegetação dourada e céu alaranjado ao fundo"
-autor: "Cecilia Aranha"
+imagem_capa: /images/lobo-guara-animal-de-poder-significado-documental.jpg
+imagem_alt: Registro fotográfico documental de Lobo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Lobo: Scandinavian grey wolf Canis lupus. Registro fotográfico: Malene Thyssen (CC BY-SA 3.0)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Scandinavian_grey_wolf_Canis_lupus.jpg"
 ---
 Na leitura simbólica, o lobo-guará como animal de poder evoca a solidão que semeia. Ele não é o lobo da matilha que ensina lealdade e vínculo — é o guardião solitário do cerrado, que atravessa longas distâncias ao entardecer carregando sementes no ventre. Quando o guará surge como símbolo, sussurra: andar sozinho não é estar perdido; é distribuir vida por caminhos que ninguém mais ousa percorrer.
 
@@ -20,6 +22,11 @@ O lobo-guará (*Chrysocyon brachyurus*) é canídeo endêmico da América do Sul
 Habita campos abertos do Brasil central, Paraguai, Argentina e Bolívia. Crepuscular, caminha sozinho e demarca territórios vastos. Acasala uma vez ao ano e volta à solidão. Os guarani chamavam-no de *yaguaraçú*, nome registrado por Anchieta.
 
 Há uma lenda: o lobo foi criado forte, mas um espírito o puniu por devorar um pássaro guará. A ambiguidade entre lobo e ave sagrada ensina que a beleza selvagem precisa respeitar o intocável.
+
+<figure class="post-inline-figure">
+  <img src="/images/lobo-guara-animal-de-poder-significado.jpg" alt="Representação artística simbólica de Lobo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Lobo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos o lobo-guará como animal de poder traz?
 
