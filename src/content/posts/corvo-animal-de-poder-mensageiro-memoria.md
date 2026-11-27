@@ -1,15 +1,17 @@
 ---
 title: "Luz e sombra: o que significa o corvo como animal de poder"
-description: "Descubra o que significa o corvo como animal de poder, mensageiro do limiar entre a morte e a sabedoria no xamanismo nórdico e nas tradições do Noroeste..."
-slug: "corvo-animal-de-poder-mensageiro-memoria"
-subnicho: "enciclopedia-animal"
-palavra_chave: "o que significa o corvo como animal de poder"
-tipo: "cluster"
-pilar_slug: "lobo-animal-de-poder-protecao-alcateia-lealdade"
+description: Descubra o que significa o corvo como animal de poder, mensageiro do limiar entre a morte e a sabedoria no xamanismo nórdico e nas tradições do Noroeste...
+slug: corvo-animal-de-poder-mensageiro-memoria
+subnicho: enciclopedia-animal
+palavra_chave: o que significa o corvo como animal de poder
+tipo: cluster
+pilar_slug: lobo-animal-de-poder-protecao-alcateia-lealdade
 data: "2026-11-26T20:43:30Z"
-imagem_capa: "/images/corvo-animal-de-poder-mensageiro-memoria.jpg"
-imagem_alt: "Corvo preto em close com fundo de floresta enevoada, simbolizando o animal de poder do limiar entre a sabedoria e a sombra"
-autor: "Cecilia Aranha"
+imagem_capa: /images/corvo-animal-de-poder-mensageiro-memoria-documental.jpg
+imagem_alt: Registro fotográfico documental de Corvo em habitat natural
+autor: Cecilia Aranha
+imagem_legenda: "Fotografia documental de Corvo: Corvus-01. Registro fotográfico: Thermos (CC BY-SA 2.5)."
+imagem_fonte_url: "https://commons.wikimedia.org/wiki/File:Corvus-01.jpg"
 ---
 Ter o corvo como animal de poder é receber um chamado do limiar: entre o que termina e o que pede para nascer, entre o visível e o invisível. Ele sussurra que a sabedoria raramente chega sem a sombra a iluminar. Na tradição nórdica, guarda o pensamento e a memória; entre os povos do Noroeste Pacífico, rouba a luz e acende o primeiro sol.
 
@@ -18,6 +20,11 @@ Ter o corvo como animal de poder é receber um chamado do limiar: entre o que te
 Na mitologia nórdica, o corvo guarda o pensamento e a memória como conselheiro de Odin; no xamanismo ártico e siberiano, ele é o espírito que transita entre mundos. Já entre os povos Tlingit e Haida, o corvo-trickster rouba a luz e cria o primeiro amanhecer.
 
 Essa tríade resume o lugar do corvo na espiritualidade ancestral. Como vimos no [guia completo sobre o lobo como animal de poder](/posts/lobo-animal-de-poder-protecao-alcateia-lealdade/), o corvo é o contraponto intelectual do lobo: o lobo guarda a lealdade; o corvo, a inteligência. Odin envia Huginn e Muninn para percorrer os nove mundos: Huginn carrega o pensamento; Muninn, a memória. Na Edda Poética, Odin teme perder Muninn mais que Huginn. O voo dos corvos descreve o transe xamânico: o espírito viaja em forma de ave para reunir sabedoria em outros mundos.
+
+<figure class="post-inline-figure">
+  <img src="/images/corvo-animal-de-poder-mensageiro-memoria.jpg" alt="Representação artística simbólica de Corvo" width="800" height="800" loading="lazy" decoding="async" />
+  <figcaption>Representação artística simbólica: a medicina arquetípica de Corvo no imaginário ancestral.</figcaption>
+</figure>
 
 ## Quais ensinamentos o corvo como animal de poder oferece?
 
